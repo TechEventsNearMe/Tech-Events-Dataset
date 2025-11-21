@@ -23,17 +23,7 @@ jobs:
         run: npm install
 
       - name: Validate event files (schema)
-        run: npm run validate || true
-
-      - name: Annotate schema errors
-        if: failure()
-        run: |
-          echo "Schema validation errors detected. Annotating..."
-          jq_error_files=$(grep -Rl "Schema validation failed" . || true)
-          for f in $jq_error_files; do
-            echo "::error file=$f::Schema validation failed (see logs above)"
-          done
-          exit 1
+        run: npm run validate
 
       - name: Ensure no duplicate event files
         run: |
