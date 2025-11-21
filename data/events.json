@@ -8,10 +8,7 @@
     "country": "United Kingdom",
     "continent": "Europe",
     "website": "https://reactadvanced.com",
-    "sector": [
-      "Software Engineering",
-      "Frontend / Web Development"
-    ],
+    "sector": ["Software Engineering", "Frontend / Web Development"],
     "tags": [
       "JavaScript",
       "React",
@@ -28,20 +25,11 @@
       "react-native"
     ],
     "type": "in-person",
-    "languages": [
-      "English"
-    ],
+    "languages": ["English"],
     "frequency": "annual",
     "timezone": "Europe/London",
-    "attendee_size": {
-      "min": 800,
-      "max": 1500
-    },
-    "ticket_cost_usual": {
-      "currency": "GBP",
-      "min": 120,
-      "max": 900
-    },
+    "attendee_size": { "min": 800, "max": 1500 },
+    "ticket_cost_usual": { "currency": "GBP", "min": 120, "max": 900 },
     "organizer": {
       "name": "GitNation",
       "email": "",
