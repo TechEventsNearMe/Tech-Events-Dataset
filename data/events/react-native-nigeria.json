@@ -1,0 +1,71 @@
+{
+  "name": "React Native Nigeria Conference",
+  "year_started": 2019,
+  "number_of_events_hosted": 6,
+
+  "city": "Lagos",
+  "region": "Lagos State",
+  "country": "Nigeria",
+  "continent": "Africa",
+
+  "website": "https://reactnativenigeria.com",
+
+  "sector": [
+    "Software Engineering",
+    "Mobile Development"
+  ],
+
+  "tags": [
+    "React Native",
+    "JavaScript",
+    "Mobile Development",
+    "Cross-Platform",
+    "Expo"
+  ],
+
+  "acceptable_tags": [
+    "react-native",
+    "reactnative",
+    "javascript",
+    "mobile",
+    "mobile-development",
+    "cross-platform"
+  ],
+
+  "type": "in-perso",
+
+  "languages": [
+    "English"
+  ],
+
+  "frequency": "annual",
+
+  "timezone": "Africa/Lagos",
+
+  "attendee_size": {
+    "min": 300,
+    "max": 800
+  },
+
+  "ticket_cost_usual": {
+    "currency": "NGN",
+    "min": 0,
+    "max": 20000
+  },
+
+  "organizer": {
+    "name": "React Native Nigeria Community",
+    "email": "",
+    "twitter": "https://twitter.com/rnnigeria",
+    "website": "https://reactnativenigeria.com"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/rnnigeria",
+    "linkedin": "https://www.linkedin.com/company/react-native-nigeria",
+    "youtube": "https://www.youtube.com/@Reactnativenigeria",
+    "instagram": "https://instagram.com/rnnigeria"
+  },
+
+  "description": "React Native Nigeria is a community-driven conference focused on React Native, cross-platform mobile development, JavaScript, and the African mobile ecosystem. It brings developers together for talks, workshops, networking, and collaboration."
+}
