@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "name": "React Advanced London",
+    "year_started": 2019,
+    "number_of_events_hosted": 7,
+    "city": "London",
+    "region": "England",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "website": "https://reactadvanced.com",
+    "sector": [
+      "Software Engineering",
+      "Frontend / Web Development"
+    ],
+    "tags": [
+      "JavaScript",
+      "React",
+      "Frontend",
+      "Web Development",
+      "UI Engineering"
+    ],
+    "acceptable_tags": [
+      "react",
+      "reactjs",
+      "javascript",
+      "frontend",
+      "web",
+      "react-native"
+    ],
+    "type": "in-person",
+    "languages": [
+      "English"
+    ],
+    "frequency": "annual",
+    "timezone": "Europe/London",
+    "attendee_size": {
+      "min": 800,
+      "max": 1500
+    },
+    "ticket_cost_usual": {
+      "currency": "GBP",
+      "min": 120,
+      "max": 900
+    },
+    "organizer": {
+      "name": "GitNation",
+      "email": "",
+      "twitter": "https://twitter.com/gitnation",
+      "website": "https://gitnation.org"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/react_advanced",
+      "linkedin": "",
+      "youtube": "",
+      "instagram": ""
+    },
+    "description": "A React and frontend engineering conference featuring advanced talks, workshops, and community events."
+  }
+]
