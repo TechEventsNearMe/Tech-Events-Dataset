@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "ajv": "^8.12.0"
+  },
+  "dependencies": {
+    "ajv-formats": "^3.0.1"
   }
 }
