@@ -1,0 +1,118 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Global Tech Events Dataset Schema",
+  "type": "object",
+  "required": [
+    "name",
+    "year_started",
+    "number_of_events_hosted",
+    "city",
+    "region",
+    "country",
+    "continent",
+    "website",
+    "sector",
+    "tags",
+    "acceptable_tags",
+    "type",
+    "languages",
+    "frequency",
+    "timezone",
+    "attendee_size",
+    "ticket_cost_usual",
+    "organizer",
+    "socials",
+    "description"
+  ],
+  "properties": {
+    "name": { "type": "string" },
+
+    "year_started": { "type": "integer", "minimum": 1800 },
+
+    "number_of_events_hosted": { "type": "integer", "minimum": 0 },
+
+    "city": { "type": "string" },
+    "region": { "type": "string" },
+    "country": { "type": "string" },
+    "continent": { "type": "string" },
+
+    "website": { "type": "string", "format": "uri" },
+
+    "sector": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+
+    "acceptable_tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+
+    "type": {
+      "type": "string",
+      "enum": ["in-person", "online", "hybrid"]
+    },
+
+    "languages": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+
+    "frequency": {
+      "type": "string",
+      "enum": ["annual", "biannual", "quarterly", "one-time"]
+    },
+
+    "timezone": { "type": "string" },
+
+    "attendee_size": {
+      "type": "object",
+      "required": ["min", "max"],
+      "properties": {
+        "min": { "type": "integer", "minimum": 1 },
+        "max": { "type": "integer", "minimum": 1 }
+      }
+    },
+
+    "ticket_cost_usual": {
+      "type": "object",
+      "required": ["currency", "min", "max"],
+      "properties": {
+        "currency": { "type": "string" },
+        "min": { "type": "number", "minimum": 0 },
+        "max": { "type": "number", "minimum": 0 }
+      }
+    },
+
+    "organizer": {
+      "type": "object",
+      "required": ["name"],
+      "properties": {
+        "name": { "type": "string" },
+        "email": { "type": "string" },
+        "twitter": { "type": "string" },
+        "website": { "type": "string" }
+      }
+    },
+
+    "socials": {
+      "type": "object",
+      "properties": {
+        "twitter": { "type": "string" },
+        "linkedin": { "type": "string" },
+        "youtube": { "type": "string" },
+        "instagram": { "type": "string" }
+      }
+    },
+
+    "description": { "type": "string" }
+  }
+}

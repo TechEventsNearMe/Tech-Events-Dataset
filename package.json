@@ -1,0 +1,13 @@
+{
+  "name": "TENM",
+  "version": "1.0.0",
+  "description": "Open dataset of tech events around the world.",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "build": "node scripts/build-events-json.js",
+    "check": "npm run validate && npm run build"
+  },
+  "devDependencies": {
+    "ajv": "^8.12.0"
+  }
+}
