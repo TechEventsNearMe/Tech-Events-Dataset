@@ -9,6 +9,10 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
+| Event | City | Country | Continent | Website |
+|-------|------|---------|-----------|---------|
+| React Advanced London | London | United Kingdom | Europe | [Link](https://reactadvanced.com) |
+
 <!-- EVENTS-LIST:END -->
 
 ## Structure
