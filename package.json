@@ -5,7 +5,8 @@
   "scripts": {
     "validate": "node scripts/validate.js",
     "build": "node scripts/build-events-json.js",
-    "check": "npm run validate && npm run build"
+    "check": "npm run validate && npm run build",
+     "update-readme": "node scripts/generate-readme-events.js"
   },
   "devDependencies": {
     "ajv": "^8.12.0",

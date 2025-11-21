@@ -39,3 +39,20 @@ jobs:
           commit_message: "chore: auto-generate events.json"
           file_pattern: data/events.json
           branch: ${{ github.head_ref || github.ref_name }}
+      - name: Update README event list
+        run: npm run update-readme
+
+      - name: Commit README updates
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update README events list"
+          file_pattern: README.md
+      - name: Update README event list
+        run: npm run update-readme
+
+      - name: Commit README updates
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update README events list"
+          file_pattern: README.md
+

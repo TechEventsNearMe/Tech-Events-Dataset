@@ -6,6 +6,11 @@ Cloud, Security, Crypto, Product, Design, and more.
 
 All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 
+## 📅 Events List
+
+<!-- EVENTS-LIST:START -->
+<!-- EVENTS-LIST:END -->
+
 ## Structure
 
 - `data/events/` – one JSON file per event (**source of truth**)
