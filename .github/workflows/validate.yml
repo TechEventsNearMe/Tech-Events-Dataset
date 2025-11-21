@@ -6,14 +6,20 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write   # 👈 REQUIRED
+
 jobs:
   validate-build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
-      - name: Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 18
@@ -26,3 +32,10 @@ jobs:
 
       - name: Build events.json
         run: npm run build
+
+      - name: Commit generated events.json
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: auto-generate events.json"
+          file_pattern: data/events.json
+          branch: ${{ github.head_ref || github.ref_name }}
