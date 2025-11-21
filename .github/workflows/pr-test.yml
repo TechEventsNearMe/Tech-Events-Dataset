@@ -1,0 +1,58 @@
+name: Test Pull Request
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Validate event files (schema)
+        run: npm run validate
+
+      - name: Ensure no duplicate event files
+        run: |
+          FILES=$(ls data/events/*.json | sed 's#.*/##')
+          DUPLICATES=$(echo "$FILES" | sort | uniq -d)
+          if [ -n "$DUPLICATES" ]; then
+            echo "Duplicate event file names detected:"
+            echo "$DUPLICATES"
+            exit 1
+          fi
+          echo "No duplicate filenames found."
+
+      - name: Ensure no duplicate event names
+        run: |
+          NAMES=$(jq -r '.name' data/events/*.json)
+          DUPLICATES=$(echo "$NAMES" | sort | uniq -d)
+          if [ -n "$DUPLICATES" ]; then
+            echo "Duplicate event names detected:"
+            echo "$DUPLICATES"
+            exit 1
+          fi
+          echo "No duplicate event names found."
+
+      - name: Ensure JSON is valid
+        run: |
+          for f in data/events/*.json; do
+            if ! jq empty "$f" >/dev/null 2>&1; then
+              echo "Invalid JSON in $f"
+              exit 1
+            fi
+          done
+          echo "All JSON files are well-formatted."
