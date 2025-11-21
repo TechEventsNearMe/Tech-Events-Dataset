@@ -23,15 +23,26 @@ jobs:
         run: npm install
 
       - name: Validate event files (schema)
-        run: npm run validate
+        run: npm run validate || true
+
+      - name: Annotate schema errors
+        if: failure()
+        run: |
+          echo "Schema validation errors detected. Annotating..."
+          jq_error_files=$(grep -Rl "Schema validation failed" . || true)
+          for f in $jq_error_files; do
+            echo "::error file=$f::Schema validation failed (see logs above)"
+          done
+          exit 1
 
       - name: Ensure no duplicate event files
         run: |
           FILES=$(ls data/events/*.json | sed 's#.*/##')
           DUPLICATES=$(echo "$FILES" | sort | uniq -d)
           if [ -n "$DUPLICATES" ]; then
-            echo "Duplicate event file names detected:"
-            echo "$DUPLICATES"
+            for f in $DUPLICATES; do
+              echo "::error file=data/events/$f::Duplicate event file name"
+            done
             exit 1
           fi
           echo "No duplicate filenames found."
@@ -41,8 +52,10 @@ jobs:
           NAMES=$(jq -r '.name' data/events/*.json)
           DUPLICATES=$(echo "$NAMES" | sort | uniq -d)
           if [ -n "$DUPLICATES" ]; then
-            echo "Duplicate event names detected:"
-            echo "$DUPLICATES"
+            for name in $DUPLICATES; do
+              file=$(grep -Rl "\"name\": \"$name\"" data/events)
+              echo "::error file=$file::Duplicate event name \"$name\""
+            done
             exit 1
           fi
           echo "No duplicate event names found."
@@ -51,7 +64,7 @@ jobs:
         run: |
           for f in data/events/*.json; do
             if ! jq empty "$f" >/dev/null 2>&1; then
-              echo "Invalid JSON in $f"
+              echo "::error file=$f::Invalid JSON format"
               exit 1
             fi
           done
