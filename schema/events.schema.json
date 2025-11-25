@@ -4,15 +4,13 @@
   "type": "object",
   "required": [
     "name",
-    "year_started",
-    "number_of_events_hosted",
+    "year_started", 
     "city",
     "region",
     "country",
     "continent",
     "website",
     "sector",
-    "tags",
     "acceptable_tags",
     "type",
     "languages",
@@ -40,11 +38,6 @@
       "type": "array",
       "items": { "type": "string" },
       "minItems": 1
-    },
-
-    "acceptable_tags": {
-      "type": "array",
-      "items": { "type": "string" }
     },
 
     "type": {
