@@ -7,10 +7,10 @@
   "continent": "Africa",
   "website": "https://gdglagos.com",
   "sector": [
-    "Android",
+    "Mobile Development",
     "Firebase",
-    "Web",
-    "Cloud"
+    "Frontend / Web Development",
+    "Cloud Computing"
   ],
   "acceptable_tags": [
     "gdg",
