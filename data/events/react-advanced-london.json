@@ -1,7 +1,6 @@
 {
     "name": "React Advanced London",
     "year_started": 2019,
-    "number_of_events_hosted": 7,
     "city": "London",
     "region": "England",
     "country": "United Kingdom",
@@ -10,13 +9,6 @@
     "sector": [
         "Software Engineering",
         "Frontend / Web Development"
-    ],
-    "tags": [
-        "JavaScript",
-        "React",
-        "Frontend",
-        "Web Development",
-        "UI Engineering"
     ],
     "acceptable_tags": [
         "react",

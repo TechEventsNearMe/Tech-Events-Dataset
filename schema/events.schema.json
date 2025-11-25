@@ -29,8 +29,6 @@
 
     "year_started": { "type": "integer", "minimum": 1800 },
 
-    "number_of_events_hosted": { "type": "integer", "minimum": 0 },
-
     "city": { "type": "string" },
     "region": { "type": "string" },
     "country": { "type": "string" },
@@ -39,12 +37,6 @@
     "website": { "type": "string", "format": "uri" },
 
     "sector": {
-      "type": "array",
-      "items": { "type": "string" },
-      "minItems": 1
-    },
-
-    "tags": {
       "type": "array",
       "items": { "type": "string" },
       "minItems": 1
