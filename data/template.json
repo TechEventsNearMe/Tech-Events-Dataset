@@ -1,0 +1,65 @@
+{
+  "name": "Event Name Here",
+  "year_started": 2000,
+  "number_of_events_hosted": 0,
+
+  "city": "City Name",
+  "region": "Region/State",
+  "country": "Country Name",
+  "continent": "Continent Name",
+
+  "website": "https://example.com",
+
+  "sector": [
+    "Technology",
+    "AI"
+  ],
+
+  "tags": [
+    "conference",
+    "startup"
+  ],
+
+  "acceptable_tags": [
+    "dev",
+    "innovation",
+    "web3"
+  ],
+
+  "type": "in-person",
+
+  "languages": [
+    "English"
+  ],
+
+  "frequency": "annual",
+
+  "timezone": "UTC+0",
+
+  "attendee_size": {
+    "min": 100,
+    "max": 5000
+    },
+
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 0,
+    "max": 500
+  },
+
+  "organizer": {
+    "name": "Organizer Name",
+    "email": "contact@example.com",
+    "twitter": "https://twitter.com/example",
+    "website": "https://example.com"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/event",
+    "linkedin": "https://linkedin.com/company/event",
+    "youtube": "https://youtube.com/@event",
+    "instagram": "https://instagram.com/event"
+  },
+
+  "description": "Write a detailed description of the event here."
+}

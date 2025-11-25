@@ -14,7 +14,7 @@ Thanks for helping grow the Global Tech Events dataset 🎉
 
 2. **Use the schema**
 
-   Copy the structure from `data/events/react-advanced-london.json` and update
+   Copy the template from `data/template.json` and update
    the fields for your event.
 
 3. **Follow the rules**
@@ -36,7 +36,7 @@ This will:
 - validate each event file against schema/events.schema.json
 - rebuild data/events.json
 
-5. **Open a Pull Request**
+1. **Open a Pull Request**
 
 Describe your changes (which event(s) you added/updated) and submit.
 
