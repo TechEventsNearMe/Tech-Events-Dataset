@@ -17,7 +17,7 @@ files.forEach((file) => {
 events.sort((a, b) => a.name.localeCompare(b.name));
 
 // Build markdown table
-let markdown = `| Event | City | Country | Continent | Website |
+let markdown = `| Event | City | Country | Continent | Website / Relevant link |
 |-------|------|---------|-----------|---------|
 `;
 
