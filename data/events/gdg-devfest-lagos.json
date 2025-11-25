@@ -2,18 +2,23 @@
   "name": "GDG DevFest Lagos",
   "year_started": 2013,
   "number_of_events_hosted": 11,
-
   "city": "Lagos",
   "region": "Lagos State",
   "country": "Nigeria",
   "continent": "Africa",
-
   "website": "https://gdglagos.com",
-
-  "sector": ["Software Engineering", "Cloud", "Mobile Development"],
-
-  "tags": ["Google", "Android", "Firebase", "Cloud"],
-
+  "sector": [
+    "Android",
+    "Firebase",
+    "Web",
+    "Cloud"
+  ],
+  "tags": [
+    "Google",
+    "Android",
+    "Firebase",
+    "Cloud"
+  ],
   "acceptable_tags": [
     "gdg",
     "devfest",
@@ -23,33 +28,32 @@
     "web",
     "cloud"
   ],
-
   "type": "in-person",
-  "languages": ["English"],
+  "languages": [
+    "English"
+  ],
   "frequency": "annual",
   "timezone": "Africa/Lagos",
-
-  "attendee_size": { "min": 800, "max": 2500 },
-
+  "attendee_size": {
+    "min": 800,
+    "max": 2500
+  },
   "ticket_cost_usual": {
     "currency": "NGN",
     "min": 0,
     "max": 15000
   },
-
   "organizer": {
     "name": "GDG Lagos",
     "email": "",
     "twitter": "https://twitter.com/gdglagos",
     "website": "https://gdglagos.com"
   },
-
   "socials": {
     "twitter": "https://twitter.com/gdglagos",
     "linkedin": "",
     "youtube": "",
     "instagram": "https://instagram.com/gdglagos"
   },
-
   "description": "DevFest Lagos is a flagship GDG developer conference bringing together developers, designers and product professionals to learn about Google technologies, network and collaborate."
 }
