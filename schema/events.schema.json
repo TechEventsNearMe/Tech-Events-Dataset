@@ -4,15 +4,13 @@
   "type": "object",
   "required": [
     "name",
-    "year_started",
-    "number_of_events_hosted",
+    "year_started", 
     "city",
     "region",
     "country",
     "continent",
     "website",
     "sector",
-    "tags",
     "acceptable_tags",
     "type",
     "languages",
@@ -29,8 +27,6 @@
 
     "year_started": { "type": "integer", "minimum": 1800 },
 
-    "number_of_events_hosted": { "type": "integer", "minimum": 0 },
-
     "city": { "type": "string" },
     "region": { "type": "string" },
     "country": { "type": "string" },
@@ -42,17 +38,6 @@
       "type": "array",
       "items": { "type": "string" },
       "minItems": 1
-    },
-
-    "tags": {
-      "type": "array",
-      "items": { "type": "string" },
-      "minItems": 1
-    },
-
-    "acceptable_tags": {
-      "type": "array",
-      "items": { "type": "string" }
     },
 
     "type": {
