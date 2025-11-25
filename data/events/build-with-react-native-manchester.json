@@ -1,14 +1,14 @@
 {
-  "name": "Build With React Native",
+  "name": "Build With React Native Manchester",
   "year_started": 2024,
-  "number_of_events_hosted": 2,
+  "number_of_events_hosted": 1,
 
-  "city": "Worldwide",
-  "region": "Global",
-  "country": "Distributed",
-  "continent": "Global",
+  "city": "Manchester",
+  "region": "Greater Manchester",
+  "country": "United Kingdom",
+  "continent": "Europe",
 
-  "website": "https://buildwithreactnative.com",
+  "website": "https://buildwithreactnative.com/manchester",
 
   "sector": [
     "Mobile Development",
@@ -28,11 +28,13 @@
     "reactnative",
     "react-native",
     "expo",
+    "rn",
     "mobile-development",
-    "cross-platform"
+    "cross-platform",
+    "open-source"
   ],
 
-  "type": "online",
+  "type": "in-person",
 
   "languages": [
     "English"
@@ -40,17 +42,17 @@
 
   "frequency": "quarterly",
 
-  "timezone": "UTC",
+  "timezone": "Europe/London",
 
   "attendee_size": {
-    "min": 150,
-    "max": 600
+    "min": 10,
+    "max": 30
   },
 
   "ticket_cost_usual": {
-    "currency": "USD",
+    "currency": "GBP",
     "min": 0,
-    "max": 0
+    "max": 15
   },
 
   "organizer": {
@@ -67,5 +69,5 @@
     "instagram": ""
   },
 
-  "description": "Build With React Native is a community-driven event series focused on helping developers learn, build, and share React Native projects. The event includes hands-on workshops, builder challenges, open-source sessions, and deep dives into modern cross-platform development with React Native and Expo."
+  "description": "Build With React Native Manchester is a community-focused meetup for developers interested in React Native, Expo, cross-platform mobile development, and practical hands-on building. The event features live sessions, workshops, and collaboration opportunities for developers across the UK tech ecosystem."
 }
