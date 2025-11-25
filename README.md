@@ -9,15 +9,16 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 3**
+**Total Tech Events: 4**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
+| Build With React Native Manchester | Manchester | United Kingdom | Europe | [Link](https://buildwithreactnative.com/manchester) |
 | GDG DevFest Lagos | Lagos | Nigeria | Africa | [Link](https://gdglagos.com) |
 | React Advanced London | London | United Kingdom | Europe | [Link](https://reactadvanced.com) |
 | React Native Nigeria Conference | Lagos | Nigeria | Africa | [Link](https://reactnativenigeria.com) |
 
-<!-- EVENTS-LIST:END -->
+
 
 ## Structure
 

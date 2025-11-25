@@ -1,5 +1,44 @@
 [
   {
+    "name": "Build With React Native Manchester",
+    "year_started": 2024,
+    "number_of_events_hosted": 1,
+    "city": "Manchester",
+    "region": "Greater Manchester",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "website": "https://buildwithreactnative.com/manchester",
+    "sector": ["Mobile Development", "Software Engineering"],
+    "tags": ["react-native", "mobile", "javascript", "expo", "community"],
+    "acceptable_tags": [
+      "reactnative",
+      "react-native",
+      "expo",
+      "rn",
+      "mobile-development",
+      "cross-platform"
+    ],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "quarterly",
+    "timezone": "Europe/London",
+    "attendee_size": { "min": 10, "max": 30 },
+    "ticket_cost_usual": { "currency": "GBP", "min": 0, "max": 0 },
+    "organizer": {
+      "name": "Build With React Native Community",
+      "email": "",
+      "twitter": "https://twitter.com/buildwithrn",
+      "website": "https://buildwithreactnative.com"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/buildwithrn",
+      "linkedin": "",
+      "youtube": "",
+      "instagram": ""
+    },
+    "description": "Build With React Native Manchester is a community-focused meetup for developers interested in React Native, Expo, cross-platform mobile development, and practical hands-on building. The event features live sessions, workshops, and collaboration opportunities for developers across the UK tech ecosystem."
+  },
+  {
     "name": "GDG DevFest Lagos",
     "year_started": 2013,
     "number_of_events_hosted": 11,
