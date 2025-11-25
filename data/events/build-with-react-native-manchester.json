@@ -27,10 +27,7 @@
   "acceptable_tags": [
     "reactnative",
     "react-native",
-    "expo",
-    "rn",
-    "mobile-development",
-    "cross-platform"
+    "expo"
   ],
 
   "type": "in-person",
