@@ -2,8 +2,7 @@ name: Validate & Build Dataset
 
 on:
   push:
-    branches:
-      - main
+    branches: ["main"]
 
 permissions:
   contents: write
@@ -13,33 +12,31 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
           persist-credentials: true
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 18
 
-      - name: Install dependencies
-        run: npm install
+      - run: npm install
 
-      - name: Validate event files
-        run: npm run validate
+      - run: npm run validate
 
-      - name: Build events.json
-        run: npm run build
+      - run: npm run build
 
-      - name: Update README event list
-        run: npm run update-readme
+      - run: npm run update-readme
+
+      - name: Debug output
+        run: |
+          echo "===== events.json output ====="
+          cat data/events.json
 
       - name: Commit all automated updates
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "chore: auto-update dataset (events.json & README)"
-          file_pattern: |
-            data/events.json
-            README.md
+          commit_message: "chore: auto-update dataset"
+          file_pattern: .
+          skip_dirty_check: false
