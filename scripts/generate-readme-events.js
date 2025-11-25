@@ -45,13 +45,13 @@ if (startIndex === -1 || endIndex === -1) {
   throw new Error("Markers not found in README.md");
 }
 
-// Correct replacement (THIS FIXES THE LOOPING PROBLEM)
+// Correct replacement
 const before = readme.substring(0, startIndex + start.length);
 const after = readme.substring(endIndex + end.length);
 
-const newReadme = `${before}\n${markdown}\n${after}`;
+// FIX: Add the END tag back in
+const newReadme = `${before}\n${markdown}\n${end}\n${after}`;
 
-// Write README
 fs.writeFileSync("README.md", newReadme);
 
 console.log(`README updated with ${totalEvents} events ✔`);
