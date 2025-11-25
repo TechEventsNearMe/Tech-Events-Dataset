@@ -50,7 +50,7 @@
   "ticket_cost_usual": {
     "currency": "GBP",
     "min": 0,
-    "max": 15
+    "max": 0
   },
 
   "organizer": {
