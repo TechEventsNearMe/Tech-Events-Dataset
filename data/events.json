@@ -1,5 +1,126 @@
 [
   {
+    "name": "Build With React Native Manchester",
+    "year_started": 2024,
+    "number_of_events_hosted": 1,
+    "city": "Manchester",
+    "region": "Greater Manchester",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "website": "https://buildwithreactnative.com/manchester",
+    "sector": ["Mobile Development", "Software Engineering"],
+    "tags": ["react-native", "mobile", "javascript", "expo", "community"],
+    "acceptable_tags": [
+      "reactnative",
+      "react-native",
+      "expo",
+      "rn",
+      "mobile-development",
+      "cross-platform"
+    ],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "quarterly",
+    "timezone": "Europe/London",
+    "attendee_size": { "min": 10, "max": 30 },
+    "ticket_cost_usual": { "currency": "GBP", "min": 0, "max": 0 },
+    "organizer": {
+      "name": "Build With React Native Community",
+      "email": "",
+      "twitter": "https://twitter.com/buildwithrn",
+      "website": "https://buildwithreactnative.com"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/buildwithrn",
+      "linkedin": "",
+      "youtube": "",
+      "instagram": ""
+    },
+    "description": "Build With React Native Manchester is a community-focused meetup for developers interested in React Native, Expo, cross-platform mobile development, and practical hands-on building. The event features live sessions, workshops, and collaboration opportunities for developers across the UK tech ecosystem."
+  },
+  {
+    "name": "GDG Abuja",
+    "year_started": 2015,
+    "number_of_events_hosted": 40,
+    "city": "Abuja",
+    "region": "Federal Capital Territory",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "website": "https://gdg.community.dev/gdg-abuja",
+    "sector": ["Software Engineering", "Mobile Development"],
+    "tags": ["google", "gdg", "developers", "web", "android", "firebase"],
+    "acceptable_tags": [
+      "google",
+      "gdg",
+      "devfest",
+      "android",
+      "firebase",
+      "web",
+      "cloud",
+      "community",
+      "tech-meetup"
+    ],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "quarterly",
+    "timezone": "Africa/Lagos",
+    "attendee_size": { "min": 80, "max": 600 },
+    "ticket_cost_usual": { "currency": "NGN", "min": 0, "max": 10000 },
+    "organizer": {
+      "name": "GDG Abuja Community",
+      "email": "",
+      "twitter": "https://twitter.com/gdgabuja",
+      "website": "https://gdg.community.dev/gdg-abuja"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/gdgabuja",
+      "linkedin": "",
+      "youtube": "",
+      "instagram": "https://instagram.com/gdgabuja"
+    },
+    "description": "GDG Abuja is a Google Developer Group community that hosts meetups, workshops, tech talks, and DevFest activities focused on Google technologies including Android, Web, Firebase, Cloud, AI, and community-driven learning."
+  },
+  {
+    "name": "GDG DevFest Lagos",
+    "year_started": 2013,
+    "number_of_events_hosted": 11,
+    "city": "Lagos",
+    "region": "Lagos State",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "website": "https://gdglagos.com",
+    "sector": ["Android", "Firebase", "Web", "Cloud"],
+    "tags": ["Google", "Android", "Firebase", "Cloud"],
+    "acceptable_tags": [
+      "gdg",
+      "devfest",
+      "google",
+      "android",
+      "firebase",
+      "web",
+      "cloud"
+    ],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "Africa/Lagos",
+    "attendee_size": { "min": 800, "max": 2500 },
+    "ticket_cost_usual": { "currency": "NGN", "min": 0, "max": 15000 },
+    "organizer": {
+      "name": "GDG Lagos",
+      "email": "",
+      "twitter": "https://twitter.com/gdglagos",
+      "website": "https://gdglagos.com"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/gdglagos",
+      "linkedin": "",
+      "youtube": "",
+      "instagram": "https://instagram.com/gdglagos"
+    },
+    "description": "DevFest Lagos is a flagship GDG developer conference bringing together developers, designers and product professionals to learn about Google technologies, network and collaborate."
+  },
+  {
     "name": "React Advanced London",
     "year_started": 2019,
     "number_of_events_hosted": 7,
@@ -43,5 +164,44 @@
       "instagram": ""
     },
     "description": "A React and frontend engineering conference featuring advanced talks, workshops, and community events."
+  },
+  {
+    "name": "React Native Nigeria Conference",
+    "year_started": 2018,
+    "number_of_events_hosted": 6,
+    "city": "Lagos",
+    "region": "Lagos State",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "website": "https://reactnativenigeria.com",
+    "sector": ["Software Engineering", "Mobile Development"],
+    "tags": ["React Native", "Mobile Development", "Cross-Platform", "Expo"],
+    "acceptable_tags": [
+      "react-native",
+      "reactnative",
+      "javascript",
+      "mobile",
+      "mobile-development",
+      "cross-platform"
+    ],
+    "type": "hybrid",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "Africa/Lagos",
+    "attendee_size": { "min": 60, "max": 800 },
+    "ticket_cost_usual": { "currency": "NGN", "min": 0, "max": 20000 },
+    "organizer": {
+      "name": "React Native Nigeria Community",
+      "email": "contact@reactnativenigeria.com",
+      "twitter": "https://twitter.com/rnnigeria",
+      "website": "https://reactnativenigeria.com"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/rnnigeria",
+      "linkedin": "https://www.linkedin.com/company/react-native-nigeria",
+      "youtube": "https://www.youtube.com/@Reactnativenigeria",
+      "instagram": "https://instagram.com/rnnigeria"
+    },
+    "description": "React Native Nigeria is a community-driven conference focused on React Native, cross-platform mobile development, JavaScript, and the African mobile ecosystem. It brings developers together for talks, workshops, networking, and collaboration."
   }
 ]

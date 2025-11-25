@@ -1,7 +1,6 @@
 {
   "name": "GDG Abuja",
   "year_started": 2015,
-  "number_of_events_hosted": 40,
 
   "city": "Abuja",
   "region": "Federal Capital Territory",
@@ -14,7 +13,6 @@
     "Software Engineering",
     "Mobile Development"
   ],
-  
   "acceptable_tags": [
     "google",
     "gdg",
