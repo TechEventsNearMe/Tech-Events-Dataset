@@ -1,0 +1,55 @@
+{
+  "name": "WeAreDevelopers World Congress",
+  "year_started": 2015,
+  "number_of_events_hosted": 9,
+
+  "city": "Berlin",
+  "region": "Berlin",
+  "country": "Germany",
+  "continent": "Europe",
+
+  "website": "https://www.wearedevelopers.com/world-congress",
+
+  "sector": ["Software Engineering", "AI", "Cloud"],
+
+  "tags": ["developers", "software", "ai", "cloud", "devops"],
+
+  "acceptable_tags": [
+    "developers",
+    "software",
+    "backend",
+    "frontend",
+    "devops",
+    "cloud",
+    "ai"
+  ],
+
+  "type": "in-person",
+  "languages": ["English"],
+  "frequency": "annual",
+  "timezone": "Europe/Berlin",
+
+  "attendee_size": { "min": 5000, "max": 15000 },
+
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 99,
+    "max": 699
+  },
+
+  "organizer": {
+    "name": "WeAreDevelopers GmbH",
+    "email": "",
+    "twitter": "https://twitter.com/WeAreDevs",
+    "website": "https://www.wearedevelopers.com"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/WeAreDevs",
+    "linkedin": "https://linkedin.com/company/wearedevelopers",
+    "youtube": "https://youtube.com/@WeAreDevelopers",
+    "instagram": "https://instagram.com/wearedevelopers"
+  },
+
+  "description": "WeAreDevelopers World Congress is one of the largest community-driven software engineering conferences in Europe, featuring global tech leaders and multi-track developer sessions."
+}
