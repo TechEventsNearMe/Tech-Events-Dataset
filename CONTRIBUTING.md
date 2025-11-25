@@ -6,10 +6,10 @@ Thanks for helping grow the Global Tech Events dataset 🎉
 
 1. **Create a new file**
 
-   In `data/events/`, create a file named with a unique slug, e.g.:
+   In `data/events/`, create a file named with a unique slug, `<name-of-event>.json` e.g.:
 
    - `react-advanced-london.json`
-   - `aws-reinvent-las-vegas.json`
+   - `react-native-nigeria.json`
    - `jsconf-budapest.json`
 
 2. **Use the schema**
@@ -31,3 +31,21 @@ Thanks for helping grow the Global Tech Events dataset 🎉
    ```bash
    npm install
    npm run check
+   ```
+This will:
+- validate each event file against schema/events.schema.json
+- rebuild data/events.json
+
+5. **Open a Pull Request**
+
+Describe your changes (which event(s) you added/updated) and submit.
+
+## Editing an existing event
+
+- Update the corresponding file in data/events/
+
+- Run npm run check (optional)
+
+- Open a PR
+
+Do not manually edit `data/events.json` – it is auto-generated.
