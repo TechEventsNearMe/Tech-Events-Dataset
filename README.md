@@ -12,6 +12,25 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 **Total Tech Events: 3**
 
 | Event | City | Country | Continent | Website |
+|-------|------|---------|-----------|--------------------------|
+| GDG DevFest Lagos | Lagos | Nigeria | Africa | [Link](https://gdglagos.com) |
+| React Advanced London | London | United Kingdom | Europe | [Link](https://reactadvanced.com) |
+| React Native Nigeria Conference | Lagos | Nigeria | Africa | [Link](https://reactnativenigeria.com) |
+
+# Global Tech Events (Open Dataset)
+
+An open, community-maintained dataset of tech events around the world:
+conferences, summits, meetups, festivals – across sectors like AI, Web, DevOps,
+Cloud, Security, Crypto, Product, Design, and more.
+
+All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
+
+## 📅 Events List
+
+<!-- EVENTS-LIST:START -->
+**Total Tech Events: 3**
+
+| Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
 | GDG DevFest Lagos | Lagos | Nigeria | Africa | [Link](https://gdglagos.com) |
 | React Advanced London | London | United Kingdom | Europe | [Link](https://reactadvanced.com) |
