@@ -39,6 +39,48 @@
     "description": "Build With React Native Manchester is a community-focused meetup for developers interested in React Native, Expo, cross-platform mobile development, and practical hands-on building. The event features live sessions, workshops, and collaboration opportunities for developers across the UK tech ecosystem."
   },
   {
+    "name": "GDG Abuja",
+    "year_started": 2015,
+    "number_of_events_hosted": 40,
+    "city": "Abuja",
+    "region": "Federal Capital Territory",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "website": "https://gdg.community.dev/gdg-abuja",
+    "sector": ["Software Engineering", "Mobile Development"],
+    "tags": ["google", "gdg", "developers", "web", "android", "firebase"],
+    "acceptable_tags": [
+      "google",
+      "gdg",
+      "devfest",
+      "android",
+      "firebase",
+      "web",
+      "cloud",
+      "community",
+      "tech-meetup"
+    ],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "quarterly",
+    "timezone": "Africa/Lagos",
+    "attendee_size": { "min": 80, "max": 600 },
+    "ticket_cost_usual": { "currency": "NGN", "min": 0, "max": 10000 },
+    "organizer": {
+      "name": "GDG Abuja Community",
+      "email": "",
+      "twitter": "https://twitter.com/gdgabuja",
+      "website": "https://gdg.community.dev/gdg-abuja"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/gdgabuja",
+      "linkedin": "",
+      "youtube": "",
+      "instagram": "https://instagram.com/gdgabuja"
+    },
+    "description": "GDG Abuja is a Google Developer Group community that hosts meetups, workshops, tech talks, and DevFest activities focused on Google technologies including Android, Web, Firebase, Cloud, AI, and community-driven learning."
+  },
+  {
     "name": "GDG DevFest Lagos",
     "year_started": 2013,
     "number_of_events_hosted": 11,
