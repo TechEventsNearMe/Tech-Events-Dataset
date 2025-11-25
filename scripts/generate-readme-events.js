@@ -16,9 +16,14 @@ files.forEach((file) => {
 // Sort alphabetically
 events.sort((a, b) => a.name.localeCompare(b.name));
 
-// Build markdown table
-let markdown = `| Event | City | Country | Continent | Website / Relevant link |
-|-------|------|---------|-----------|---------|
+// Count total events
+const totalEvents = events.length;
+
+// Build markdown section
+let markdown = `**Total Tech Events: ${totalEvents}**\n\n`;
+
+markdown += `| Event | City | Country | Continent | Website / Relevant link |
+|-------|------|---------|-----------|--------------------------|
 `;
 
 events.forEach((ev) => {
@@ -39,4 +44,4 @@ const newReadme = `${before}\n${markdown}\n${after}`;
 
 fs.writeFileSync("README.md", newReadme);
 
-console.log("README updated with events list ✔");
+console.log(`README updated with ${totalEvents} events ✔`);
