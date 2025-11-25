@@ -18,7 +18,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | React Advanced London | London | United Kingdom | Europe | [Link](https://reactadvanced.com) |
 | React Native Nigeria Conference | Lagos | Nigeria | Africa | [Link](https://reactnativenigeria.com) |
 
-
+<!-- EVENTS-LIST:END -->
 
 ## Structure
 
