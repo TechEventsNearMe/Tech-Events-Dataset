@@ -1,8 +1,7 @@
-# Global Tech Events (Open Dataset)
+# Tech Events (Open Dataset)
 
-An open, community-maintained dataset of tech events around the world:
-conferences, summits, meetups, festivals – across sectors like AI, Web, DevOps,
-Cloud, Security, Crypto, Product, Design, and more.
+An community-maintained dataset of tech events around the world:
+conferences, summits, meetups, festivals – across sectors like AI, Web, DevOps, Cloud, Security, Crypto, Product, Design, and more.
 
 All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 
