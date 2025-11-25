@@ -1,6 +1,6 @@
 {
   "name": "React Native Nigeria Conference",
-  "year_started": 2019,
+  "year_started": 2018,
   "number_of_events_hosted": 6,
 
   "city": "Lagos",
@@ -31,7 +31,7 @@
     "cross-platform"
   ],
 
-  "type": "in-person",
+  "type": "hybrid",
 
   "languages": [
     "English"
@@ -42,7 +42,7 @@
   "timezone": "Africa/Lagos",
 
   "attendee_size": {
-    "min": 300,
+    "min": 60,
     "max": 800
   },
 
