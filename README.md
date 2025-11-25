@@ -20,6 +20,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 
 <!-- EVENTS-LIST:END -->
 
+
 ## Structure
 
 - `data/events/` – one JSON file per event (**source of truth**)
