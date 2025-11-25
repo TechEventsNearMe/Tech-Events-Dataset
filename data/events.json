@@ -84,7 +84,12 @@
     "country": "Nigeria",
     "continent": "Africa",
     "website": "https://gdglagos.com",
-    "sector": ["Android", "Firebase", "Web", "Cloud"],
+    "sector": [
+      "Mobile Development",
+      "Firebase",
+      "Frontend / Web Development",
+      "Cloud Computing"
+    ],
     "acceptable_tags": [
       "gdg",
       "devfest",
@@ -198,7 +203,7 @@
     "country": "Germany",
     "continent": "Europe",
     "website": "https://www.wearedevelopers.com/world-congress",
-    "sector": ["Software Engineering", "AI", "Cloud"],
+    "sector": ["Software Engineering", "AI", "Cloud Computing"],
     "acceptable_tags": [
       "developers",
       "software",
@@ -206,7 +211,7 @@
       "frontend",
       "devops",
       "cloud",
-      "ai"
+      "AI"
     ],
     "type": "in-person",
     "languages": ["English"],
