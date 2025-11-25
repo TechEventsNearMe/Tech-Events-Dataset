@@ -36,7 +36,7 @@ This will:
 - validate each event file against schema/events.schema.json
 - rebuild data/events.json
 
-1. **Open a Pull Request**
+5. **Open a Pull Request**
 
 Describe your changes (which event(s) you added/updated) and submit.
 
@@ -49,3 +49,27 @@ Describe your changes (which event(s) you added/updated) and submit.
 - Open a PR
 
 Do not manually edit `data/events.json` – it is auto-generated.
+
+❌ Do NOT manually edit these files
+
+These files are handled automatically by scripts and GitHub Actions:
+
+- data/events.json
+
+- README event list section
+
+Avoid modifying:
+
+- The schema files
+
+- Scripts
+
+- GitHub workflows
+
+Unless you intend to improve project infrastructure.
+
+--- 
+
+Thanks again for contributing! 🚀
+
+Your help expands the global list of tech events for everyone.

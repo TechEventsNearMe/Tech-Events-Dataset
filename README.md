@@ -24,7 +24,6 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 
 
 
-
 ## Structure
 
 - `data/events/` – one JSON file per event (**source of truth**)
@@ -34,13 +33,6 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 
 ## How to add an event
 
-1. Fork this repo
-2. Create a new file in `data/events/`, e.g. `my-cool-conf-2026.json`
-3. Copy the example from `data/events/react-advanced-london.json`
-4. Fill in all required fields
-5. Run `npm install` and `npm run check` locally (optional but recommended)
-6. Open a Pull Request
+Read our [Contribution guide](https://github.com/TechEventsNearMe/TENM/blob/main/CONTRIBUTING.md) to learn how to add an event to the dataset.
 
-GitHub Actions will validate your file against the schema.
-
-If everything is valid, a maintainer will review and merge your PR.
+Note: GitHub Actions will validate your file against the schema. If everything is valid, a maintainer will review and merge your PR.
