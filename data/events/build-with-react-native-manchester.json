@@ -1,7 +1,6 @@
 {
   "name": "Build With React Native Manchester",
   "year_started": 2024,
-  "number_of_events_hosted": 1,
 
   "city": "Manchester",
   "region": "Greater Manchester",
@@ -14,15 +13,6 @@
     "Mobile Development",
     "Software Engineering"
   ],
-
-  "tags": [
-    "react-native",
-    "mobile",
-    "javascript",
-    "expo",
-    "community"
-  ],
-
   "acceptable_tags": [
     "reactnative",
     "react-native",

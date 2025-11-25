@@ -1,7 +1,6 @@
 {
   "name": "GDG DevFest Lagos",
-  "year_started": 2013,
-  "number_of_events_hosted": 11,
+  "year_started": 2013, 
   "city": "Lagos",
   "region": "Lagos State",
   "country": "Nigeria",
@@ -11,12 +10,6 @@
     "Android",
     "Firebase",
     "Web",
-    "Cloud"
-  ],
-  "tags": [
-    "Google",
-    "Android",
-    "Firebase",
     "Cloud"
   ],
   "acceptable_tags": [
