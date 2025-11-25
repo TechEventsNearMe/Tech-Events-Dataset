@@ -12,8 +12,7 @@
 
   "sector": [
     "Mobile Development",
-    "Software Engineering",
-    "Open Source"
+    "Software Engineering"
   ],
 
   "tags": [
@@ -27,7 +26,10 @@
   "acceptable_tags": [
     "reactnative",
     "react-native",
-    "expo"
+    "expo",
+    "rn",
+    "mobile-development",
+    "cross-platform"
   ],
 
   "type": "in-person",
