@@ -1,0 +1,48 @@
+{
+    "name": "JSConf Asia",
+    "year_started": 2012,
+    "city": "Singapore",
+    "region": "Singapore",
+    "country": "Singapore",
+    "continent": "Asia",
+    "website": "https://jsconf.asia",
+    "sector": [
+        "Frontend / Web Development",
+        "JavaScript Ecosystem"
+    ],
+    "acceptable_tags": [
+        "javascript",
+        "nodejs",
+        "react",
+        "web",
+        "typescript"
+    ],
+    "type": "in-person",
+    "languages": [
+        "English"
+    ],
+    "frequency": "annual",
+    "timezone": "Asia/Singapore",
+    "attendee_size": {
+        "min": 800,
+        "max": 1800
+    },
+    "ticket_cost_usual": {
+        "currency": "SGD",
+        "min": 150,
+        "max": 600
+    },
+    "organizer": {
+        "name": "JSConf Asia Team",
+        "email": "",
+        "twitter": "https://twitter.com/jsconfasia",
+        "website": "https://jsconf.asia"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/jsconfasia",
+        "linkedin": "",
+        "youtube": "",
+        "instagram": ""
+    },
+    "description": "A leading JavaScript conference in Asia featuring global speakers and cutting-edge web topics."
+}

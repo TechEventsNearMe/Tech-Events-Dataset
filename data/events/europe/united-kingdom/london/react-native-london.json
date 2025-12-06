@@ -1,0 +1,30 @@
+{
+  "name": "React Native London",
+  "year_started": 2016,
+  "city": "London",
+  "region": "England",
+  "country": "United Kingdom",
+  "continent": "Europe",
+  "website": "https://www.meetup.com/react-native-london/",
+  "sector": ["Mobile Development", "Software Engineering"],
+  "acceptable_tags": ["reactnative", "react-native", "expo", "mobile", "javascript"],
+  "type": "in-person",
+  "languages": ["English"],
+  "frequency": "monthly",
+  "timezone": "Europe/London",
+  "attendee_size": { "min": 100, "max": 4000 },
+  "ticket_cost_usual": { "currency": "GBP", "min": 0, "max": 0 },
+  "organizer": {
+    "name": "React Native London Community",
+    "email": "",
+    "twitter": "",
+    "website": "https://www.meetup.com/react-native-london/"
+  },
+  "socials": {
+    "twitter": "",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": ""
+  },
+  "description": "Monthly meetup for React Native enthusiasts and developers in London — sharing knowledge, networking, and building mobile apps together."
+}

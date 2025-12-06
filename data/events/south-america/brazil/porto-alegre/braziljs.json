@@ -1,0 +1,49 @@
+{
+    "name": "BrazilJS Conference",
+    "year_started": 2011,
+    "city": "Porto Alegre",
+    "region": "Rio Grande do Sul",
+    "country": "Brazil",
+    "continent": "South America",
+    "website": "https://braziljs.org",
+    "sector": [
+        "Frontend / Web Development",
+        "JavaScript Ecosystem"
+    ],
+    "acceptable_tags": [
+        "javascript",
+        "web",
+        "react",
+        "nodejs",
+        "typescript"
+    ],
+    "type": "in-person",
+    "languages": [
+        "Portuguese",
+        "English"
+    ],
+    "frequency": "annual",
+    "timezone": "America/Sao_Paulo",
+    "attendee_size": {
+        "min": 1500,
+        "max": 3000
+    },
+    "ticket_cost_usual": {
+        "currency": "BRL",
+        "min": 150,
+        "max": 900
+    },
+    "organizer": {
+        "name": "BrazilJS",
+        "email": "",
+        "twitter": "https://twitter.com/braziljs",
+        "website": "https://braziljs.org"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/braziljs",
+        "linkedin": "https://www.linkedin.com/company/braziljs",
+        "youtube": "https://www.youtube.com/user/BrazilJS",
+        "instagram": "https://www.instagram.com/brazil.js"
+    },
+    "description": "One of the largest JavaScript conferences in Latin America."
+}

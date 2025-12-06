@@ -1,0 +1,48 @@
+{
+    "name": "JSConf India",
+    "year_started": 2019,
+    "city": "Bangalore",
+    "region": "Karnataka",
+    "country": "India",
+    "continent": "Asia",
+    "website": "https://jsconf.in",
+    "sector": [
+        "Frontend / Web Development",
+        "JavaScript Ecosystem"
+    ],
+    "acceptable_tags": [
+        "javascript",
+        "nodejs",
+        "react",
+        "vue",
+        "typescript"
+    ],
+    "type": "in-person",
+    "languages": [
+        "English"
+    ],
+    "frequency": "annual",
+    "timezone": "Asia/Kolkata",
+    "attendee_size": {
+        "min": 600,
+        "max": 1200
+    },
+    "ticket_cost_usual": {
+        "currency": "INR",
+        "min": 1500,
+        "max": 8000
+    },
+    "organizer": {
+        "name": "JSConf India Team",
+        "email": "",
+        "twitter": "https://twitter.com/jsconfindia",
+        "website": "https://jsconf.in"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/jsconfindia",
+        "linkedin": "",
+        "youtube": "",
+        "instagram": ""
+    },
+    "description": "India's premier JavaScript conference, featuring talks from global and local JS experts."
+}

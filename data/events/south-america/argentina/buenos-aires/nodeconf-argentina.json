@@ -1,0 +1,48 @@
+{
+    "name": "NodeConf Argentina",
+    "year_started": 2016,
+    "city": "Buenos Aires",
+    "region": "Buenos Aires",
+    "country": "Argentina",
+    "continent": "South America",
+    "website": "https://nodeconf.com.ar",
+    "sector": [
+        "Backend Development",
+        "JavaScript Ecosystem"
+    ],
+    "acceptable_tags": [
+        "nodejs",
+        "javascript",
+        "backend",
+        "web"
+    ],
+    "type": "in-person",
+    "languages": [
+        "English",
+        "Spanish"
+    ],
+    "frequency": "annual",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "attendee_size": {
+        "min": 500,
+        "max": 1200
+    },
+    "ticket_cost_usual": {
+        "currency": "ARS",
+        "min": 2000,
+        "max": 12000
+    },
+    "organizer": {
+        "name": "NodeConf Argentina Team",
+        "email": "",
+        "twitter": "https://twitter.com/nodeconfar",
+        "website": "https://nodeconf.com.ar"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/nodeconfar",
+        "linkedin": "",
+        "youtube": "",
+        "instagram": ""
+    },
+    "description": "A community-driven Node.js conference in Argentina."
+}

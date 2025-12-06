@@ -1,0 +1,49 @@
+{
+    "name": "PyCon Colombia",
+    "year_started": 2017,
+    "city": "Medellín",
+    "region": "Antioquia",
+    "country": "Colombia",
+    "continent": "South America",
+    "website": "https://www.pycon.co",
+    "sector": [
+        "Software Engineering",
+        "Data Science",
+        "Python"
+    ],
+    "acceptable_tags": [
+        "python",
+        "data",
+        "web",
+        "community"
+    ],
+    "type": "in-person",
+    "languages": [
+        "Spanish",
+        "English"
+    ],
+    "frequency": "annual",
+    "timezone": "America/Bogota",
+    "attendee_size": {
+        "min": 600,
+        "max": 1200
+    },
+    "ticket_cost_usual": {
+        "currency": "COP",
+        "min": 50000,
+        "max": 250000
+    },
+    "organizer": {
+        "name": "PyCon Colombia Team",
+        "email": "",
+        "twitter": "https://x.com/PyConColombia",
+        "website": "https://www.pycon.co"
+    },
+    "socials": {
+        "twitter": "https://x.com/pyconcolombia",
+        "linkedin": "",
+        "youtube": "https://www.youtube.com/pyconcolombia",
+        "instagram": "https://www.instagram.com/pyconcolombia/"
+    },
+    "description": "Colombia’s national Python conference with tracks across data, web, and education."
+}

@@ -1,0 +1,50 @@
+{
+    "name": "PyCon Canada",
+    "year_started": 2013,
+    "city": "Toronto",
+    "region": "Ontario",
+    "country": "Canada",
+    "continent": "North America",
+    "website": "https://pycon.ca",
+    "sector": [
+        "Software Engineering",
+        "Data Science",
+        "Python"
+    ],
+    "acceptable_tags": [
+        "python",
+        "data",
+        "ml",
+        "web",
+        "community"
+    ],
+    "type": "in-person",
+    "languages": [
+        "English",
+        "French"
+    ],
+    "frequency": "annual",
+    "timezone": "America/Toronto",
+    "attendee_size": {
+        "min": 600,
+        "max": 1200
+    },
+    "ticket_cost_usual": {
+        "currency": "CAD",
+        "min": 50,
+        "max": 300
+    },
+    "organizer": {
+        "name": "PyCon Canada Society",
+        "email": "",
+        "twitter": "https://twitter.com/pyconca",
+        "website": "https://pycon.ca"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/pyconca",
+        "linkedin": "",
+        "youtube": "",
+        "instagram": ""
+    },
+    "description": "Canada’s national Python conference with community-led talks and workshops."
+}

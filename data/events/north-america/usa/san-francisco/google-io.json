@@ -1,0 +1,49 @@
+{
+    "name": "Google I/O",
+    "year_started": 2008,
+    "city": "Mountain View",
+    "region": "California",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://io.google",
+    "sector": [
+        "Software Engineering",
+        "Mobile Development",
+        "Web"
+    ],
+    "acceptable_tags": [
+        "android",
+        "web",
+        "firebase",
+        "flutter",
+        "ai"
+    ],
+    "type": "in-person",
+    "languages": [
+        "English"
+    ],
+    "frequency": "annual",
+    "timezone": "America/Los_Angeles",
+    "attendee_size": {
+        "min": 3000,
+        "max": 7000
+    },
+    "ticket_cost_usual": {
+        "currency": "USD",
+        "min": 0,
+        "max": 1500
+    },
+    "organizer": {
+        "name": "Google",
+        "email": "",
+        "twitter": "https://twitter.com/googledevs",
+        "website": "https://developers.google.com"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/googledevs",
+        "linkedin": "https://www.linkedin.com/showcase/googledevelopers/",
+        "youtube": "https://www.youtube.com/c/GoogleDevelopers",
+        "instagram": "https://www.instagram.com/googlefordevs/"
+    },
+    "description": "Google’s annual developer event announcing updates across Android, Web, Cloud, and AI."
+}

@@ -1,0 +1,49 @@
+{
+    "name": "PyCon JP",
+    "year_started": 2011,
+    "city": "Tokyo",
+    "region": "Tokyo",
+    "country": "Japan",
+    "continent": "Asia",
+    "website": "https://www.pycon.jp",
+    "sector": [
+        "Software Engineering",
+        "Data Science",
+        "Python"
+    ],
+    "acceptable_tags": [
+        "python",
+        "data",
+        "web",
+        "machine-learning"
+    ],
+    "type": "in-person",
+    "languages": [
+        "Japanese",
+        "English"
+    ],
+    "frequency": "annual",
+    "timezone": "Asia/Tokyo",
+    "attendee_size": {
+        "min": 800,
+        "max": 1500
+    },
+    "ticket_cost_usual": {
+        "currency": "JPY",
+        "min": 5000,
+        "max": 25000
+    },
+    "organizer": {
+        "name": "PyCon JP Association",
+        "email": "",
+        "twitter": "https://twitter.com/pyconjp",
+        "website": "https://www.pycon.jp"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/pyconjp",
+        "linkedin": "",
+        "youtube": "",
+        "instagram": ""
+    },
+    "description": "Japan’s largest Python conference, with bilingual tracks and strong community participation."
+}

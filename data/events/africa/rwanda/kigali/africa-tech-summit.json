@@ -1,0 +1,49 @@
+{
+    "name": "Africa Tech Summit Kigali",
+    "year_started": 2018,
+    "city": "Kigali",
+    "region": "Kigali City",
+    "country": "Rwanda",
+    "continent": "Africa",
+    "website": "https://www.africatechsummit.com/kigali/",
+    "sector": [
+        "Startup Ecosystem",
+        "Fintech",
+        "Software Engineering"
+    ],
+    "acceptable_tags": [
+        "fintech",
+        "startups",
+        "cloud",
+        "mobile",
+        "ai"
+    ],
+    "type": "in-person",
+    "languages": [
+        "English"
+    ],
+    "frequency": "annual",
+    "timezone": "Africa/Kigali",
+    "attendee_size": {
+        "min": 800,
+        "max": 1500
+    },
+    "ticket_cost_usual": {
+        "currency": "USD",
+        "min": 200,
+        "max": 750
+    },
+    "organizer": {
+        "name": "Africa Tech Summit",
+        "email": "",
+        "twitter": "https://twitter.com/afritechsummit",
+        "website": "https://www.africatechsummit.com"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/afritechsummit",
+        "linkedin": "https://www.linkedin.com/company/africa-tech-summit/",
+        "youtube": "",
+        "instagram": "https://www.instagram.com/ats_hq/#"
+    },
+    "description": "A pan-African technology and investment summit connecting founders, developers, and investors."
+}

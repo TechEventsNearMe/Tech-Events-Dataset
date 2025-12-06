@@ -1,0 +1,49 @@
+{
+    "name": "Web Directions Summit",
+    "year_started": 2005,
+    "city": "Melbourne",
+    "region": "Victoria",
+    "country": "Australia",
+    "continent": "Oceania",
+    "website": "https://webdirections.org/summit",
+    "sector": [
+        "Frontend / Web Development",
+        "Design Systems",
+        "Accessibility"
+    ],
+    "acceptable_tags": [
+        "frontend",
+        "web",
+        "design-systems",
+        "accessibility",
+        "css"
+    ],
+    "type": "in-person",
+    "languages": [
+        "English"
+    ],
+    "frequency": "annual",
+    "timezone": "Australia/Melbourne",
+    "attendee_size": {
+        "min": 600,
+        "max": 1200
+    },
+    "ticket_cost_usual": {
+        "currency": "AUD",
+        "min": 600,
+        "max": 1400
+    },
+    "organizer": {
+        "name": "Web Directions",
+        "email": "",
+        "twitter": "",
+        "website": "https://webdirections.org"
+    },
+    "socials": {
+        "twitter": "",
+        "linkedin": "",
+        "youtube": "",
+        "instagram": ""
+    },
+    "description": "Australia’s premier web and digital product conference with tracks for engineering and design."
+}

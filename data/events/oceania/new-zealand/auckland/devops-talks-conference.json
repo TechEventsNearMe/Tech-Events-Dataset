@@ -1,0 +1,49 @@
+{
+    "name": "DevOps Talks Conference",
+    "year_started": 2017,
+    "city": "Auckland",
+    "region": "Auckland",
+    "country": "New Zealand",
+    "continent": "Oceania",
+    "website": "https://devopstalks.com",
+    "sector": [
+        "DevOps",
+        "Cloud",
+        "Software Engineering"
+    ],
+    "acceptable_tags": [
+        "devops",
+        "cloud",
+        "sre",
+        "kubernetes",
+        "observability"
+    ],
+    "type": "in-person",
+    "languages": [
+        "English"
+    ],
+    "frequency": "annual",
+    "timezone": "Pacific/Auckland",
+    "attendee_size": {
+        "min": 400,
+        "max": 900
+    },
+    "ticket_cost_usual": {
+        "currency": "NZD",
+        "min": 500,
+        "max": 1200
+    },
+    "organizer": {
+        "name": "DevOps Talks",
+        "email": "",
+        "twitter": "https://twitter.com/DevOpsTalks",
+        "website": "https://devopstalks.com"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/DevOpsTalks",
+        "linkedin": "https://www.linkedin.com/company/devops-talks-conference/",
+        "youtube": "",
+        "instagram": ""
+    },
+    "description": "A DevOps and SRE-focused conference series with editions across Australia and New Zealand."
+}

@@ -1,0 +1,30 @@
+{
+  "name": "React Day Berlin",
+  "year_started": 2018,
+  "city": "Berlin",
+  "region": "Berlin",
+  "country": "Germany",
+  "continent": "Europe",
+  "website": "https://reactday.berlin",
+  "sector": ["Frontend Development", "JavaScript"],
+  "acceptable_tags": ["react", "javascript", "webdev", "conference"],
+  "type": "in-person",
+  "languages": ["English", "German"],
+  "frequency": "annual",
+  "timezone": "Europe/Berlin",
+  "attendee_size": { "min": 400, "max": 2000 },
+  "ticket_cost_usual": { "currency": "EUR", "min": 50, "max": 300 },
+  "organizer": {
+    "name": "React Day Berlin / GitNation",
+    "email": "",
+    "twitter": "https://twitter.com/reactdayberlin",
+    "website": "https://reactday.berlin"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/reactdayberlin",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/c/ReactConferences",
+    "instagram": "https://www.instagram.com/reactday.berlin/"
+  },
+  "description": "Annual React & JavaScript conference in Berlin featuring talks, workshops, and global speakers."
+}

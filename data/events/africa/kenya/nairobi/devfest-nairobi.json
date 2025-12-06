@@ -1,0 +1,49 @@
+{
+    "name": "DevFest Nairobi",
+    "year_started": 2014,
+    "city": "Nairobi",
+    "region": "Nairobi County",
+    "country": "Kenya",
+    "continent": "Africa",
+    "website": "https://gdg.community.dev/gdg-nairobi/",
+    "sector": [
+        "Software Engineering",
+        "Cloud",
+        "Mobile Development"
+    ],
+    "acceptable_tags": [
+        "gdg",
+        "android",
+        "cloud",
+        "firebase",
+        "web"
+    ],
+    "type": "in-person",
+    "languages": [
+        "English"
+    ],
+    "frequency": "annual",
+    "timezone": "Africa/Nairobi",
+    "attendee_size": {
+        "min": 800,
+        "max": 2000
+    },
+    "ticket_cost_usual": {
+        "currency": "KES",
+        "min": 0,
+        "max": 2500
+    },
+    "organizer": {
+        "name": "GDG Nairobi",
+        "email": "",
+        "twitter": "https://twitter.com/gdgnairobi",
+        "website": "https://gdg.community.dev/gdg-nairobi/"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/gdgnairobi",
+        "linkedin": "",
+        "youtube": "",
+        "instagram": ""
+    },
+    "description": "Kenya’s flagship GDG DevFest bringing hands-on sessions and talks on Android, Cloud, and Web."
+}

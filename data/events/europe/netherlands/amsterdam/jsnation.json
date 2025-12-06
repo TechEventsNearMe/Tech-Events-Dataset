@@ -1,0 +1,49 @@
+{
+    "name": "JSNation",
+    "year_started": 2019,
+    "city": "Amsterdam",
+    "region": "North Holland",
+    "country": "Netherlands",
+    "continent": "Europe",
+    "website": "https://jsnation.com",
+    "sector": [
+        "Software Engineering",
+        "Frontend / Web Development"
+    ],
+    "acceptable_tags": [
+        "javascript",
+        "frontend",
+        "web",
+        "react",
+        "vue",
+        "nodejs"
+    ],
+    "type": "in-person",
+    "languages": [
+        "English"
+    ],
+    "frequency": "annual",
+    "timezone": "Europe/Amsterdam",
+    "attendee_size": {
+        "min": 1000,
+        "max": 2000
+    },
+    "ticket_cost_usual": {
+        "currency": "EUR",
+        "min": 150,
+        "max": 850
+    },
+    "organizer": {
+        "name": "GitNation",
+        "email": "",
+        "twitter": "https://twitter.com/gitnation",
+        "website": "https://gitnation.org"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/jsnationconf",
+        "linkedin": "",
+        "youtube": "https://www.youtube.com/JSNation",
+        "instagram": ""
+    },
+    "description": "A leading JavaScript conference in Amsterdam featuring top JS frameworks, libraries, and tools."
+}

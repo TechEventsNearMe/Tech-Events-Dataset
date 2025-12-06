@@ -1,0 +1,30 @@
+{
+  "name": "JavaScript London Meetup",
+  "year_started": 2014,
+  "city": "London",
+  "region": "England",
+  "country": "United Kingdom",
+  "continent": "Europe",
+  "website": "https://www.lafosse.com/",
+  "sector": ["Web Development", "Frontend", "Backend"],
+  "acceptable_tags": ["javascript", "webdev", "nodejs", "frontend", "backend"],
+  "type": "in-person",
+  "languages": ["English"],
+  "frequency": "monthly",
+  "timezone": "Europe/London",
+  "attendee_size": { "min": 30, "max": 300 },
+  "ticket_cost_usual": { "currency": "GBP", "min": 0, "max": 15 },
+  "organizer": {
+    "name": "La Fosse / JS London Community",
+    "email": "",
+    "twitter": "https://twitter.com/_LaFosse",
+    "website": "https://www.lafosse.com/"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/_LaFosse",
+    "linkedin": "https://www.linkedin.com/company/la-fosse/",
+    "youtube": "",
+    "instagram": "https://www.instagram.com/lafosselife/"
+  },
+  "description": "Community meetup for JavaScript and web developers in London."
+}
