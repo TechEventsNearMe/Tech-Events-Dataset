@@ -1,0 +1,62 @@
+{
+  "name": "LiverpoolJS",
+  "year_started": 2025,
+
+  "city": "Liverpool",
+  "region": "Merseyside",
+  "country": "United Kingdom",
+  "continent": "Europe",
+
+  "website": "https://www.meetup.com/liverpooljs",
+
+  "sector": [
+    "Frontend / Web Development",
+    "Software Engineering"
+  ],
+
+  "acceptable_tags": [
+    "javascript",
+    "js",
+    "frontend",
+    "web-development",
+    "typescript",
+    "nodejs"
+  ],
+
+  "type": "in-person",
+
+  "languages": [
+    "English"
+  ],
+
+  "frequency": "quarterly",
+
+  "timezone": "Europe/London",
+
+  "attendee_size": {
+    "min": 20,
+    "max": 80
+  },
+
+  "ticket_cost_usual": {
+    "currency": "GBP",
+    "min": 0,
+    "max": 0
+  },
+
+  "organizer": {
+    "name": "LiverpoolJS Community",
+    "email": "",
+    "twitter": "https://twitter.com/liverpooljs",
+    "website": "https://www.meetup.com/liverpooljs"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/liverpooljs",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": ""
+  },
+
+  "description": "LiverpoolJS is a JavaScript-focused meetup for developers in the Liverpool area. The event features talks, workshops, and community discussions around JavaScript, frontend development, Node.js, TypeScript, and the broader modern web ecosystem."
+}
