@@ -8,7 +8,11 @@
     "website": "https://gdg.community.dev/gdg-nairobi/",
     "sector": [
         "Software Engineering",
+<<<<<<< Updated upstream
         "Cloud",
+=======
+        "Cloud Computing",
+>>>>>>> Stashed changes
         "Mobile Development"
     ],
     "acceptable_tags": [
