@@ -1,0 +1,49 @@
+{
+    "name": "React India",
+    "year_started": 2019,
+    "city": "Goa",
+    "region": "Goa",
+    "country": "India",
+    "continent": "Asia",
+    "website": "https://www.reactindia.io",
+    "sector": [
+        "Software Engineering",
+        "Frontend / Web Development"
+    ],
+    "acceptable_tags": [
+        "react",
+        "reactjs",
+        "javascript",
+        "frontend",
+        "web",
+        "react-native"
+    ],
+    "type": "in-person",
+    "languages": [
+        "English"
+    ],
+    "frequency": "annual",
+    "timezone": "Asia/Calcutta",
+    "attendee_size": {
+        "min": 600,
+        "max": 1500
+    },
+    "ticket_cost_usual": {
+        "currency": "INR",
+        "min": 0,
+        "max": 17700
+    },
+    "organizer": {
+        "name": "React India Team",
+        "email": "",
+        "twitter": "https://twitter.com/react_india",
+        "website": "https://www.reactindia.io"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/react_india",
+        "linkedin": "https://www.linkedin.com/company/react-india/",
+        "youtube": "",
+        "instagram": "https://www.instagram.com/react_india/"
+    },
+    "description": "A premier React conference in India with international speakers, workshops, and community events."
+}
