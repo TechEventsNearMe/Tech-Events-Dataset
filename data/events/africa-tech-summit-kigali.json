@@ -26,7 +26,7 @@
     },
     "ticket_cost_usual": {
         "currency": "USD",
-        "min": 200,
+        "min": 0,
         "max": 750
     },
     "organizer": {
