@@ -1,0 +1,57 @@
+{
+  "name": "Mobile World Congress Barcelona",
+  "year_started": 1987,
+  "number_of_events_hosted": 37,
+  "city": "Barcelona",
+  "region": "Catalonia",
+  "country": "Spain",
+  "continent": "Europe",
+  "website": "https://www.mwcbarcelona.com/",
+  "sector": [
+    "Mobile Development",
+    "Cloud Computing",
+    "IoT",
+    "AI",
+    "Digital Transformation",
+    "FinTech"
+  ],
+  "tags": [
+    "trade show",
+    "connectivity",
+    "telecom",
+    "5G",
+    "innovation"
+  ],
+  "acceptable_tags": [
+    "innovation",
+    "tech leadership"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Madrid",
+  "attendee_size": {
+    "min": 85000,
+    "max": 110000
+  },
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 899,
+    "max": 4999
+  },
+  "organizer": {
+    "name": "GSMA",
+    "email": "sales@mwcbarcelona.com",
+    "twitter": "https://twitter.com/GSMA",
+    "website": "https://www.gsma.com/"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/MWCHub",
+    "linkedin": "https://www.linkedin.com/showcase/mwc-event/",
+    "youtube": "https://youtube.com/@MWC",
+    "instagram": "https://instagram.com/mwcbarcelona"
+  },
+  "description": "MWC Barcelona is the largest and most influential event for the global mobile ecosystem. Hosted by the GSMA, it brings together mobile operators, device manufacturers, technology providers, and innovators to discuss the future of connectivity, 5G, intelligent infrastructure, FinTech, and enterprise AI. The event features major keynote speeches, expansive exhibitions, and high-level networking. The ticket cost range reflects the difference between the standard 'Exhibition Pass' (min) and the high-end 'VIP Pass' for executives (max)."
+}
