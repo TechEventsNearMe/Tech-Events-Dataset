@@ -1,0 +1,49 @@
+{
+    "name": "Microsoft Build",
+    "year_started": 2011,
+    "city": "Seattle",
+    "region": "Washington",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://build.microsoft.com",
+    "sector": [
+        "Software Engineering",
+        "Cloud Computing",
+        "AI"
+    ],
+    "acceptable_tags": [
+        "microsoft",
+        "azure",
+        "dotnet",
+        "ai",
+        "devtools"
+    ],
+    "type": "in-person",
+    "languages": [
+        "English"
+    ],
+    "frequency": "annual",
+    "timezone": "America/Los_Angeles",
+    "attendee_size": {
+        "min": 4000,
+        "max": 10000
+    },
+    "ticket_cost_usual": {
+        "currency": "USD",
+        "min": 0,
+        "max": 1525
+    },
+    "organizer": {
+        "name": "Microsoft",
+        "email": "",
+        "twitter": "https://twitter.com/Microsoft",
+        "website": "https://www.microsoft.com"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/Microsoft",
+        "linkedin": "https://www.linkedin.com/company/microsoft/",
+        "youtube": "https://www.youtube.com/c/MicrosoftDeveloper",
+        "instagram": "https://www.instagram.com/microsoftdeveloper/"
+    },
+    "description": "Microsoft Build is the flagship developer conference by Microsoft, showcasing the latest in cloud, AI, and developer tools through keynotes, technical sessions, and hands-on labs."
+}
