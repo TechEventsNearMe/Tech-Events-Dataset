@@ -187,6 +187,36 @@
     "description": "Microsoft Build is the flagship developer conference by Microsoft, showcasing the latest in cloud, AI, and developer tools through keynotes, technical sessions, and hands-on labs."
   },
   {
+    "name": "NDC Sydney",
+    "year_started": 2016,
+    "city": "Sydney",
+    "region": "New South Wales",
+    "country": "Australia",
+    "continent": "Oceania",
+    "website": "https://ndcsydney.com",
+    "sector": ["Software Engineering", "Cloud Computing"],
+    "acceptable_tags": ["dotnet", "csharp", "cloud", "devops", "web"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "Australia/Sydney",
+    "attendee_size": { "min": 1000, "max": 2000 },
+    "ticket_cost_usual": { "currency": "AUD", "min": 200, "max": 2312 },
+    "organizer": {
+      "name": "NDC Conferences",
+      "email": "",
+      "twitter": "https://twitter.com/ndc_conferences",
+      "website": "https://ndcconferences.com"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/ndc_conferences",
+      "linkedin": "https://www.linkedin.com/company/ndc-conferences/",
+      "youtube": "https://www.youtube.com/c/NDCConferences",
+      "instagram": "https://www.instagram.com/ndc_conferences/"
+    },
+    "description": "NDC Sydney is a premier software development conference that brings together developers, engineers, and tech professionals from around the world. Covering topics such as cloud computing, DevOps, and modern web development, the event features top industry speakers, hands-on workshops, and in-depth technical sessions."
+  },
+  {
     "name": "React Advanced London",
     "year_started": 2019,
     "city": "London",
