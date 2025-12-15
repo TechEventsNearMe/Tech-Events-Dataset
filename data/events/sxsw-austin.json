@@ -1,0 +1,61 @@
+{
+  "name": "SXSW Austin",
+  "year_started": 1987,
+  "number_of_events_hosted": 40,
+  "city": "Austin",
+  "region": "Texas",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://www.sxsw.com",
+  "sector": [
+    "Software Engineering",
+    "AI",
+    "AR / VR / XR",
+    "Innovation",
+    "Mobile Development",
+    "Cloud Computing",
+    "Game Development"
+  ],
+  "tags": [
+    "interactive",
+    "technology",
+    "festivals",
+    "conference"
+  ],
+  "acceptable_tags": [
+    "sxsw",
+    "austin",
+    "interactive",
+    "tech",
+    "innovation",
+    "conference"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Chicago",
+  "attendee_size": {
+    "min": 240000,
+    "max": 260000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 625,
+    "max": 2300
+  },
+  "organizer": {
+    "name": "SXSW, LLC",
+    "email": "info@sxsw.com",
+    "twitter": "https://twitter.com/sxsw",
+    "website": "https://www.sxsw.com"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/sxsw",
+    "linkedin": "https://www.linkedin.com/company/sxsw/",
+    "youtube": "https://www.youtube.com/@sxsw",
+    "instagram": "https://www.instagram.com/sxsw/"
+  },
+  "description": "SXSW Austin is one of the world’s most influential annual tech and creative festivals, blending interactive, film, music, and emerging technology showcases. Since its first edition in 1987, SXSW has grown into a massive global gathering of innovators, developers, creators, and entrepreneurs. The conference features hundreds of sessions, workshops, expos, and networking events exploring the latest in AI, software, XR, mobile, cloud, gaming, and digital culture, drawing over 240,000 attendees to Austin each year. The event also offers a vibrant environment for startups, industry leaders, and creatives to connect and collaborate across disciplines."  
+}
