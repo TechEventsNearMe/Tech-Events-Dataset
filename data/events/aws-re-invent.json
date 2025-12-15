@@ -1,0 +1,49 @@
+{
+    "name": "AWS re:Invent",
+    "year_started": 2012,
+    "city": "Las Vegas",
+    "region": "Nevada",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://reinvent.awsevents.com",
+    "sector": [
+        "Cloud Computing",
+        "DevOps",
+        "Software Engineering"
+    ],
+    "acceptable_tags": [
+        "aws",
+        "cloud",
+        "serverless",
+        "devops",
+        "kubernetes"
+    ],
+    "type": "in-person",
+    "languages": [
+        "English"
+    ],
+    "frequency": "annual",
+    "timezone": "America/Los_Angeles",
+    "attendee_size": {
+        "min": 50000,
+        "max": 65000
+    },
+    "ticket_cost_usual": {
+        "currency": "USD",
+        "min": 0,
+        "max": 2400
+    },
+    "organizer": {
+        "name": "Amazon Web Services",
+        "email": "",
+        "twitter": "https://twitter.com/awscloud",
+        "website": "https://reinvent.awsevents.com"
+    },
+    "socials": {
+        "twitter": "https://x.com/AWScloud",
+        "linkedin": "",
+        "youtube": "https://www.youtube.com/user/AmazonWebServices",
+        "instagram": ""
+    },
+    "description": "AWS re:Invent is Amazon Web Services’ flagship cloud computing conference held annually in Las Vegas. It gathers tens of thousands of developers, engineers, architects, and business leaders for keynotes, technical sessions, hands-on labs, and networking around the latest in cloud, DevOps, AI, and more."
+}
