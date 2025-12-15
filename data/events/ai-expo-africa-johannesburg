@@ -1,0 +1,59 @@
+{
+  "name": "AI Expo Africa Johannesburg",
+  "year_started": 2018,
+  "number_of_events_hosted": 8,
+  "city": "Johannesburg",
+  "region": "Gauteng",
+  "country": "South Africa",
+  "continent": "Africa",
+  "website": "https://aiexpoafrica.com/",
+  "sector": [
+    "AI",
+    "Machine Learning",
+    "Big Data",
+    "Analytics",
+    "Cloud Computing"
+  ],
+  "tags": [
+    "ai",
+    "automation",
+    "innovation",
+    "enterprise"
+  ],
+  "acceptable_tags": [
+    "ai",
+    "expo",
+    "africa",
+    "enterprise",
+    "automation",
+    "smart tech"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Africa/Johannesburg",
+  "attendee_size": {
+    "min": 1500,
+    "max": 4000
+  },
+  "ticket_cost_usual": {
+    "currency": "ZAR",
+    "min": 900,
+    "max": 9000
+  },
+  "organizer": {
+    "name": "AI Media Group",
+    "email": "mia.muylaert@aiexpoafrica.com",
+    "twitter": "https://x.com/aiexpoafrica",
+    "website": "https://aiexpoafrica.com/"
+  },
+  "socials": {
+    "twitter": "https://x.com/aiexpoafrica",
+    "linkedin": "https://www.linkedin.com/showcase/ai-expo-africa-/", 
+    "youtube": "https://www.youtube.com/@AITVHQ", 
+    "instagram": "https://www.instagram.com/ai_expo_africa/"
+  },
+  "description": "AI Expo Africa is the largest enterprise AI, intelligent automation, and smart technology conference and trade show in Africa. It brings together thousands of enterprise buyers, suppliers, innovators, and decision‑makers with a multi‑track agenda covering artificial intelligence, automation, and smart tech solutions. The event includes keynote talks, workshops, demo exhibits, and networking sessions showcasing real‑world business applications and trends across AI, data, cloud, and automation industries in Africa and globally."  
+}
