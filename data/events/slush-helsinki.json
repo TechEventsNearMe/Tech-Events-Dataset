@@ -39,8 +39,8 @@
   "frequency": "annual",
   "timezone": "Europe/Helsinki",
   "attendee_size": {
-    "min": 25000,
-    "max": 25000
+    "min": 13000,
+    "max": 13000
   },
   "ticket_cost_usual": {
     "currency": "EUR",
