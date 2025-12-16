@@ -17,12 +17,6 @@
     "Data Science"
   ],
 
-  "tags": [
-    "conference",
-    "research",
-    "papers"
-  ],
-
   "acceptable_tags": [
     "ml",
     "ai",
@@ -37,7 +31,7 @@
 
   "frequency": "annual",
 
-  "timezone": "UTC-6",
+  "timezone": "America/Chicago",
 
   "attendee_size": {
     "min": 8000,
