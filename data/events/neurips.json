@@ -1,0 +1,70 @@
+{
+  "name": "NeurIPS",
+  "year_started": 1987,
+  "number_of_events_hosted": 37,
+
+  "city": "New Orleans",
+  "region": "Louisiana",
+  "country": "United States",
+  "continent": "North America",
+
+  "website": "https://neurips.cc",
+
+  "sector": [
+    "AI",
+    "Machine Learning",
+    "Deep Learning",
+    "Data Science"
+  ],
+
+  "tags": [
+    "conference",
+    "research",
+    "papers"
+  ],
+
+  "acceptable_tags": [
+    "ml",
+    "ai",
+    "deep-learning"
+  ],
+
+  "type": "in-person",
+
+  "languages": [
+    "English"
+  ],
+
+  "frequency": "annual",
+
+  "timezone": "UTC-6",
+
+  "attendee_size": {
+    "min": 8000,
+    "max": 13000
+  },
+
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 100,
+    "max": 1000
+  },
+
+  "organizer": {
+    "name": "NeurIPS Foundation",
+    "email": "",
+    "twitter": "https://twitter.com/NeurIPSConf",
+    "website": "https://neurips.cc"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/NeurIPSConf",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": ""
+  },
+
+  "description": "NeurIPS is a leading AI and machine learning research conference featuring peer-reviewed papers, workshops, and tutorials, with strong academic and industry participation."
+}
+   
+ 
