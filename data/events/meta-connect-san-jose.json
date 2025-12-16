@@ -1,0 +1,66 @@
+{
+  "name": "Meta Connect San Jose",
+  "year_started": 2007,
+  "number_of_events_hosted": 16,
+  "city": "San Jose",
+  "region": "California",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://about.meta.com/",
+  "sector": [
+    "AR / VR / XR",
+    "AI",
+    "Machine Learning",
+    "Frontend / Web Development",
+    "Mobile Development",
+    "UX / UI",
+    "Product Management",
+    "Cloud Computing",
+    "Innovation",
+    "Startup / Entrepreneurship"
+  ],
+  "tags": [
+    "meta",
+    "facebook",
+    "ar",
+    "vr",
+    "xr",
+    "developers"
+  ],
+  "acceptable_tags": [
+    "meta",
+    "connect",
+    "f8",
+    "vr",
+    "ar",
+    "xr"
+  ],
+  "type": "hybrid",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Los_Angeles",
+  "attendee_size": {
+    "min": 5000,
+    "max": 7000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 0,
+    "max": 1499
+  },
+  "organizer": {
+    "name": "Meta Platforms Inc.",
+    "email": "events@meta.com",
+    "twitter": "https://x.com/Meta",
+    "website": "https://about.meta.com/"
+  },
+  "socials": {
+    "twitter": "https://x.com/Meta",
+    "linkedin": "https://www.linkedin.com/company/meta/",
+    "youtube": "https://www.youtube.com/@Meta",
+    "instagram": "https://www.instagram.com/meta/"
+  },
+  "description": "Meta Connect (formerly F8) is Meta Platforms’ annual developer conference, focusing on AR, VR, XR, AI, machine learning, frontend and mobile development, UX/UI, product management, cloud computing, innovation, and startups. The conference includes keynote sessions, breakout workshops, technical labs, and networking opportunities for developers and tech enthusiasts. Attendance ranges between 5,000–7,000 in-person participants, with virtual participation worldwide, offering insights into Meta’s latest technologies and tools for building immersive experiences."
+}
