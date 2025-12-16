@@ -1,0 +1,60 @@
+{
+  "name": "Embedded World Conference",
+  "year_started": 2003,
+  "number_of_events_hosted": 23,
+
+  "city": "Nuremberg",
+  "region": "Bavaria",
+  "country": "Germany",
+  "continent": "Europe",
+
+  "website": "https://www.embedded-world.de/en",
+
+  "sector": [
+    "Embedded Systems",
+    "Hardware Engineering",
+    "IoT",
+    "Robotics"
+  ],
+
+  "tags": [
+    "conference",
+    "expo",
+    "embedded",
+    "electronics"
+  ],
+
+  "acceptable_tags": [
+    "embedded",
+    "hardware",
+    "iot"
+  ],
+
+  "type": "in-person",
+
+  "languages": ["English", "German"],
+
+  "frequency": "annual",
+
+  "timezone": "Europe/Berlin",
+
+  "attendee_size": { "min": 25000, "max": 30000 },
+
+  "ticket_cost_usual": { "currency": "EUR", "min": 0, "max": 1200 },
+
+  "organizer": {
+    "name": "NürnbergMesse GmbH",
+    "email": "",
+    "twitter": "https://twitter.com/embedded_world",
+    "website": "https://www.embedded-world.de/en"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/embedded_world",
+    "linkedin": "https://www.linkedin.com/company/embedded-world-exhibition-conference",
+    "youtube": "https://www.youtube.com/@embeddedworld",
+    "instagram": "https://www.instagram.com/embedded_world/"
+  },
+
+  "description": "Embedded World is the leading international exhibition and conference for embedded systems, bringing together engineers, developers, and industry leaders to showcase innovations in hardware, IoT, robotics, and embedded technologies."
+}
