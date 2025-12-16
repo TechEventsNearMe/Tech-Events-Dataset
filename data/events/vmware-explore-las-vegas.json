@@ -1,0 +1,66 @@
+{
+  "name": "VMware Explore las Vegas",
+  "year_started": 2004,
+  "number_of_events_hosted": 20,
+  "city": "Las Vegas",
+  "region": "Nevada",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://www.vmware.com/explore.html",
+  "sector": [
+    "Cloud Computing",
+    "DevOps",
+    "Infrastructure",
+    "SRE / Reliability",
+    "Security",
+    "Big Data",
+    "Data Science",
+    "AI",
+    "Machine Learning",
+    "Backend / APIs"
+  ],
+  "tags": [
+    "vmware",
+    "cloud",
+    "virtualization",
+    "devops",
+    "bigdata",
+    "conference"
+  ],
+  "acceptable_tags": [
+    "vmware",
+    "explore",
+    "vmworld",
+    "cloud",
+    "devops",
+    "bigdata"
+  ],
+  "type": "hybrid",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Los_Angeles",
+  "attendee_size": {
+    "min": 1600,
+    "max": 21000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 695,
+    "max": 2195
+  },
+  "organizer": {
+    "name": "VMware",
+    "email": "events@vmware.com",
+    "twitter": "https://x.com/vmware",
+    "website": "https://www.vmware.com/"
+  },
+  "socials": {
+    "twitter": "https://x.com/vmware",
+    "linkedin": "https://www.linkedin.com/company/vmware/",
+    "youtube": "https://www.youtube.com/@VMware",
+    "instagram": "https://www.instagram.com/vmware/"
+  },
+  "description": "VMware Explore (formerly VMworld) is VMware’s flagship annual event for cloud computing, virtualization, DevOps, infrastructure, security, AI, machine learning, backend APIs, big data, and data science. It brings together IT professionals, developers, engineers, and business leaders for keynotes, technical sessions, hands-on labs, workshops, and networking opportunities. Attendance ranges between 10,000–15,000 annually, with both in-person and virtual participation, providing insights into VMware’s latest technologies and enterprise solutions."
+}
