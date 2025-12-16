@@ -11,9 +11,9 @@
   "website": "https://defcon.org",
 
   "sector": [
-    "Ethical Hacking",
-    "Privacy & Compliance",
-    "AppSec"
+   "Security", 
+   "Ethical Hacking", 
+   "Privacy & Compliance"
   ],
 
   "tags": [
