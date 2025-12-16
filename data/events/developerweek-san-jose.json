@@ -1,0 +1,60 @@
+{
+  "name": "DeveloperWeek San Jose",
+  "year_started": 2011,
+  "number_of_events_hosted": 14,
+  "city": "San Jose",
+  "region": "California",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://www.developerweek.com/",
+  "sector": [
+    "Software Engineering",
+    "AI",
+    "DevOps",
+    "Backend / APIs",
+    "Cloud Computing",
+    "Frontend / Web Development"
+  ],
+  "tags": [
+    "developer",
+    "engineering",
+    "conference",
+    "expo"
+  ],
+  "acceptable_tags": [
+    "developerweek",
+    "devconf",
+    "software",
+    "engineering",
+    "cloud",
+    "ai"
+  ],
+  "type": "hybrid",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Los_Angeles",
+  "attendee_size": {
+    "min": 5000,
+    "max": 8000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 0,
+    "max": 2195
+  },
+  "organizer": {
+    "name": "DevNetwork",
+    "email": "info@developerweek.com",
+    "twitter": "https://x.com/developerweek",
+    "website": "https://www.developerweek.com/"
+  },
+  "socials": {
+    "twitter": "https://x.com/developerweek",
+    "linkedin": "https://www.linkedin.com/showcase/developerweek/",
+    "youtube": "https://www.youtube.com/@devweekevents5952",
+    "instagram": "https://www.instagram.com/developerweek/"
+  },
+  "description": "DeveloperWeek San Jose is one of the largest developer and engineering technology conferences and expos in the world, featuring workshops, keynotes, hackathons, and multi‑track technical sessions focused on cloud computing, AI, DevOps, backend APIs, web development, and emerging developer technologies. The event brings together thousands of developers, engineers, software architects, and tech leaders for hands‑on learning, networking, and innovation. DeveloperWeek combines both in‑person sessions in San Jose and live online participation, offering broad access to its global developer community. :contentReference[oaicite:0]{index=0}"
+}
