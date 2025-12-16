@@ -1,0 +1,65 @@
+{
+  "name": "Cisco Live Las Vegas",
+  "year_started": 1989,
+  "number_of_events_hosted": 29,
+  "city": "Las Vegas",
+  "region": "Nevada",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://www.ciscolive.com/",
+  "sector": [
+    "Cloud Computing",
+    "Security",
+    "Infrastructure",
+    "DevOps",
+    "SRE / Reliability",
+    "AI",
+    "Machine Learning",
+    "Data Science",
+    "Big Data"
+  ],
+  "tags": [
+    "cisco",
+    "networking",
+    "security",
+    "cloud",
+    "conference",
+    "devops"
+  ],
+  "acceptable_tags": [
+    "cisco",
+    "ciscolive",
+    "networking",
+    "cloud",
+    "security",
+    "devops"
+  ],
+  "type": "hybrid",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Los_Angeles",
+  "attendee_size": {
+    "min": 200,
+    "max": 28000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 795,
+    "max": 3195
+  },
+  "organizer": {
+    "name": "Cisco Systems",
+    "email": "events@cisco.com",
+    "twitter": "https://x.com/Cisco",
+    "website": "https://www.cisco.com/"
+  },
+  "socials": {
+    "twitter": "https://x.com/Ciscolive",
+    "linkedin": "https://www.linkedin.com/company/cisco/",
+    "youtube": "https://www.youtube.com/@Cisco",
+    "instagram": "https://www.instagram.com/ciscolive/"
+  },
+  "description": "Cisco Live is Cisco Systems’ annual flagship event focusing on networking, cloud computing, security, infrastructure, DevOps, SRE, AI, machine learning, data science, and big data. It gathers IT professionals, developers, engineers, and business leaders for keynotes, technical sessions, hands-on labs, workshops, and networking opportunities. Attendance ranges from 25,000–28,000 annually, offering insights into Cisco technologies, enterprise solutions, and emerging innovations in networking and security."
+}
