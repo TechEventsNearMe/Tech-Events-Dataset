@@ -1,0 +1,66 @@
+{
+  "name": "Black Hat USA",
+  "year_started": 1997,
+  "number_of_events_hosted": 28,
+
+  "city": "Las Vegas",
+  "region": "Nevada",
+  "country": "United States",
+  "continent": "North America",
+
+  "website": "https://www.blackhat.com/us-25",
+
+  "sector": [
+    "Network Security",
+    "AppSec"
+  ],
+
+  "tags": [
+    "conference",
+    "training",
+    "expo"
+  ],
+
+  "acceptable_tags": [
+    "security",
+    "infosec",
+    "hacking"
+  ],
+
+  "type": "in-person",
+
+  "languages": [
+    "English"
+  ],
+
+  "frequency": "annual",
+
+  "timezone": "America/Los_Angeles",
+
+  "attendee_size": {
+    "min": 15000,
+    "max": 20000
+  },
+
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 500,
+    "max": 3399
+  },
+
+  "organizer": {
+    "name": "Informa Tech",
+    "email": "",
+    "twitter": "https://twitter.com/BlackHatEvents",
+    "website": "https://www.blackhat.com"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/BlackHatEvents",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/user/BlackHatOfficialYT",
+    "instagram": "https://www.instagram.com/blackhat_events/"
+  },
+
+  "description": "Black Hat USA is a premier cybersecurity conference featuring advanced security research, training, and an expo for professionals worldwide."
+}
