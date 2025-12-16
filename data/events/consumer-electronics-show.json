@@ -1,0 +1,57 @@
+{
+  "name": "Consumer Electronics Show",
+  "year_started": 1967,
+  "number_of_events_hosted": 58,
+  "city": "Las Vegas",
+  "region": "Nevada",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://www.ces.tech/",
+  "sector": [
+    "IoT",
+    "AR / VR / XR",
+    "Robotics",
+    "AI",
+    "Hardware Engineering",
+    "Digital Transformation",
+    "Innovation"
+  ],
+  "tags": [
+    "trade show",
+    "consumer tech",
+    "product launch",
+    "keynote"
+  ],
+  "acceptable_tags": [
+    "innovation",
+    "tech leadership"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Los_Angeles",
+  "attendee_size": {
+    "min": 130000,
+    "max": 180000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 149,
+    "max": 1700
+  },
+  "organizer": {
+    "name": "Consumer Technology Association (CTA)",
+    "email": "standards@cta.tech",
+    "twitter": "https://twitter.com/CTAtech",
+    "website": "https://www.cta.tech/"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/CES",
+    "linkedin": "https://www.linkedin.com/company/ces/",
+    "youtube": "https://youtube.com/@CES",
+    "instagram": "https://instagram.com/ces"
+  },
+  "description": "CES is the world's largest and most influential technology trade show, serving as the proving ground for innovators and breakthrough technologies for over five decades. It features major product announcements across more than 40 technology categories, including automotive, digital health, AR/VR, robotics, and smart home. The event attracts global media, high-level executives, and industry professionals. The ticket range reflects the difference between the Exhibits Plus Pass (min) and the Deluxe Conference Pass (max)."
+}
