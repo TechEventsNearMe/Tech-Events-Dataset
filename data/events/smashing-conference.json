@@ -1,0 +1,59 @@
+{
+  "name": "Smashing Conference",
+  "year_started": 2012,
+  "number_of_events_hosted": 20,
+
+  "city": "Amsterdam",
+  "region": "North Holland",
+  "country": "Netherlands",
+  "continent": "Europe",
+
+  "website": "https://smashingconf.com",
+
+  "sector": [
+    "Frontend / Web Development",
+    "UX / UI",
+    "Accessibility",
+    "Design Systems"
+  ],
+
+  "tags": [
+    "conference",
+    "frontend",
+    "design"
+  ],
+
+  "acceptable_tags": [
+    "frontend",
+    "ux",
+    "ui"
+  ],
+
+  "type": "in-person",
+
+  "languages": ["English"],
+
+  "frequency": "annual",
+
+  "timezone": "Europe/Amsterdam",
+
+  "attendee_size": { "min": 500, "max": 1000 },
+
+  "ticket_cost_usual": { "currency": "USD", "min": 0, "max": 549 },
+
+  "organizer": {
+    "name": "Smashing Magazine",
+    "email": "",
+    "twitter": "https://twitter.com/smashingconf",
+    "website": "https://smashingconf.com"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/smashingconf",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": ""
+  },
+
+  "description": "SmashingConf is a web design and frontend development conference, focusing on UX, accessibility, and design systems."
+}
