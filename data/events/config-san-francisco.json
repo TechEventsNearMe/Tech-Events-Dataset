@@ -1,0 +1,57 @@
+{
+  "name": "Config San Francisco",
+  "year_started": 2020,
+  "number_of_events_hosted": 6,
+  "city": "San Francisco",
+  "region": "California",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://config.figma.com",
+  "sector": [
+    "UX / UI",
+    "Design Systems",
+    "Product Management",
+    "Innovation",
+    "Accessibility"
+  ],
+  "tags": [
+    "design",
+    "ux",
+    "product",
+    "conference"
+  ],
+  "acceptable_tags": [
+    "config",
+    "figma",
+    "design",
+    "ux"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Los_Angeles",
+  "attendee_size": {
+    "min": 1000,
+    "max": 10000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 0,
+    "max": 899
+  },
+  "organizer": {
+    "name": "Figma",
+    "email": "events@figma.com",
+    "twitter": "https://x.com/figma",
+    "website": "https://www.figma.com"
+  },
+  "socials": {
+    "twitter": "https://x.com/figma",
+    "linkedin": "https://www.linkedin.com/company/figma/",
+    "youtube": "https://www.youtube.com/@Figma",
+    "instagram": "https://www.instagram.com/figma/"
+  },
+  "description": "Config San Francisco is Figma’s annual flagship conference focused on design, UX, product management, and design systems. The event brings together designers, product leaders, and technology teams to explore innovation, accessibility, and modern design workflows through keynotes, hands-on sessions, and community networking."
+}
