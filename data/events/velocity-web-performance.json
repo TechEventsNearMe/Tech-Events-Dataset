@@ -1,0 +1,51 @@
+{
+  "name": "Velocity Web Performance",
+  "year_started": 2008,
+  "number_of_events_hosted": 12,
+  "city": "San Jose",
+  "region": "California",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://conferences.oreilly.com/velocity",
+  "sector": [
+    "DevOps",
+    "Infrastructure"
+  ],
+  "tags": [
+    "conference",
+    "devops"
+  ],
+  "acceptable_tags": [
+    "performance",
+    "devops",
+    "infrastructure"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Los_Angeles",
+  "attendee_size": {
+    "min": 800,
+    "max": 3000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 400,
+    "max": 1600
+  },
+  "organizer": {
+    "name": "O'Reilly Media",
+    "email": "",
+    "twitter": "https://twitter.com/oreillymedia",
+    "website": "https://www.oreilly.com"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/oreillymedia",
+    "linkedin": "https://www.linkedin.com/company/oreilly",
+    "youtube": "https://www.youtube.com/user/OreillyMedia",
+    "instagram": ""
+  },
+  "description": "Velocity focuses on web performance, reliability, and DevOps practices for engineering teams building large-scale web systems."
+}
