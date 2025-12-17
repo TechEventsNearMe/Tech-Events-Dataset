@@ -1,0 +1,44 @@
+{
+  "name": "SREcon",
+  "year_started": 2012,
+  "number_of_events_hosted": 20,
+  "city": "San Francisco",
+  "region": "California",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://www.usenix.org/conference/srecon",
+  "sector": [
+    "SRE / Reliability",
+    "DevOps",
+    "Infrastructure"
+  ],
+  "tags": [
+    "conference",
+    "sre",
+    "reliability"
+  ],
+  "acceptable_tags": [
+    "sre",
+    "devops",
+    "reliability"
+  ],
+  "type": "in-person",
+  "languages": ["English"],
+  "frequency": "annual",
+  "timezone": "America/Los_Angeles",
+  "attendee_size": { "min": 800, "max": 2000 },
+  "ticket_cost_usual": { "currency": "USD", "min": 200, "max": 900 },
+  "organizer": {
+    "name": "USENIX Association",
+    "email": "",
+    "twitter": "https://twitter.com/usenix",
+    "website": "https://www.usenix.org"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/usenix",
+    "linkedin": "https://www.linkedin.com/company/usenix",
+    "youtube": "https://www.youtube.com/usenix",
+    "instagram": ""
+  },
+  "description": "SREcon is a conference series organized by USENIX focused on site reliability engineering, operational best practices, and scaling infrastructure for reliability and performance."
+}
