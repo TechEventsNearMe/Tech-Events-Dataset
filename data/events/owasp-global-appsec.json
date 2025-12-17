@@ -1,0 +1,58 @@
+{
+  "name": "OWASP Global AppSec",
+  "year_started": 2004,
+  "number_of_events_hosted": 20,
+
+  "city": "Washington",
+  "region": "District of Columbia",
+  "country": "United States",
+  "continent": "North America",
+
+  "website": "https://owasp.org/events/globalappsec",
+
+  "sector": [
+    "Security",
+    "AppSec",
+    "Privacy & Compliance"
+  ],
+
+  "tags": [
+    "conference",
+    "security",
+    "appsec"
+  ],
+
+  "acceptable_tags": [
+    "security",
+    "appsec",
+    "privacy"
+  ],
+
+  "type": "in-person",
+
+  "languages": ["English"],
+
+  "frequency": "annual",
+
+  "timezone": "America/New_York",
+
+  "attendee_size": { "min": 800, "max": 2000 },
+
+  "ticket_cost_usual": { "currency": "USD", "min": 300, "max": 1500 },
+
+  "organizer": {
+    "name": "OWASP Foundation",
+    "email": "",
+    "twitter": "https://twitter.com/owasp",
+    "website": "https://owasp.org"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/owasp",
+    "linkedin": "https://www.linkedin.com/company/owasp",
+    "youtube": "https://www.youtube.com/user/OWASPGLOBALL",
+    "instagram": ""
+  },
+
+  "description": "OWASP Global AppSec is the flagship conference of the OWASP Foundation, bringing together developers, security professionals, and researchers to share best practices in application security, secure coding, and privacy compliance."
+}
