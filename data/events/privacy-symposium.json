@@ -1,0 +1,58 @@
+{
+  "name": "Privacy Symposium",
+  "year_started": 2022,
+  "number_of_events_hosted": 3,
+
+  "city": "Venice",
+  "region": "Veneto",
+  "country": "Italy",
+  "continent": "Europe",
+
+  "website": "https://privacysymposium.org",
+
+  "sector": [
+    "Security",
+    "Privacy & Compliance",
+    "Digital Transformation"
+  ],
+
+  "tags": [
+    "conference",
+    "privacy",
+    "compliance"
+  ],
+
+  "acceptable_tags": [
+    "privacy",
+    "security",
+    "compliance"
+  ],
+
+  "type": "in-person",
+
+  "languages": ["English"],
+
+  "frequency": "annual",
+
+  "timezone": "Europe/Rome",
+
+  "attendee_size": { "min": 500, "max": 1500 },
+
+  "ticket_cost_usual": { "currency": "EUR", "min": 200, "max": 800 },
+
+  "organizer": {
+    "name": "European Centre for Certification and Privacy",
+    "email": "",
+    "twitter": "",
+    "website": "https://privacysymposium.org"
+  },
+
+  "socials": {
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/company/privacy-symposium",
+    "youtube": "",
+    "instagram": ""
+  },
+
+  "description": "The Privacy Symposium is an international conference dedicated to data protection, GDPR, and privacy technologies, bringing together regulators, researchers, and industry leaders."
+}
