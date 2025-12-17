@@ -1,0 +1,56 @@
+{
+  "name": "JSConf Budapest",
+  "year_started": 2015,
+  "number_of_events_hosted": 6,
+  "city": "Budapest",
+  "region": "Central Hungary",
+  "country": "Hungary",
+  "continent": "Europe",
+  "website": "https://jsconfbp.com",
+  "sector": [
+    "Frontend / Web Development",
+    "Software Engineering",
+    "Cloud Computing",
+    "Product Management"
+  ],
+  "tags": [
+    "javascript",
+    "web",
+    "developers",
+    "conference"
+  ],
+  "acceptable_tags": [
+    "jsconf",
+    "javascript",
+    "webdev",
+    "frontend"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Budapest",
+  "attendee_size": {
+    "min": 400,
+    "max": 800
+  },
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 130,
+    "max": 690
+  },
+  "organizer": {
+    "name": "JSConf Budapest Team",
+    "email": "hello@jsconfbp.com",
+    "twitter": "https://x.com/jsconfbp",
+    "website": "https://jsconfbp.com"
+  },
+  "socials": {
+    "twitter": "https://x.com/jsconfbp",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@JSConf",
+    "instagram": "https://www.instagram.com/jsconfbp/"
+  },
+  "description": "JSConf Budapest is an international JavaScript and web development conference held in Hungary. The event brings together frontend engineers, software developers, and product professionals to explore modern web technologies, scalable cloud-based applications, and best practices in software engineering through talks, workshops, and community-driven sessions."
+}
