@@ -1,0 +1,58 @@
+{
+  "name": "BSides Las Vegas",
+  "year_started": 2009,
+  "number_of_events_hosted": 15,
+
+  "city": "Las Vegas",
+  "region": "Nevada",
+  "country": "United States",
+  "continent": "North America",
+
+  "website": "https://bsideslv.org",
+
+  "sector": [
+    "Security",
+    "Ethical Hacking",
+    "Privacy & Compliance"
+  ],
+
+  "tags": [
+    "conference",
+    "security",
+    "community"
+  ],
+
+  "acceptable_tags": [
+    "security",
+    "hacking",
+    "privacy"
+  ],
+
+  "type": "in-person",
+
+  "languages": ["English"],
+
+  "frequency": "annual",
+
+  "timezone": "America/Los_Angeles",
+
+  "attendee_size": { "min": 1500, "max": 2500 },
+
+  "ticket_cost_usual": { "currency": "USD", "min": 0, "max": 300 },
+
+  "organizer": {
+    "name": "Security BSides",
+    "email": "",
+    "twitter": "https://twitter.com/bsideslv",
+    "website": "https://bsideslv.org"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/bsideslv",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": ""
+  },
+
+  "description": "BSides Las Vegas is a community-driven security conference offering an open platform for researchers, hackers, and professionals to share insights on security, privacy, and hacking culture."
+}
