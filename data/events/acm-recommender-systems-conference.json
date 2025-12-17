@@ -1,0 +1,58 @@
+{
+  "name": "ACM Recommender Systems Conference",
+  "year_started": 2007,
+  "number_of_events_hosted": 18,
+
+  "city": "Seattle",
+  "region": "Washington",
+  "country": "United States",
+  "continent": "North America",
+
+  "website": "https://recsys.acm.org",
+
+  "sector": [
+    "AI",
+    "Machine Learning",
+    "Data Science"
+  ],
+
+  "tags": [
+    "conference",
+    "recommendation-systems",
+    "personalization"
+  ],
+
+  "acceptable_tags": [
+    "ai",
+    "ml",
+    "data"
+  ],
+
+  "type": "in-person",
+
+  "languages": ["English"],
+
+  "frequency": "annual",
+
+  "timezone": "America/Los_Angeles",
+
+  "attendee_size": { "min": 800, "max": 1500 },
+
+  "ticket_cost_usual": { "currency": "USD", "min": 300, "max": 900 },
+
+  "organizer": {
+    "name": "ACM SIGCHI",
+    "email": "",
+    "twitter": "https://x.com/ACMRecSys",
+    "website": "https://recsys.acm.org"
+  },
+
+  "socials": {
+    "twitter": "https://x.com/ACMRecSys",
+    "linkedin": "https://www.linkedin.com/uas/login?session_redirect=%2Fcompany%2F4994470",
+    "youtube": "https://www.youtube.com/@acmrecsys",
+    "instagram": ""
+  },
+
+  "description": "RecSys is the premier international forum for the latest developments in recommender systems, personalization, and machine learning applications."
+}
