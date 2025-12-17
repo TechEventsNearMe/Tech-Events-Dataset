@@ -1,0 +1,56 @@
+{
+  "name": "droidcon Berlin",
+  "year_started": 2009,
+  "number_of_events_hosted": 16,
+  "city": "Berlin",
+  "region": "Berlin",
+  "country": "Germany",
+  "continent": "Europe",
+  "website": "https://berlin.droidcon.com",
+  "sector": [
+    "Mobile Development",
+    "Cloud Computing",
+    "Firebase",
+    "Software Engineering"
+  ],
+  "tags": [
+    "android",
+    "mobile",
+    "developers",
+    "conference"
+  ],
+  "acceptable_tags": [
+    "droidcon",
+    "android",
+    "mobile",
+    "developers"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Berlin",
+  "attendee_size": {
+    "min": 800,
+    "max": 2000
+  },
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 169,
+    "max": 850
+  },
+  "organizer": {
+    "name": "droidcon Global",
+    "email": "info@droidcon.com",
+    "twitter": "https://x.com/droidcon",
+    "website": "https://www.droidcon.com"
+  },
+  "socials": {
+    "twitter": "https://x.com/droidconBerlin",
+    "linkedin": "https://www.linkedin.com/company/droidcon/",
+    "youtube": "https://www.youtube.com/@Droidconde",
+    "instagram": "https://www.instagram.com/droidcon/"
+  },
+  "description": "droidcon Berlin is a European Android and mobile development conference bringing together mobile engineers, software developers, and product teams. The event focuses on Android development, Firebase, cloud-backed mobile architectures, and modern software engineering practices through talks, workshops, and hands-on sessions."
+}
