@@ -1,0 +1,58 @@
+{
+  "name": "European Conference on Computer Vision",
+  "year_started": 1990,
+  "number_of_events_hosted": 18,
+
+  "city": "Munich",
+  "region": "Bavaria",
+  "country": "Germany",
+  "continent": "Europe",
+
+  "website": "https://eccv2024.ecva.net",
+
+  "sector": [
+    "AI",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+
+  "tags": [
+    "conference",
+    "computer-vision",
+    "deep-learning"
+  ],
+
+  "acceptable_tags": [
+    "ai",
+    "vision",
+    "deep-learning"
+  ],
+
+  "type": "in-person",
+
+  "languages": ["English"],
+
+  "frequency": "annual",
+
+  "timezone": "Europe/Berlin",
+
+  "attendee_size": { "min": 1500, "max": 3000 },
+
+  "ticket_cost_usual": { "currency": "EUR", "min": 400, "max": 1200 },
+
+  "organizer": {
+    "name": "ECCV Committee",
+    "email": "",
+    "twitter": "https://x.com/eccvconf",
+    "website": "https://eccv2024.ecva.net"
+  },
+
+  "socials": {
+    "twitter": "https://x.com/eccvconf",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": ""
+  },
+
+  "description": "European Conference on Computer Vision is one of the top computer vision conferences worldwide, showcasing cutting-edge research in deep learning, image recognition, and AI applications."
+}
