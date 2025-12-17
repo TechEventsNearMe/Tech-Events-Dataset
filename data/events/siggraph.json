@@ -1,0 +1,58 @@
+{
+  "name": "SIGGRAPH",
+  "year_started": 1974,
+  "number_of_events_hosted": 51,
+
+  "city": "Los Angeles",
+  "region": "California",
+  "country": "United States",
+  "continent": "North America",
+
+  "website": "https://s2025.siggraph.org",
+
+  "sector": [
+    "3D / Graphics",
+    "AR / VR / XR",
+    "AI"
+  ],
+
+  "tags": [
+    "conference",
+    "graphics",
+    "animation"
+  ],
+
+  "acceptable_tags": [
+    "graphics",
+    "vr",
+    "ar"
+  ],
+
+  "type": "in-person",
+
+  "languages": ["English"],
+
+  "frequency": "annual",
+
+  "timezone": "America/Los_Angeles",
+
+  "attendee_size": { "min": 15000, "max": 20000 },
+
+  "ticket_cost_usual": { "currency": "USD", "min": 350, "max": 2000 },
+
+  "organizer": {
+    "name": "ACM SIGGRAPH",
+    "email": "",
+    "twitter": "https://x.com/siggraph",
+    "website": "https://s2025.siggraph.org"
+  },
+
+  "socials": {
+    "twitter": "https://x.com/siggraph",
+    "linkedin": "https://www.linkedin.com/company/acm-siggraph",
+    "youtube": "https://www.youtube.com/user/ACMSIGGRAPH",
+    "instagram": "https://www.instagram.com/acmsiggraph/"
+  },
+
+  "description": "SIGGRAPH is the premier conference on computer graphics and interactive techniques, showcasing innovations in 3D, AR/VR, AI, and more through talks, courses, and an extensive exhibition."
+}
