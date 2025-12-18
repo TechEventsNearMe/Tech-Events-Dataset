@@ -1,0 +1,57 @@
+{
+  "name": "WordCamp Europe",
+  "year_started": 2013,
+  "number_of_events_hosted": 13,
+  "city": "Torino",
+  "region": "Piedmont",
+  "country": "Italy",
+  "continent": "Europe",
+  "website": "https://europe.wordcamp.org",
+  "sector": [
+    "Frontend / Web Development",
+    "Backend / APIs",
+    "UX / UI",
+    "Accessibility",
+    "Software Engineering"
+  ],
+  "tags": [
+    "wordpress",
+    "web",
+    "opensource",
+    "conference"
+  ],
+  "acceptable_tags": [
+    "wordcamp",
+    "wordpress",
+    "webdev",
+    "opensource"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Rome",
+  "attendee_size": {
+    "min": 1700,
+    "max": 3500
+  },
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 0,
+    "max": 50
+  },
+  "organizer": {
+    "name": "WordPress Foundation",
+    "email": "support@wordcamp.org",
+    "twitter": "https://x.com/WordPress",
+    "website": "https://wordpressfoundation.org"
+  },
+  "socials": {
+    "twitter": "https://x.com/WCEurope",
+    "linkedin": "https://www.linkedin.com/company/wordcampeurope/",
+    "youtube": "https://www.youtube.com/@WordPress",
+    "instagram": "https://www.instagram.com/wceurope/"
+  },
+  "description": "WordCamp Europe is the largest WordPress conference in Europe, bringing together web developers, designers, product professionals, and open-source contributors. The event focuses on frontend and backend web development, accessibility, UX best practices, and scalable software engineering within the WordPress ecosystem through talks, workshops, and community collaboration."
+}
