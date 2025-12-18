@@ -1,0 +1,52 @@
+{
+  "name": "Black Hat USA",
+  "year_started": 1997,
+  "city": "Las Vegas",
+  "region": "Nevada",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://www.blackhat.com/",
+  "sector": [
+    "Security",
+    "Ethical Hacking",
+    "AppSec",
+    "Network Security",
+    "Privacy & Compliance"
+  ],
+  "acceptable_tags": [
+    "cybersecurity",
+    "vulnerabilities",
+    "research",
+    "arsenal",
+    "dev",
+    "innovation"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Los_Angeles",
+  "attendee_size": {
+    "min": 15000,
+    "max": 20000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 2000,
+    "max": 4000
+  },
+  "organizer": {
+    "name": "Informa Tech",
+    "email": " cfp@blackhat.com ",
+    "twitter": "https://twitter.com/BlackHatEvents",
+    "website": "https://www.blackhat.com"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/BlackHatEvents",
+    "linkedin": "https://www.linkedin.com/showcase/black-hat/",
+    "youtube": "https://www.youtube.com/@BlackHatOfficialYT",
+    "instagram":"https://www.instagram.com/blackhat_events/"
+  },
+  "description": "Black Hat USA is the world's premier information security conference, returning August 1–6, 2026 to Mandalay Bay Convention Center in Las Vegas, Nevada. Founded in 1997, it offers intensive Trainings (four days), Summits, and a two-day main conference with cutting-edge Briefings, open-source tool demos in Arsenal, keynotes, and networking. The event attracts cybersecurity professionals, researchers, ethical hackers, and executives for the latest research, vulnerabilities, exploits, and defense strategies in a vendor-neutral environment."
+}
