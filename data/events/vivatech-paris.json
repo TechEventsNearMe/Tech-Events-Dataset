@@ -1,0 +1,53 @@
+{
+  "name": "VivaTech Paris",
+  "year_started": 2016,
+  "city": "Paris",
+  "region": "Île-de-France",
+  "country": "France",
+  "continent": "Europe",
+  "website": "https://vivatechnology.com/",
+  "sector": [
+    "Startup / Entrepreneurship",
+    "Innovation",
+    "AI",
+    "Digital Transformation",
+    "ClimateTech / GreenTech"
+  ],
+  "acceptable_tags": [
+    "deep tech",
+    "startups",
+    "investors",
+    "corporates",
+    "pitches",
+    "innovation"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English",
+    "French"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Paris",
+  "attendee_size": {
+    "min": 100000,
+    "max": 150000
+  },
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 0,
+    "max": 1000
+  },
+  "organizer": {
+    "name": "Publicis Groupe & Les Échos",
+    "email": "contact@vivatechnology.com",
+    "twitter": "https://twitter.com/VivaTech",
+    "website": "https://vivatechnology.com"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/VivaTech",
+    "linkedin": "https://www.linkedin.com/company/viva-technology/",
+    "youtube": "https://www.youtube.com/@VivaTechnology",
+    "instagram": "https://www.instagram.com/vivatech/"
+  },
+  "description": "VivaTech is Europe's biggest startup and tech event, returning May 26–29, 2026 to Paris Expo Porte de Versailles. It brings together startups, investors, corporates, tech leaders, and innovators for four days of keynotes, startup pitches, product demos, innovation challenges, open innovation programs, and networking focused on AI, deep tech, sustainability, healthtech, mobility, and digital transformation."
+}
