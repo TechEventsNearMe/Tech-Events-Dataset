@@ -1,0 +1,48 @@
+{
+  "name": "Chain React",
+  "year_started": 2017,
+  "city": "Portland",
+  "region": "Oregon",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://chainreactconf.com/",
+  "sector": [
+    "Mobile Development",
+    "Software Engineering"
+  ],
+  "acceptable_tags": [
+    "react-native",
+    "expo",
+    "cross-platform",
+    "dev",
+    "innovation"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Los_Angeles",
+  "attendee_size": {
+    "min": 300,
+    "max": 600
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 400,
+    "max": 800
+  },
+  "organizer": {
+    "name": "Infinite Red",
+    "email": " hello@infinite.red",
+    "twitter": "https://twitter.com/infinite_red",
+    "website": "https://infinite.red"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/chainreactconf",
+    "linkedin": "https://www.linkedin.com/company/infinitered",
+    "youtube": "https://www.youtube.com/@InfiniteRed",
+    "instagram": "instagram.com/chainreactconf/"
+  },
+  "description": "Chain React is the premier US-based React Native conference, returning July 30–31, 2026. Organized by Infinite Red, it brings together leading experts, core contributors, and developers from companies like Meta, Microsoft, Amazon, and Expo for in-depth talks, workshops, panels, and networking focused on the latest advancements in React Native, cross-platform mobile development, performance, architecture, and community-driven innovation."
+}
