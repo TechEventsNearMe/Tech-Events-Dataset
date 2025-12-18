@@ -1,0 +1,51 @@
+{
+  "name": "ETHDenver",
+  "year_started": 2018,
+  "city": "Denver",
+  "region": "Colorado",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://www.ethdenver.com/",
+  "sector": [
+    "Crypto",
+    "Web3",
+    "Blockchain",
+    "DeFi"
+  ],
+  "acceptable_tags": [
+    "hackathon",
+    "innovation",
+    "startup / entrepreneurship",
+    "nft",
+    "dao",
+    "ethereum"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Denver",
+  "attendee_size": {
+    "min": 3000,
+    "max": 25000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 0,
+    "max": 2500
+  },
+  "organizer": {
+    "name": "ETHDenver Community",
+    "email": "hello@ethdenver.com",
+    "twitter": "https://twitter.com/ethdenver",
+    "website": "https://www.ethdenver.com"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/ethdenver",
+    "linkedin": "https://www.linkedin.com/company/ethdenver/",
+    "youtube": "https://www.youtube.com/@ETHDenver",
+    "instagram": "https://www.instagram.com/ethdenver/"
+  },
+  "description": "ETHDenver is the world's largest Web3 hackathon and community innovation festival, returning February 24–March 6, 2026 to Denver, Colorado. Organized by the ETHDenver community (SporkDAO), it features a massive hackathon, builder tracks, keynotes, workshops, panels, art installations, music events, and networking focused on Ethereum, blockchain development, DeFi, NFTs, DAOs, privacy, scaling solutions, and decentralized innovation in a fully community-owned and decentralized format."
+}
