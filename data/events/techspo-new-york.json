@@ -1,0 +1,54 @@
+{
+  "name": "TECHSPO New York",
+  "year_started": 2016,
+  "number_of_events_hosted": 9,
+  "city": "New York City",
+  "region": "New York",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://techspo.co/newyork",
+  "sector": [
+    "Digital Transformation",
+    "Cloud Computing",
+    "AI",
+    "Startup / Entrepreneurship"
+  ],
+  "tags": [
+    "expo",
+    "techspo"
+  ],
+  "acceptable_tags": [
+    "techspo",
+    "nyc",
+    "digital"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/New_York",
+  "attendee_size": {
+    "min": 1500,
+    "max": 4000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 297,
+    "max": 997
+  },
+  "organizer": {
+    "name": "TECHSPO Events",
+    "email": "",
+    "twitter": "https://x.com/techspotweets/",
+    "website": "https://techspo.co"
+  },
+  "socials": {
+    "twitter": "https://x.com/techspotweets/",
+    "linkedin": " https://www.linkedin.com/company/techspo-events/",
+    "youtube": "",
+    "instagram": ""
+  },
+  "description": "TECHSPO New York is a two-day technology expo showcasing next-gen innovations in AI, cloud, and marketing tech for startups and enterprise teams."
+}
+
