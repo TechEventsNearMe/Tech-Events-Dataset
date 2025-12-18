@@ -1,0 +1,56 @@
+{
+  "name": "Data Council SF",
+  "year_started": 2016,
+  "number_of_events_hosted": 8,
+  "city": "San Francisco",
+  "region": "California",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://www.datacouncil.ai",
+  "sector": [
+    "Data Science",
+    "Big Data",
+    "Analytics",
+    "Backend / APIs",
+    "MLOps"
+  ],
+  "tags": [
+    "conference",
+    "data",
+    "engineering"
+  ],
+  "acceptable_tags": [
+    "data",
+    "analytics",
+    "mlops",
+    "datacouncil"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Los_Angeles",
+  "attendee_size": {
+    "min": 800,
+    "max": 2000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 399,
+    "max": 1299
+  },
+  "organizer": {
+    "name": "Data Council",
+    "email": "",
+    "twitter": "https://x.com/aicouncilconf",
+    "website": "https://www.datacouncil.ai"
+  },
+  "socials": {
+    "twitter": "https://x.com/aicouncilconf",
+    "linkedin": "https://www.linkedin.com/company/aicouncilconf",
+    "youtube": "https://www.youtube.com/datacouncil",
+    "instagram": ""
+  },
+  "description": "Data Council SF (formerly DataEngConf) is a practitioner‑led conference for data engineers, ML/AI practitioners, and platform teams covering data platforms, pipelines, MLOps, and analytics in production."
+}
