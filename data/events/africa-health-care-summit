@@ -1,0 +1,58 @@
+{
+  "name": "Africa HealthTech Summit",
+  "year_started": 2022,
+  "number_of_events_hosted": 4,
+  "city": "Nairobi",
+  "region": "Nairobi County",
+  "country": "Kenya",
+  "continent": "Africa",
+  "website": "https://healthtechsummit.africa/",
+  "sector": [
+    "HealthTech",
+    "AI",
+    "Innovation",
+    "Digital Transformation",
+    "Product Management"
+  ],
+  "tags": [
+    "healthtech",
+    "africa",
+    "innovation",
+    "digital health",
+    "conference"
+  ],
+  "acceptable_tags": [
+    "healthtech",
+    "innovation",
+    "digital health",
+    "africa"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Africa/Nairobi",
+  "attendee_size": {
+    "min": 400,
+    "max": 3000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 99,
+    "max": 799
+  },
+  "organizer": {
+    "name": "Africa HealthTech Summit",
+    "email": "info@dalagroup.africa",
+    "twitter": "https://x.com/AfricaHT",
+    "website": "https://healthtechsummit.africa/"
+  },
+  "socials": {
+    "twitter": "https://x.com/AfricaHT",
+    "linkedin": "https://www.linkedin.com/company/ahtsummit/",
+    "youtube": "https://www.youtube.com/@AHTSummit",
+    "instagram": "https://www.instagram.com/africahealthtechsummit/"
+  },
+  "description": "Africa HealthTech Summit is an annual in-person conference in Nairobi, Kenya, focusing on healthcare technology, AI, innovation, digital transformation, and product management. The event brings together healthcare professionals, entrepreneurs, developers, and investors to explore emerging healthtech solutions, share knowledge, and network through workshops, panels, and keynote sessions."
+}
