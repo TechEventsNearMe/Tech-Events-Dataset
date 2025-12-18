@@ -1,0 +1,54 @@
+{
+  "name": "DevTernity",
+  "year_started": 2015,
+  "number_of_events_hosted": 8,
+  "city": "Riga",
+  "region": "Riga",
+  "country": "Latvia",
+  "continent": "Europe",
+  "website": "https://devternity.com",
+  "sector": [
+    "Software Engineering",
+    "Architecture",
+    "Tech Leadership",
+    "Product Management"
+  ],
+  "tags": [
+    "conference",
+    "architecture",
+    "leadership"
+  ],
+  "acceptable_tags": [
+    "architecture",
+    "leadership",
+    "riga"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Riga",
+  "attendee_size": {
+    "min": 700,
+    "max": 1500
+  },
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 249,
+    "max": 899
+  },
+  "organizer": {
+    "name": "DevTernity",
+    "email": "",
+    "twitter": "",
+    "website": "https://devternity.com"
+  },
+  "socials": {
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/company/devternity",
+    "youtube": "",
+    "instagram": ""
+  },
+  "description": "DevTernity is an engineering and architecture conference focusing on pragmatic design, leadership, and building resilient systems."
+}
