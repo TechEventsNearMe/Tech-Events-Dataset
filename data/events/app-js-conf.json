@@ -1,0 +1,49 @@
+{
+  "name": "App.js Conf",
+  "year_started": 2019,
+  "city": "Kraków",
+  "region": "Lesser Poland Voivodeship",
+  "country": "Poland",
+  "continent": "Europe",
+  "website": "https://appjs.co/",
+  "sector": [
+    "Mobile Development",
+    "Software Engineering",
+    "Frontend / Web Development"
+  ],
+  "acceptable_tags": [
+    "react-native",
+    "expo",
+    "cross-platform",
+    "dev",
+    "innovation"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Warsaw",
+  "attendee_size": {
+    "min": 400,
+    "max": 800
+  },
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 300,
+    "max": 700
+  },
+  "organizer": {
+    "name": "Callstack",
+    "email": "contact@appjs.co ",
+    "twitter": "https://twitter.com/callstackio",
+    "website": "https://callstack.com"
+  },
+  "socials": {
+    "twitter": "https://x.com/appjsconf",
+    "linkedin": "https://www.linkedin.com/company/appjs-conf/",
+    "youtube": "https://www.youtube.com/@SoftwareMansion",
+    "instagram": ""
+  },
+  "description": "App.js Conf is the largest React Native conference in Europe, held annually in Kraków, Poland. It brings together React Native developers, core team members, and industry experts for two days of talks, workshops, and networking focused on advanced mobile development, performance optimization, architecture patterns, tooling, and the future of cross-platform apps with React Native and Expo."
+}
