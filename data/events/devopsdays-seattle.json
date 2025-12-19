@@ -1,0 +1,51 @@
+{
+  "name": "DevOpsDays Seattle",
+  "year_started": 2016,
+  "city": "Seattle",
+  "region": "Washington",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://devopsdays.org/events/",
+  "sector": [
+    "DevOps",
+    "SRE / Reliability",
+    "Infrastructure",
+    "Cloud Computing"
+  ],
+  "acceptable_tags": [
+    "culture",
+    "automation",
+    "measurement",
+    "sharing",
+    "platform-engineering",
+    "innovation"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Los_Angeles",
+  "attendee_size": {
+    "min": 150,
+    "max": 600
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 150,
+    "max": 350
+  },
+  "organizer": {
+    "name": "DevOpsDays Seattle Organizing Team",
+    "email": "organizers@dodseattle.org",
+    "twitter": "https://twitter.com/devopsdays",
+    "website": "https://devopsdays.org"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/DevOpsDaysSEA",
+    "linkedin": "https://www.linkedin.com/company/devopsdays-seattle",
+    "youtube": "https://www.youtube.com/channel/UCXZ4N98p4_G-8Wzqk3ohZOw",
+    "instagram": ""
+  },
+  "description": "DevOpsDays Seattle is a community-driven, vendor-neutral conference focused on DevOps culture, practices, and tools, returning 2026 to Seattle, Washington. It features talks, open spaces, Ignite sessions, and networking opportunities centered on collaboration between development and operations, automation, continuous delivery, cloud-native practices, reliability engineering, and real-world DevOps transformations."
+}
