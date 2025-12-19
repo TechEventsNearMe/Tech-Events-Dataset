@@ -1,0 +1,53 @@
+{
+  "name": "QCon London",
+  "year_started": 2007,
+  "city": "London",
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "continent": "Europe",
+  "website": "https://qconlondon.com/",
+  "sector": [
+    "Software Engineering",
+    "Architecture",
+    "DevOps",
+    "Cloud Computing",
+    "AI",
+    "Tech Leadership"
+  ],
+  "acceptable_tags": [
+    "emerging-trends",
+    "patterns",
+    "practices",
+    "deep-dives",
+    "case-studies",
+    "innovation"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/London",
+  "attendee_size": {
+    "min": 1000,
+    "max": 1500
+  },
+  "ticket_cost_usual": {
+    "currency": "GBP",
+    "min": 400,
+    "max": 3200
+  },
+  "organizer": {
+    "name": "InfoQ",
+    "email": "info@qconlondon.com",
+    "twitter": "https://twitter.com/qcon",
+    "website": "https://www.infoq.com"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/qconlondon",
+    "linkedin": "https://www.linkedin.com/showcase/qcon-london/",
+    "youtube": "https://www.youtube.com/@InfoQ",
+    "instagram": "https://www.instagram.com/qconconferences/"
+  },
+  "description": "QCon London is the international software development conference for senior engineers, architects, and tech leads, returning March 30 – April 3, 2026 to the Queen Elizabeth II Centre in central London. It focuses on emerging trends, architectural patterns, real-world case studies, and best practices across software engineering, cloud-native systems, AI integration, DevOps, security, and modern engineering culture through practitioner-led talks, deep-dive workshops, and networking opportunities."
+}
