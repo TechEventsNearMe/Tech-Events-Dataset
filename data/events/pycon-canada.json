@@ -1,0 +1,48 @@
+{
+    "name": "PyCon Canada",
+    "year_started": 2013,
+    "city": "Toronto",
+    "region": "Ontario",
+    "country": "Canada",
+    "continent": "North America",
+    "website": "https://pycon.ca",
+    "sector": [
+        "Software Engineering",
+        "Data Science"
+    ],
+    "acceptable_tags": [
+        "data",
+        "ml",
+        "web",
+        "community"
+    ],
+    "type": "in-person",
+    "languages": [
+        "English",
+        "French"
+    ],
+    "frequency": "annual",
+    "timezone": "America/Toronto",
+    "attendee_size": {
+        "min": 600,
+        "max": 1200
+    },
+    "ticket_cost_usual": {
+        "currency": "USD",
+        "min": 150,
+        "max": 800
+    },
+    "organizer": {
+        "name": "PyCon Canada Society",
+        "email": "",
+        "twitter": "https://twitter.com/pyconca",
+        "website": "https://pycon.ca"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/pyconca",
+        "linkedin": "",
+        "youtube": "",
+        "instagram": ""
+    },
+    "description": "PyCon Canada is a welcoming, community-driven conference held annually in Toronto. It brings together developers, data scientists, educators, and enthusiasts to share knowledge through talks, tutorials, and networking—all in both English and French."
+}
