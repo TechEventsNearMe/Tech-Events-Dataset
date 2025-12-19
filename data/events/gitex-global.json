@@ -1,0 +1,56 @@
+{
+  "name": "GITEX Global",
+  "year_started": 1981,
+  "number_of_events_hosted": 43,
+  "city": "Dubai",
+  "region": "Dubai",
+  "country": "United Arab Emirates",
+  "continent": "Asia",
+  "website": "https://www.gitex.com",
+  "sector": [
+    "Digital Transformation",
+    "AI",
+    "Cloud Computing",
+    "Startup / Entrepreneurship",
+    "Security"
+  ],
+  "tags": [
+    "expo",
+    "conference",
+    "innovation"
+  ],
+  "acceptable_tags": [
+    "gitex",
+    "dubai",
+    "innovation"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "frequency": "annual",
+  "timezone": "Asia/Dubai",
+  "attendee_size": {
+    "min": 100000,
+    "max": 180000
+  },
+  "ticket_cost_usual": {
+    "currency": "AED",
+    "min": 200,
+    "max": 1999
+  },
+  "organizer": {
+    "name": "Dubai World Trade Centre",
+    "email": "",
+    "twitter": "https://twitter.com/gitex_global",
+    "website": "https://www.gitex.com"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/gitex_global",
+    "linkedin": "https://ae.linkedin.com/showcase/gitexglobal/",
+    "youtube": "https://www.youtube.com/user/GitexTechWeek",
+    "instagram": "https://www.instagram.com/gitexglobal"
+  },
+  "description": "GITEX Global is one of the world’s largest tech and innovation shows, spotlighting AI, cloud, cybersecurity, and startup ecosystems across the Middle East and worldwide."
+}
