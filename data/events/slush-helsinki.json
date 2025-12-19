@@ -1,0 +1,55 @@
+{
+  "name": "Slush Helsinki",
+  "year_started": 2008,
+  "number_of_events_hosted": 16,
+  "city": "Helsinki",
+  "region": "Uusimaa",
+  "country": "Finland",
+  "continent": "Europe",
+  "website": "https://www.slush.org",
+  "sector": [
+    "Startup / Entrepreneurship",
+    "AI",
+    "Tech Leadership",
+    "Innovation"
+  ],
+  "tags": [
+    "conference",
+    "startup",
+    "investors"
+  ],
+  "acceptable_tags": [
+    "slush",
+    "helsinki",
+    "startup"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English",
+    "Finnish"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Helsinki",
+  "attendee_size": {
+    "min": 12000,
+    "max": 15000
+  },
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 249,
+    "max": 1190
+  },
+  "organizer": {
+    "name": "Slush",
+    "email": "",
+    "twitter": "https://twitter.com/slushhq",
+    "website": "https://www.slush.org"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/slushhq",
+    "linkedin": "https://www.linkedin.com/company/slush",
+    "youtube": "https://www.youtube.com/@slush",
+    "instagram": "https://www.instagram.com/slushhq"
+  },
+  "description": "Slush is a founder‑focused conference connecting startups with global investors, emphasizing AI, product building, and leadership."
+}
