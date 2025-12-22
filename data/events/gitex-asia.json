@@ -1,0 +1,60 @@
+{
+  "name": "GITEX Asia",
+  "year_started": 2025,
+  "number_of_events_hosted": 1,
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "Singapore",
+  "continent": "Asia",
+  "website": "https://gitexasia.com",
+  "sector": [
+    "AI",
+    "Machine Learning",
+    "Blockchain",
+    "Security",
+    "IoT",
+    "HealthTech",
+    "Cloud Computing",
+    "Startup / Entrepreneurship"
+  ],
+  "tags": [
+    "conference",
+    "expo",
+    "ai",
+    "startup",
+    "innovation"
+  ],
+  "acceptable_tags": [
+    "gitex",
+    "singapore",
+    "ai-everything"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Asia/Singapore",
+  "attendee_size": {
+    "min": 20000,
+    "max": 30000
+  },
+  "ticket_cost_usual": {
+    "currency": "SGD",
+    "min": 0,
+    "max": 1500
+  },
+  "organizer": {
+    "name": "KAOUN International & Dubai World Trade Centre",
+    "email": "",
+    "twitter": "",
+    "website": "https://gitexasia.com"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/gitexasia",
+    "linkedin": "https://www.linkedin.com/company/gitexasia",
+    "youtube": "https://www.youtube.com/channel/UC8Kh1YZY_33YBrbQi6iVWgw",
+    "instagram": "https://www.instagram.com/gitexasia"
+  },
+  "description": "GITEX Asia is Asia's largest and most international tech and startup event, featuring AI Everything Asia, North Star Asia, and GITEX DIGI_HEALTH Singapore. The event connects Asia's dynamic markets with a global ecosystem of technology leaders, startups, investors, and governments across sectors including AI, healthcare, smart cities, and cybersecurity."
+}
