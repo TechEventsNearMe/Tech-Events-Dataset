@@ -1,0 +1,58 @@
+{
+  "name": "Asia Tech x Singapore",
+  "year_started": 2021,
+  "number_of_events_hosted": 5,
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "Singapore",
+  "continent": "Asia",
+  "website": "https://asiatechxsg.com",
+  "sector": [
+    "AI",
+    "Cloud Computing",
+    "Digital Transformation",
+    "Tech Leadership",
+    "Innovation",
+    "Startup / Entrepreneurship"
+  ],
+  "tags": [
+    "conference",
+    "summit",
+    "ai",
+    "telecommunications",
+    "broadcasting"
+  ],
+  "acceptable_tags": [
+    "singapore",
+    "asia-tech",
+    "atxsg"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Asia/Singapore",
+  "attendee_size": {
+    "min": 20000,
+    "max": 25000
+  },
+  "ticket_cost_usual": {
+    "currency": "SGD",
+    "min": 0,
+    "max": 685
+  },
+  "organizer": {
+    "name": "IMDA & Informa",
+    "email": "",
+    "twitter": "",
+    "website": "https://asiatechxsg.com"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/asiatechxsg",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": "https://www.instagram.com/asiatechxsg"
+  },
+  "description": "Asia Tech x Singapore (ATxSG) is Asia's flagship technology event jointly organized by IMDA and Informa. It encompasses ATxSummit, ATxEnterprise (featuring BroadcastAsia, CommunicAsia, SatelliteAsia, TechXLR8 Asia, and The AI Summit Singapore), bringing together government, business, and technology leaders."
+}
