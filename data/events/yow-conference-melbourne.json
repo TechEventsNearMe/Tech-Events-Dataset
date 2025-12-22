@@ -1,0 +1,58 @@
+{
+  "name": "YOW! Conference Melbourne",
+  "year_started": 2008,
+  "number_of_events_hosted": 17,
+  "city": "Melbourne",
+  "region": "Victoria",
+  "country": "Australia",
+  "continent": "Oceania",
+  "website": "https://yowcon.com",
+  "sector": [
+    "Software Engineering",
+    "Architecture",
+    "DevOps",
+    "AI",
+    "Machine Learning",
+    "Cloud Computing",
+    "Tech Leadership"
+  ],
+  "tags": [
+    "conference",
+    "software-development",
+    "best-practices",
+    "architecture"
+  ],
+  "acceptable_tags": [
+    "yow",
+    "melbourne",
+    "software"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Australia/Melbourne",
+  "attendee_size": {
+    "min": 600,
+    "max": 800
+  },
+  "ticket_cost_usual": {
+    "currency": "AUD",
+    "min": 675,
+    "max": 1100
+  },
+  "organizer": {
+    "name": "YOW! Conferences (Trifork)",
+    "email": "[email protected]",
+    "twitter": "",
+    "website": "https://yowcon.com"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/yow_conf",
+    "linkedin": "https://www.linkedin.com/company/yow-conference",
+    "youtube": "",
+    "instagram": ""
+  },
+  "description": "YOW! is Australia's largest independent software development conference series. The Melbourne event brings together internationally recognized software engineers and thought leaders for deep-dive talks on emerging technologies and best practices across all languages and platforms, featuring independent, technically-rich content without product pitches."
+}
