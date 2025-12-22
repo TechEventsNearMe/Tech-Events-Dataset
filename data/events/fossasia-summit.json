@@ -1,0 +1,59 @@
+{
+  "name": "FOSSASIA Summit",
+  "year_started": 2009,
+  "number_of_events_hosted": 16,
+  "city": "Bangkok",
+  "region": "Bangkok",
+  "country": "Thailand",
+  "continent": "Asia",
+  "website": "https://summit.fossasia.org",
+  "sector": [
+    "Software Engineering",
+    "AI",
+    "Hardware Engineering",
+    "Security",
+    "DevOps",
+    "Web3",
+    "Blockchain"
+  ],
+  "tags": [
+    "conference",
+    "open-source",
+    "foss",
+    "open-hardware",
+    "community"
+  ],
+  "acceptable_tags": [
+    "fossasia",
+    "open-source",
+    "bangkok"
+  ],
+  "type": "hybrid",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Asia/Bangkok",
+  "attendee_size": {
+    "min": 3000,
+    "max": 5000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 0,
+    "max": 200
+  },
+  "organizer": {
+    "name": "FOSSASIA",
+    "email": "",
+    "twitter": "",
+    "website": "https://fossasia.org"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/fossasia",
+    "linkedin": "https://www.linkedin.com/company/fossasia",
+    "youtube": "https://www.youtube.com/@fossasiaorg",
+    "instagram": "https://www.instagram.com/fossasia"
+  },
+  "description": "FOSSASIA Summit is Asia's premier open technology conference bringing together developers, tech companies, startups, and contributors. The event features workshops, talks, and exhibitions covering open source software, open hardware, AI, blockchain, and emerging technologies. The summit includes co-located events like PGDay focusing on PostgreSQL."
+}
