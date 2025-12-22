@@ -1,0 +1,56 @@
+{
+  "name": "PyCon APAC",
+  "year_started": 2010,
+  "number_of_events_hosted": 14,
+  "city": "Quezon City",
+  "region": "Metro Manila",
+  "country": "Philippines",
+  "continent": "Asia",
+  "website": "https://pycon-apac.python.ph",
+  "sector": [
+    "Software Engineering",
+    "Data Science",
+    "Machine Learning",
+    "AI",
+    "Backend / APIs",
+    "DevOps"
+  ],
+  "tags": [
+    "conference",
+    "data-science",
+    "machine-learning"
+  ],
+  "acceptable_tags": [
+    "python",
+    "apac",
+    "pycon"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Asia/Manila",
+  "attendee_size": {
+    "min": 400,
+    "max": 800
+  },
+  "ticket_cost_usual": {
+    "currency": "PHP",
+    "min": 1500,
+    "max": 5000
+  },
+  "organizer": {
+    "name": "Python Philippines",
+    "email": "",
+    "twitter": "",
+    "website": "https://python.ph"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/pythonph",
+    "linkedin": "https://www.linkedin.com/company/pythonph",
+    "youtube": "",
+    "instagram": "https://www.instagram.com/pythonph/"
+  },
+  "description": "PyCon APAC is the regional Python conference for Asia-Pacific, bringing together Python developers, data scientists, and enthusiasts. The conference rotates annually among APAC countries and features talks, workshops, and sprints."
+}
