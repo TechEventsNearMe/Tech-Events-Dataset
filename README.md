@@ -8,10 +8,11 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 10**
+**Total Tech Events: 11**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
+| Africa Tech Summit Kigali | Kigali | Rwanda | Africa | [Link](https://www.africatechsummit.com/kigali/) |
 | Build With React Native Manchester | Manchester | United Kingdom | Europe | [Link](https://buildwithreactnative.com/manchester) |
 | GDG Abuja | Abuja | Nigeria | Africa | [Link](https://gdg.community.dev/gdg-abuja) |
 | GDG DevFest Lagos | Lagos | Nigeria | Africa | [Link](https://gdglagos.com) |
@@ -24,6 +25,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | WeAreDevelopers World Congress | Berlin | Germany | Europe | [Link](https://www.wearedevelopers.com/world-congress) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
