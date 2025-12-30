@@ -217,6 +217,51 @@
     "description": "NDC Sydney is a premier software development conference that brings together developers, engineers, and tech professionals from around the world. Covering topics such as cloud computing, DevOps, and modern web development, the event features top industry speakers, hands-on workshops, and in-depth technical sessions."
   },
   {
+    "name": "NVIDIA GTC",
+    "year_started": 2009,
+    "number_of_events_hosted": 17,
+    "city": "San Jose",
+    "region": "California",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://www.nvidia.com/gtc/",
+    "sector": [
+      "AI",
+      "Hardware Engineering",
+      "Robotics",
+      "Cloud Computing",
+      "AR / VR / XR",
+      "Innovation"
+    ],
+    "tags": [
+      "conference",
+      "deep learning",
+      "generative AI",
+      "accelerated computing",
+      "keynote"
+    ],
+    "acceptable_tags": ["innovation", "tech leadership"],
+    "type": "hybrid",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/Los_Angeles",
+    "attendee_size": { "min": 20000, "max": 350000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 0, "max": 3500 },
+    "organizer": {
+      "name": "NVIDIA",
+      "email": "GTC_registration@nvidia.com",
+      "twitter": "https://twitter.com/NVIDIAGTC",
+      "website": "https://www.nvidia.com/"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/NVIDIAGTC",
+      "linkedin": "https://www.linkedin.com/showcase/nvidia-gtc/",
+      "youtube": "https://www.youtube.com/@NVIDIA",
+      "instagram": "https://www.instagram.com/nvidia/"
+    },
+    "description": "NVIDIA GTC is the world's premier AI and accelerated computing conference, uniting developers, researchers, and business leaders. It features the annual keynote by CEO Jensen Huang and focuses on breakthroughs in Generative AI, robotics, physical AI, data science, and accelerated computing (GPUs). The event is primarily virtual, with a large in-person component, reflected in the wide attendee size and ticket cost range (free for the virtual pass, up to $3,500 for full workshops)."
+  },
+  {
     "name": "React Advanced London",
     "year_started": 2019,
     "city": "London",

@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 9**
+**Total Tech Events: 10**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -18,11 +18,13 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | LiverpoolJS | Liverpool | United Kingdom | Europe | [Link](https://www.meetup.com/liverpooljs) |
 | Microsoft Build | Seattle | United States | North America | [Link](https://build.microsoft.com) |
 | NDC Sydney | Sydney | Australia | Oceania | [Link](https://ndcsydney.com) |
+| NVIDIA GTC | San Jose | United States | North America | [Link](https://www.nvidia.com/gtc/) |
 | React Advanced London | London | United Kingdom | Europe | [Link](https://reactadvanced.com) |
 | React Native Nigeria Conference | Lagos | Nigeria | Africa | [Link](https://reactnativenigeria.com) |
 | WeAreDevelopers World Congress | Berlin | Germany | Europe | [Link](https://www.wearedevelopers.com/world-congress) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
