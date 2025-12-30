@@ -1,0 +1,68 @@
+{
+  "name": "Google Cloud Next",
+  "year_started": 2016,
+  "number_of_events_hosted": 9,
+
+  "city": "San Francisco",
+  "region": "California",
+  "country": "United States",
+  "continent": "North America",
+
+  "website": "https://cloud.withgoogle.com/next",
+
+  "sector": [
+    "Cloud Computing",
+    "AI",
+    "Analytics",
+    "Security"
+  ],
+
+  "tags": [
+    "conference",
+    "cloud",
+    "google"
+  ],
+
+  "acceptable_tags": [
+    "cloud",
+    "ai",
+    "gcp"
+  ],
+
+  "type": "in-person",
+
+  "languages": [
+    "English"
+  ],
+
+  "frequency": "annual",
+
+  "timezone": "America/Los_Angeles",
+
+  "attendee_size": {
+    "min": 20000,
+    "max": 30000
+  },
+
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 0,
+    "max": 1599
+  },
+
+  "organizer": {
+    "name": "Google Cloud",
+    "email": "",
+    "twitter": "https://twitter.com/googlecloud",
+    "website": "https://cloud.google.com"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/googlecloud",
+    "linkedin": "https://www.linkedin.com/showcase/google-cloud",
+    "youtube": "https://www.youtube.com/googlecloud",
+    "instagram": ""
+  },
+
+  "description": "Google Cloud Next is Google's annual conference showcasing innovations in cloud computing, AI, data analytics, and enterprise security."
+}
