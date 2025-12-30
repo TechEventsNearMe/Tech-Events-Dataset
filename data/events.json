@@ -511,6 +511,43 @@
     "description": "React Native Nigeria is a community-driven conference focused on React Native, cross-platform mobile development, JavaScript, and the African mobile ecosystem. It brings developers together for talks, workshops, networking, and collaboration."
   },
   {
+    "name": "RSA Conference",
+    "year_started": 1991,
+    "number_of_events_hosted": 33,
+    "city": "San Francisco",
+    "region": "California",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://www.rsaconference.com",
+    "sector": [
+      "Security",
+      "AppSec",
+      "Network Security",
+      "Privacy & Compliance"
+    ],
+    "tags": ["conference", "expo", "keynotes"],
+    "acceptable_tags": ["cybersecurity", "privacy", "compliance"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/Los_Angeles",
+    "attendee_size": { "min": 30000, "max": 45000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 0, "max": 2295 },
+    "organizer": {
+      "name": "RSA Conference LLC",
+      "email": "",
+      "twitter": "",
+      "website": "https://www.rsaconference.com"
+    },
+    "socials": {
+      "twitter": "https://x.com/OneRSAC",
+      "linkedin": "",
+      "youtube": "https://www.youtube.com/user/RSAConference",
+      "instagram": "https://www.instagram.com/onersac_community/"
+    },
+    "description": "RSA Conference is a major cybersecurity event featuring keynotes, sessions, and an expo focusing on security, appsec, privacy, and compliance trends and solutions."
+  },
+  {
     "name": "WeAreDevelopers World Congress",
     "year_started": 2015,
     "city": "Berlin",
