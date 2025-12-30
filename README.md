@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 11**
+**Total Tech Events: 12**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -16,6 +16,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Build With React Native Manchester | Manchester | United Kingdom | Europe | [Link](https://buildwithreactnative.com/manchester) |
 | GDG Abuja | Abuja | Nigeria | Africa | [Link](https://gdg.community.dev/gdg-abuja) |
 | GDG DevFest Lagos | Lagos | Nigeria | Africa | [Link](https://gdglagos.com) |
+| JSConf India | Bengaluru | India | Asia | [Link](https://jsconf.in) |
 | LiverpoolJS | Liverpool | United Kingdom | Europe | [Link](https://www.meetup.com/liverpooljs) |
 | Microsoft Build | Seattle | United States | North America | [Link](https://build.microsoft.com) |
 | NDC Sydney | Sydney | Australia | Oceania | [Link](https://ndcsydney.com) |
@@ -25,6 +26,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | WeAreDevelopers World Congress | Berlin | Germany | Europe | [Link](https://www.wearedevelopers.com/world-congress) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
