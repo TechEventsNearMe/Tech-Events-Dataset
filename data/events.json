@@ -293,6 +293,38 @@
     "description": "Microsoft Build is the flagship developer conference by Microsoft, showcasing the latest in cloud, AI, and developer tools through keynotes, technical sessions, and hands-on labs."
   },
   {
+    "name": "Money20/20 USA",
+    "year_started": 2012,
+    "number_of_events_hosted": 12,
+    "city": "Las Vegas",
+    "region": "Nevada",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://us.money2020.com",
+    "sector": ["FinTech", "DeFi", "Blockchain"],
+    "tags": ["conference", "fintech", "payments"],
+    "acceptable_tags": ["finance", "banking", "startups"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/Los_Angeles",
+    "attendee_size": { "min": 8000, "max": 13000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 0, "max": 3599 },
+    "organizer": {
+      "name": "Money20/20",
+      "email": "",
+      "twitter": "https://twitter.com/Money2020",
+      "website": "https://money2020.com"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/Money2020",
+      "linkedin": "https://www.linkedin.com/company/money2020/",
+      "youtube": "https://www.youtube.com/channel/UCip4CIpmM13NOAH-j9GiAzg",
+      "instagram": "https://www.instagram.com/money20_20/"
+    },
+    "description": "Money20/20 USA is a leading fintech event covering payments, banking, crypto, and financial innovation with global executives, startups, and regulators."
+  },
+  {
     "name": "NDC Sydney",
     "year_started": 2016,
     "city": "Sydney",
