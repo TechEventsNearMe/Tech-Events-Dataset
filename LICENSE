@@ -1,0 +1,45 @@
+# Tech Events Dataset License (TEDL)
+
+Copyright © 2025 TechEventsNearMe
+
+## 1. Purpose
+This repository contains a curated dataset of technology-related events.
+The goal of this project is to enable discovery, research, and community
+contribution — not unrestricted redistribution or cloning.
+
+## 2. Permitted Uses
+You are permitted to:
+
+- View, browse, and search the dataset via GitHub
+- Submit pull requests to improve or extend the dataset
+- Use the dataset for personal, educational, or internal research purposes
+- Reference the dataset with attribution (without copying the data)
+
+## 3. Prohibited Uses
+You may NOT, without explicit written permission from the copyright holder:
+
+- Copy, scrape, extract, or export the dataset (in whole or in part)
+- Redistribute the dataset in any form
+- Clone this repository for the purpose of creating a similar or competing project
+- Use the dataset to power a commercial product, service, or API without written permission.
+- Mirror, sell, sublicense, or bundle the dataset with other data
+- Train machine learning or AI models using the dataset
+
+## 4. Contributions
+By submitting a pull request, you agree that:
+- Your contribution becomes part of this dataset
+- You grant TechEventsNearMe the right to use, modify, and distribute your contribution
+- You do not retain rights to separately redistribute the combined dataset
+
+## 5. Attribution
+Attribution alone does not grant permission to copy, redistribute, the dataset.
+
+## 6. Enforcement
+Any use outside the scope of this license is strictly prohibited and may result
+in legal action or takedown requests.
+
+## 7. No Warranty
+The dataset is provided "as is", without warranty of any kind.
+
+For commercial licensing or special permissions, contact:
+ayoshokz@gmail.com
