@@ -67,6 +67,38 @@
     "description": "Build With React Native Manchester is a community-focused meetup for developers interested in React Native, Expo, cross-platform mobile development, and practical hands-on building. The event features live sessions, workshops, and collaboration opportunities for developers across the UK tech ecosystem."
   },
   {
+    "name": "Cloud Native Computing Foundation",
+    "year_started": 2015,
+    "number_of_events_hosted": 10,
+    "city": "Chicago",
+    "region": "Illinois",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://kubecon.io",
+    "sector": ["Cloud Computing", "DevOps"],
+    "tags": ["conference", "cloud", "devops"],
+    "acceptable_tags": ["cloud-native"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/Chicago",
+    "attendee_size": { "min": 10000, "max": 20000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 200, "max": 2278 },
+    "organizer": {
+      "name": "Cloud Native Computing Foundation",
+      "email": "",
+      "twitter": "https://twitter.com/kubecon",
+      "website": "https://kubecon.io"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/kubecon",
+      "linkedin": "",
+      "youtube": "https://www.youtube.com/c/cloudnativefdn",
+      "instagram": "https://www.instagram.com/cloudnativecomputingfoundation/"
+    },
+    "description": "CloudNativeCon is the flagship conference of the Cloud Native Computing Foundation, focusing on cloud-native technologies."
+  },
+  {
     "name": "GDG Abuja",
     "year_started": 2015,
     "city": "Abuja",
