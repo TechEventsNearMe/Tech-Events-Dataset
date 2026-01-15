@@ -258,6 +258,52 @@
     "description": "KubeCon + CloudNativeCon is the Cloud Native Computing Foundation’s (CNCF) flagship conference, bringing together adopters and developers of open source and cloud native technologies. The event focuses on Kubernetes, Prometheus, Envoy, and the entire cloud native ecosystem, with key themes covering platform engineering, AI integration, security, and GitOps. Ticket pricing reflects the range from the student/academic pass (min) to the corporate all-access pass (max), which includes co-located events."
   },
   {
+    "name": "Lagos Tech Fest",
+    "year_started": 2021,
+    "number_of_events_hosted": 5,
+    "city": "Lagos",
+    "region": "Lagos State",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "website": "https://tech.eventhive.ng/",
+    "sector": [
+      "Tech Leadership",
+      "Startup / Entrepreneurship",
+      "FinTech",
+      "AI",
+      "Innovation",
+      "Digital Transformation"
+    ],
+    "tags": ["conference", "startup", "investment", "innovation", "networking"],
+    "acceptable_tags": [
+      "fintech",
+      "vc",
+      "enterprise",
+      "policy",
+      "climate-tech",
+      "crypto"
+    ],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "Africa/Lagos",
+    "attendee_size": { "min": 1000, "max": 4000 },
+    "ticket_cost_usual": { "currency": "NGN", "min": 5500, "max": 378400 },
+    "organizer": {
+      "name": "Lagos Tech Fest",
+      "email": "",
+      "twitter": "",
+      "website": "https://tech.eventhive.ng/"
+    },
+    "socials": {
+      "twitter": "",
+      "linkedin": "",
+      "youtube": "",
+      "instagram": ""
+    },
+    "description": "Lagos Tech Fest is an annual conference now in its sixth year, convening enterprise technology leaders, startups, innovators, investors, policymakers, and global tech companies to shape the future of Nigeria’s tech ecosystem. The event features conferences, leadership roundtables, live pitch sessions, exhibitions, pitch-live sessions, and extensive networking opportunities, driving investment and collaboration across Nigeria and the broader African tech market."
+  },
+  {
     "name": "LiverpoolJS",
     "year_started": 2025,
     "city": "Liverpool",
