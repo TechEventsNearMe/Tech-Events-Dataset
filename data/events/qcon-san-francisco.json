@@ -1,0 +1,59 @@
+{
+  "name": "QCon San Francisco",
+  "year_started": 2006,
+  "number_of_events_hosted": 18,
+
+  "city": "San Francisco",
+  "region": "California",
+  "country": "United States",
+  "continent": "North America",
+
+  "website": "https://qconsf.com",
+
+  "sector": [
+    "Software Engineering",
+    "Architecture",
+    "Tech Leadership",
+    "Cloud Computing"
+  ],
+
+  "tags": [
+    "conference",
+    "engineering",
+    "architecture"
+  ],
+
+  "acceptable_tags": [
+    "software",
+    "architecture",
+    "leadership"
+  ],
+
+  "type": "in-person",
+
+  "languages": ["English"],
+
+  "frequency": "annual",
+
+  "timezone": "America/Los_Angeles",
+
+  "attendee_size": { "min": 1500, "max": 2500 },
+
+  "ticket_cost_usual": { "currency": "USD", "min": 1200, "max": 2500 },
+
+  "organizer": {
+    "name": "InfoQ / C4Media",
+    "email": "",
+    "twitter": "https://twitter.com/qcon",
+    "website": "https://qconsf.com"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/qcon",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": ""
+  },
+
+  "description": "QCon San Francisco is a practitioner-driven conference for senior software engineers and architects, focusing on emerging trends and best practices."
+}
