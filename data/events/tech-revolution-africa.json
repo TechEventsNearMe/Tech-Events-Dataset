@@ -1,0 +1,88 @@
+{
+  "name": "Tech Revolution Africa",
+  "year_started": 2025,
+  "number_of_events_hosted": 1,
+
+  "city": "Lagos",
+  "region": "Lagos State",
+  "country": "Nigeria",
+  "continent": "Africa",
+
+  "website": "https://techrevolutionafrica.org/",
+
+  "sector": [
+    "AI",
+    "FinTech",
+    "Startup / Entrepreneurship",
+    "Innovation",
+    "Digital Transformation",
+    "Cloud Computing",
+    "Data Science",
+    "Big Data",
+    "Infrastructure"
+  ],
+
+  "tags": [
+    "conference",
+    "startup",
+    "investment",
+    "networking",
+    "ecosystem"
+  ],
+
+  "acceptable_tags": [
+    "founders",
+    "investors",
+    "ecosystem-building",
+    "digital-economy",
+    "unicorn",
+    "venture-capital",
+    "connectivity",
+    "5g",
+    "iot",
+    "smart-cities",
+    "creative-economy",
+    "women-in-tech",
+    "talent-economy",
+    "infrastructure",
+    "payment-systems",
+    "policy"
+  ],
+
+  "type": "in-person",
+
+  "languages": [
+    "English"
+  ],
+
+  "frequency": "annual",
+
+  "timezone": "Africa/Lagos",
+
+  "attendee_size": {
+    "min": 3000,
+    "max": 5000
+  },
+
+  "ticket_cost_usual": {
+    "currency": "NGN",
+    "min": 11250,
+    "max": 150000
+  },
+
+  "organizer": {
+    "name": "Glory Olamigoke and David Ogebe (TekNexus Africa and House of Heroz)",
+    "email": "event@techrevolutionafrica.org",
+    "twitter": "https://twitter.com/teknexus",
+    "website": "https://teknexus.org"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/TechRevAfrica_",
+    "linkedin": "https://www.linkedin.com/company/techrevolution-africa",
+    "youtube": "",
+    "instagram": ""
+  },
+
+  "description": "Tech Revolution Africa is Africa's largest gathering of tech leaders, investors, professionals, startups, ecosystem operators, and builders. Founded in 2025 by Glory Olamigoke (Founder of TekNexus Africa) and David Ogebe (CEO of House of Heroz), the conference connects the full value chain of technology in Africa. The event brings together over 5,000 attendees from more than 10 countries, featuring 60+ industry-leading speakers, 150+ African and global companies, and 40+ sessions across 12 critical content tracks including AI innovation, digital infrastructure, connectivity (5G, IoT, Smart Cities), fintech payment systems, startup ecosystem, creative economy, women in tech, talent economy, and government policy. Headline sponsored by MTN Nigeria and supported by LigaData, CoralPay, Huawei, Vennote Technologies, Infonomics, and Bluechip Technologies, the summit includes keynote addresses, panel discussions, hands-on workshops, startup pitch competitions ($1,500 non-equity funding), executive sessions, investor mixers, deal rooms, exhibitions, and networking zones. The conference aims to position Africa as a global leader in digital transformation and AI-driven innovation."
+}
