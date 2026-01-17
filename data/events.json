@@ -649,6 +649,36 @@
     "description": "Japan’s largest Python conference featuring bilingual (Japanese and English) sessions, technical talks, workshops, and active community engagement."
   },
   {
+    "name": "QCon New York",
+    "year_started": 2007,
+    "city": "New York",
+    "region": "New York",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://www.qconferences.com/",
+    "sector": ["DevOps", "Backend / APIs"],
+    "acceptable_tags": ["microservices", "cloud", "devops", "scalability"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/New_York",
+    "attendee_size": { "min": 1200, "max": 2500 },
+    "ticket_cost_usual": { "currency": "USD", "min": 0, "max": 1430 },
+    "organizer": {
+      "name": "InfoQ / C4Media",
+      "email": "",
+      "twitter": "https://twitter.com/qcon",
+      "website": "https://www.qconferences.com"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/qcon",
+      "linkedin": "https://www.linkedin.com/company/qcon/",
+      "youtube": "https://www.youtube.com/c/InfoQ",
+      "instagram": ""
+    },
+    "description": "QCon New York is a practitioner-driven conference for senior technical leaders. It focuses on emerging trends and best practices in DevOps, and backend development, with real-world insights from expert speakers."
+  },
+  {
     "name": "React Advanced London",
     "year_started": 2019,
     "city": "London",
