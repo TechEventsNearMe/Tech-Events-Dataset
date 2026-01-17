@@ -1,0 +1,44 @@
+{
+    "name": "Norwegian Developers Conference (NDC Oslo)",
+    "year_started": 2008,
+    "city": "Oslo",
+    "region": "Oslo",
+    "country": "Norway",
+    "continent": "Europe",
+    "website": "https://ndcoslo.com",
+    "sector": [
+        "Software Engineering"
+    ],
+    "acceptable_tags": [
+        "cloud",
+        "devops"
+    ],
+    "type": "in-person",
+    "languages": [
+        "English"
+    ],
+    "frequency": "annual",
+    "timezone": "Europe/Oslo",
+    "attendee_size": {
+        "min": 1200,
+        "max": 2500
+    },
+    "ticket_cost_usual": {
+        "currency": "NOK",
+        "min": 12490,
+        "max": 25990
+    },
+    "organizer": {
+        "name": "NDC Conferences",
+        "email": "",
+        "twitter": "https://twitter.com/ndc_conferences",
+        "website": "https://ndcconferences.com"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/ndc_conferences",
+        "linkedin": "https://www.linkedin.com/company/ndc-conferences/",
+        "youtube": "https://www.youtube.com/c/NDCConferences",
+        "instagram": "https://www.instagram.com/ndc_conferences/"
+    },
+    "description": " NDC Oslo is one of Europe's leading developer conferences, bringing together software engineers, DevOps professionals, and cloud experts for five days of workshops, talks, and networking. Hosted annually in Oslo, it features top international speakers and deep technical sessions across a wide range of modern software development topics."
+}
