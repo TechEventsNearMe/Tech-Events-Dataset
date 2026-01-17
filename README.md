@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 25**
+**Total Tech Events: 28**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -16,14 +16,17 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | AWS re:Invent | Las Vegas | United States | North America | [Link](https://reinvent.awsevents.com) |
 | Build With React Native Manchester | Manchester | United Kingdom | Europe | [Link](https://buildwithreactnative.com/manchester) |
 | Cloud Native Computing Foundation | Chicago | United States | North America | [Link](https://kubecon.io) |
+| Consumer Electronics Show | Las Vegas | United States | North America | [Link](https://www.ces.tech/) |
 | GDG Abuja | Abuja | Nigeria | Africa | [Link](https://gdg.community.dev/gdg-abuja) |
 | GDG DevFest Lagos | Lagos | Nigeria | Africa | [Link](https://gdglagos.com) |
+| Google I/O | Mountain View | United States | North America | [Link](https://io.google) |
 | JSConf Asia | Singapore | Singapore | Asia | [Link](https://jsconf.asia) |
 | JSConf India | Bengaluru | India | Asia | [Link](https://jsconf.in) |
 | JSNation | Amsterdam | Netherlands | Europe | [Link](https://jsnation.com) |
 | KubeCon + CloudNativeCon | Atlanta | United States | North America | [Link](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) |
 | LiverpoolJS | Liverpool | United Kingdom | Europe | [Link](https://www.meetup.com/liverpooljs) |
 | Microsoft Build | Seattle | United States | North America | [Link](https://build.microsoft.com) |
+| Mobile World Congress Barcelona | Barcelona | Spain | Europe | [Link](https://www.mwcbarcelona.com/) |
 | Money20/20 USA | Las Vegas | United States | North America | [Link](https://us.money2020.com) |
 | NDC Sydney | Sydney | Australia | Oceania | [Link](https://ndcsydney.com) |
 | NodeConf Argentina | Buenos Aires | Argentina | South America | [Link](https://nodeconf.com.ar) |
@@ -39,6 +42,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | WeAreDevelopers World Congress | Berlin | Germany | Europe | [Link](https://www.wearedevelopers.com/world-congress) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 

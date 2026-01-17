@@ -129,6 +129,46 @@
     "description": "CloudNativeCon is the flagship conference of the Cloud Native Computing Foundation, focusing on cloud-native technologies."
   },
   {
+    "name": "Consumer Electronics Show",
+    "year_started": 1967,
+    "number_of_events_hosted": 58,
+    "city": "Las Vegas",
+    "region": "Nevada",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://www.ces.tech/",
+    "sector": [
+      "IoT",
+      "AR / VR / XR",
+      "Robotics",
+      "AI",
+      "Hardware Engineering",
+      "Digital Transformation",
+      "Innovation"
+    ],
+    "tags": ["trade show", "consumer tech", "product launch", "keynote"],
+    "acceptable_tags": ["innovation", "tech leadership"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/Los_Angeles",
+    "attendee_size": { "min": 130000, "max": 180000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 149, "max": 1700 },
+    "organizer": {
+      "name": "Consumer Technology Association (CTA)",
+      "email": "standards@cta.tech",
+      "twitter": "https://twitter.com/CTAtech",
+      "website": "https://www.cta.tech/"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/CES",
+      "linkedin": "https://www.linkedin.com/company/ces/",
+      "youtube": "https://youtube.com/@CES",
+      "instagram": "https://instagram.com/ces"
+    },
+    "description": "CES is the world's largest and most influential technology trade show, serving as the proving ground for innovators and breakthrough technologies for over five decades. It features major product announcements across more than 40 technology categories, including automotive, digital health, AR/VR, robotics, and smart home. The event attracts global media, high-level executives, and industry professionals. The ticket range reflects the difference between the Exhibits Plus Pass (min) and the Deluxe Conference Pass (max)."
+  },
+  {
     "name": "GDG Abuja",
     "year_started": 2015,
     "city": "Abuja",
@@ -210,6 +250,36 @@
       "instagram": "https://instagram.com/gdglagos"
     },
     "description": "DevFest Lagos is a flagship GDG developer conference bringing together developers, designers and product professionals to learn about Google technologies, network and collaborate."
+  },
+  {
+    "name": "Google I/O",
+    "year_started": 2008,
+    "city": "Mountain View",
+    "region": "California",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://io.google",
+    "sector": ["Software Engineering", "Mobile Development"],
+    "acceptable_tags": ["android", "firebase", "flutter", "ai"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/Los_Angeles",
+    "attendee_size": { "min": 3000, "max": 7000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 0, "max": 1500 },
+    "organizer": {
+      "name": "Google",
+      "email": "",
+      "twitter": "https://twitter.com/googledevs",
+      "website": "https://developers.google.com"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/googledevs",
+      "linkedin": "https://www.linkedin.com/showcase/googledevelopers/",
+      "youtube": "https://www.youtube.com/c/GoogleDevelopers",
+      "instagram": "https://www.instagram.com/googlefordevs/"
+    },
+    "description": "Google I/O is Google’s flagship developer conference, held annually in Mountain View. It gathers developers, engineers, and tech‑enthusiasts worldwide to explore the latest in Android, web, cloud, AI, and more. Expect keynote announcements, technical sessions, hands‑on codelabs, and deep dives into Google’s evolving ecosystem — all delivered by top Google engineers and global experts."
   },
   {
     "name": "JSConf Asia",
@@ -420,6 +490,45 @@
       "instagram": "https://www.instagram.com/microsoftdeveloper/"
     },
     "description": "Microsoft Build is the flagship developer conference by Microsoft, showcasing the latest in cloud, AI, and developer tools through keynotes, technical sessions, and hands-on labs."
+  },
+  {
+    "name": "Mobile World Congress Barcelona",
+    "year_started": 1987,
+    "number_of_events_hosted": 37,
+    "city": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain",
+    "continent": "Europe",
+    "website": "https://www.mwcbarcelona.com/",
+    "sector": [
+      "Mobile Development",
+      "Cloud Computing",
+      "IoT",
+      "AI",
+      "Digital Transformation",
+      "FinTech"
+    ],
+    "tags": ["trade show", "connectivity", "telecom", "5G", "innovation"],
+    "acceptable_tags": ["innovation", "tech leadership"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "Europe/Madrid",
+    "attendee_size": { "min": 85000, "max": 110000 },
+    "ticket_cost_usual": { "currency": "EUR", "min": 899, "max": 4999 },
+    "organizer": {
+      "name": "GSMA",
+      "email": "sales@mwcbarcelona.com",
+      "twitter": "https://twitter.com/GSMA",
+      "website": "https://www.gsma.com/"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/MWCHub",
+      "linkedin": "https://www.linkedin.com/showcase/mwcbarcelona/",
+      "youtube": "https://youtube.com/@gsma",
+      "instagram": "https://instagram.com/mwcseries"
+    },
+    "description": "MWC Barcelona is the largest and most influential event for the global mobile ecosystem. Hosted by the GSMA, it brings together mobile operators, device manufacturers, technology providers, and innovators to discuss the future of connectivity, 5G, intelligent infrastructure, FinTech, and enterprise AI. The event features major keynote speeches, expansive exhibitions, and high-level networking. The ticket cost range reflects the difference between the standard 'Exhibition Pass' (min) and the high-end 'VIP Pass' for executives (max)."
   },
   {
     "name": "Money20/20 USA",
