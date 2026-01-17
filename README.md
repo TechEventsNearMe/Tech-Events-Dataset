@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 18**
+**Total Tech Events: 23**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -17,14 +17,19 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Cloud Native Computing Foundation | Chicago | United States | North America | [Link](https://kubecon.io) |
 | GDG Abuja | Abuja | Nigeria | Africa | [Link](https://gdg.community.dev/gdg-abuja) |
 | GDG DevFest Lagos | Lagos | Nigeria | Africa | [Link](https://gdglagos.com) |
+| JSConf Asia | Singapore | Singapore | Asia | [Link](https://jsconf.asia) |
 | JSConf India | Bengaluru | India | Asia | [Link](https://jsconf.in) |
+| JSNation | Amsterdam | Netherlands | Europe | [Link](https://jsnation.com) |
 | KubeCon + CloudNativeCon | Atlanta | United States | North America | [Link](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) |
 | LiverpoolJS | Liverpool | United Kingdom | Europe | [Link](https://www.meetup.com/liverpooljs) |
 | Microsoft Build | Seattle | United States | North America | [Link](https://build.microsoft.com) |
 | Money20/20 USA | Las Vegas | United States | North America | [Link](https://us.money2020.com) |
 | NDC Sydney | Sydney | Australia | Oceania | [Link](https://ndcsydney.com) |
 | NodeConf Argentina | Buenos Aires | Argentina | South America | [Link](https://nodeconf.com.ar) |
+| Norwegian Developers Conference (NDC Oslo) | Oslo | Norway | Europe | [Link](https://ndcoslo.com) |
 | NVIDIA GTC | San Jose | United States | North America | [Link](https://www.nvidia.com/gtc/) |
+| PyCon Canada | Toronto | Canada | North America | [Link](https://pycon.ca) |
+| PyCon JP | Tokyo | Japan | Asia | [Link](https://www.pycon.jp) |
 | React Advanced London | London | United Kingdom | Europe | [Link](https://reactadvanced.com) |
 | React India | Goa | India | Asia | [Link](https://www.reactindia.io) |
 | React Native Nigeria Conference | Lagos | Nigeria | Africa | [Link](https://reactnativenigeria.com) |
@@ -32,6 +37,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | WeAreDevelopers World Congress | Berlin | Germany | Europe | [Link](https://www.wearedevelopers.com/world-congress) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 

@@ -182,6 +182,36 @@
     "description": "DevFest Lagos is a flagship GDG developer conference bringing together developers, designers and product professionals to learn about Google technologies, network and collaborate."
   },
   {
+    "name": "JSConf Asia",
+    "year_started": 2012,
+    "city": "Singapore",
+    "region": "Singapore",
+    "country": "Singapore",
+    "continent": "Asia",
+    "website": "https://jsconf.asia",
+    "sector": ["Frontend / Web Development"],
+    "acceptable_tags": ["javascript", "nodejs", "react", "web", "typescript"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "Asia/Singapore",
+    "attendee_size": { "min": 800, "max": 1800 },
+    "ticket_cost_usual": { "currency": "SGD", "min": 0, "max": 1290 },
+    "organizer": {
+      "name": "JSConf Asia Team",
+      "email": "",
+      "twitter": "https://twitter.com/jsconfasia",
+      "website": "https://jsconf.asia"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/jsconfasia",
+      "linkedin": "",
+      "youtube": "",
+      "instagram": ""
+    },
+    "description": "A top JavaScript conference in Asia, bringing together international experts and developers to explore modern web technologies."
+  },
+  {
     "name": "JSConf India",
     "year_started": 2019,
     "city": "Bengaluru",
@@ -210,6 +240,43 @@
       "instagram": ""
     },
     "description": "India's premier JavaScript conference, featuring talks from global and local JS experts."
+  },
+  {
+    "name": "JSNation",
+    "year_started": 2019,
+    "city": "Amsterdam",
+    "region": "North Holland",
+    "country": "Netherlands",
+    "continent": "Europe",
+    "website": "https://jsnation.com",
+    "sector": ["Software Engineering", "Frontend / Web Development"],
+    "acceptable_tags": [
+      "javascript",
+      "frontend",
+      "web",
+      "react",
+      "vue",
+      "nodejs"
+    ],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "Europe/Amsterdam",
+    "attendee_size": { "min": 1000, "max": 2000 },
+    "ticket_cost_usual": { "currency": "EUR", "min": 350, "max": 710 },
+    "organizer": {
+      "name": "GitNation",
+      "email": "",
+      "twitter": "https://twitter.com/gitnation",
+      "website": "https://gitnation.org"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/jsnationconf",
+      "linkedin": "",
+      "youtube": "https://www.youtube.com/JSNation",
+      "instagram": ""
+    },
+    "description": "A leading JavaScript conference in Amsterdam featuring top JS frameworks, libraries, and tools."
   },
   {
     "name": "KubeCon + CloudNativeCon",
@@ -417,6 +484,36 @@
     "description": "NodeConf Argentina is a community-driven Node.js conference held annually in Buenos Aires. It brings together developers from across Latin America and beyond to explore the latest in Node.js, JavaScript, backend development, and the open-source ecosystem."
   },
   {
+    "name": "Norwegian Developers Conference (NDC Oslo)",
+    "year_started": 2008,
+    "city": "Oslo",
+    "region": "Oslo",
+    "country": "Norway",
+    "continent": "Europe",
+    "website": "https://ndcoslo.com",
+    "sector": ["Software Engineering"],
+    "acceptable_tags": ["cloud", "devops"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "Europe/Oslo",
+    "attendee_size": { "min": 1200, "max": 2500 },
+    "ticket_cost_usual": { "currency": "NOK", "min": 12490, "max": 25990 },
+    "organizer": {
+      "name": "NDC Conferences",
+      "email": "",
+      "twitter": "https://twitter.com/ndc_conferences",
+      "website": "https://ndcconferences.com"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/ndc_conferences",
+      "linkedin": "https://www.linkedin.com/company/ndc-conferences/",
+      "youtube": "https://www.youtube.com/c/NDCConferences",
+      "instagram": "https://www.instagram.com/ndc_conferences/"
+    },
+    "description": " NDC Oslo is one of Europe's leading developer conferences, bringing together software engineers, DevOps professionals, and cloud experts for five days of workshops, talks, and networking. Hosted annually in Oslo, it features top international speakers and deep technical sessions across a wide range of modern software development topics."
+  },
+  {
     "name": "NVIDIA GTC",
     "year_started": 2009,
     "number_of_events_hosted": 17,
@@ -460,6 +557,66 @@
       "instagram": "https://www.instagram.com/nvidia/"
     },
     "description": "NVIDIA GTC is the world's premier AI and accelerated computing conference, uniting developers, researchers, and business leaders. It features the annual keynote by CEO Jensen Huang and focuses on breakthroughs in Generative AI, robotics, physical AI, data science, and accelerated computing (GPUs). The event is primarily virtual, with a large in-person component, reflected in the wide attendee size and ticket cost range (free for the virtual pass, up to $3,500 for full workshops)."
+  },
+  {
+    "name": "PyCon Canada",
+    "year_started": 2013,
+    "city": "Toronto",
+    "region": "Ontario",
+    "country": "Canada",
+    "continent": "North America",
+    "website": "https://pycon.ca",
+    "sector": ["Software Engineering", "Data Science"],
+    "acceptable_tags": ["data", "ml", "web", "community"],
+    "type": "in-person",
+    "languages": ["English", "French"],
+    "frequency": "annual",
+    "timezone": "America/Toronto",
+    "attendee_size": { "min": 600, "max": 1200 },
+    "ticket_cost_usual": { "currency": "USD", "min": 150, "max": 800 },
+    "organizer": {
+      "name": "PyCon Canada Society",
+      "email": "",
+      "twitter": "https://twitter.com/pyconca",
+      "website": "https://pycon.ca"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/pyconca",
+      "linkedin": "",
+      "youtube": "",
+      "instagram": ""
+    },
+    "description": "PyCon Canada is a welcoming, community-driven conference held annually in Toronto. It brings together developers, data scientists, educators, and enthusiasts to share knowledge through talks, tutorials, and networking—all in both English and French."
+  },
+  {
+    "name": "PyCon JP",
+    "year_started": 2011,
+    "city": "Tokyo",
+    "region": "Tokyo",
+    "country": "Japan",
+    "continent": "Asia",
+    "website": "https://www.pycon.jp",
+    "sector": ["Software Engineering", "Data Science"],
+    "acceptable_tags": ["python", "data", "web", "machine-learning"],
+    "type": "in-person",
+    "languages": ["Japanese", "English"],
+    "frequency": "annual",
+    "timezone": "Asia/Tokyo",
+    "attendee_size": { "min": 800, "max": 1500 },
+    "ticket_cost_usual": { "currency": "JPY", "min": 0, "max": 50000 },
+    "organizer": {
+      "name": "PyCon JP Association",
+      "email": "",
+      "twitter": "https://twitter.com/pyconjp",
+      "website": "https://www.pycon.jp"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/pyconjp",
+      "linkedin": "",
+      "youtube": "",
+      "instagram": ""
+    },
+    "description": "Japan’s largest Python conference featuring bilingual (Japanese and English) sessions, technical talks, workshops, and active community engagement."
   },
   {
     "name": "React Advanced London",
