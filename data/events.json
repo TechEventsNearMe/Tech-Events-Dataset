@@ -99,6 +99,37 @@
     "description": "CloudNativeCon is the flagship conference of the Cloud Native Computing Foundation, focusing on cloud-native technologies."
   },
   {
+    "name": "Gamescom",
+    "year_started": 2009,
+    "number_of_events_hosted": 15,
+    "city": "Cologne",
+    "region": "North Rhine-Westphalia",
+    "country": "Germany",
+    "continent": "Europe",
+    "website": "https://www.gamescom.global/en",
+    "sector": ["Game Development", "AR / VR / XR", "Innovation"],
+    "tags": ["gaming", "esports", "entertainment"],
+    "acceptable_tags": ["indie", "publishers", "streaming"],
+    "type": "in-person",
+    "languages": ["English", "German"],
+    "frequency": "annual",
+    "timezone": "Europe/Berlin",
+    "attendee_size": { "min": 25000, "max": 35000 },
+    "ticket_cost_usual": { "currency": "EUR", "min": 98, "max": 278.95 },
+    "organizer": {
+      "name": "Koelnmesse",
+      "email": "",
+      "website": "https://www.koelnmesse.com/"
+    },
+    "socials": {
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/showcase/gamescom/",
+      "youtube": "",
+      "instagram": "https://www.instagram.com/gamescom/"
+    },
+    "description": "Gamescom is Europe’s largest gaming event, bringing together developers, publishers, esports professionals, and millions of fans from around the world."
+  },
+  {
     "name": "GDG Abuja",
     "year_started": 2015,
     "city": "Abuja",
@@ -180,6 +211,43 @@
       "instagram": "https://instagram.com/gdglagos"
     },
     "description": "DevFest Lagos is a flagship GDG developer conference bringing together developers, designers and product professionals to learn about Google technologies, network and collaborate."
+  },
+  {
+    "name": "Hannover Messe",
+    "year_started": 1947,
+    "number_of_events_hosted": 70,
+    "city": "Hannover",
+    "region": "Lower Saxony",
+    "country": "Germany",
+    "continent": "Europe",
+    "website": "https://www.hannovermesse.de/en/a",
+    "sector": [
+      "Infrastructure",
+      "Digital Transformation",
+      "Innovation",
+      "Cloud Computing"
+    ],
+    "tags": ["industrial", "manufacturing", "industry-4-0"],
+    "acceptable_tags": ["automation", "energy", "engineering"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "Europe/Berlin",
+    "attendee_size": { "min": 100000, "max": 200000 },
+    "ticket_cost_usual": { "currency": "EUR", "min": 23, "max": 165 },
+    "organizer": {
+      "name": "Deutsche Messe AG",
+      "email": "",
+      "twitter": "https://x.com/deutschemesse",
+      "website": "https://www.messe.de/en/"
+    },
+    "socials": {
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/showcase/hannovermesse/",
+      "youtube": "https://www.youtube.com/user/hannovermesse",
+      "instagram": "https://www.instagram.com/hannover_messe/"
+    },
+    "description": "Hannover Messe is a leading global industrial technology exhibition focused on manufacturing innovation, Industry 4.0, and energy transition."
   },
   {
     "name": "JSConf India",
@@ -369,6 +437,44 @@
       "instagram": "https://www.instagram.com/microsoftdeveloper/"
     },
     "description": "Microsoft Build is the flagship developer conference by Microsoft, showcasing the latest in cloud, AI, and developer tools through keynotes, technical sessions, and hands-on labs."
+  },
+  {
+    "name": "Mobile World Congress Barcelona",
+    "year_started": 2006,
+    "number_of_events_hosted": 15,
+    "city": "Barcelona",
+    "region": "Catalonia",
+    "country": "Spain",
+    "continent": "Europe",
+    "website": "https://www.mwcbarcelona.com/",
+    "sector": [
+      "AI",
+      "Mobile Development",
+      "IoT",
+      "Digital Transformation",
+      "Cloud Computing"
+    ],
+    "tags": ["conference", "connectivity", "5g"],
+    "acceptable_tags": ["innovation", "mobile", "telecom"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "Europe/Madrid",
+    "attendee_size": { "min": 50000, "max": 100000 },
+    "ticket_cost_usual": { "currency": "EUR", "min": 989, "max": 5499 },
+    "organizer": {
+      "name": "GSMA",
+      "email": "",
+      "twitter": "https://x.com/gsma",
+      "website": "https://www.gsma.com/"
+    },
+    "socials": {
+      "twitter": "https://x.com/MWCHub",
+      "linkedin": "https://www.linkedin.com/showcase/mwcbarcelona/",
+      "youtube": "https://www.youtube.com/user/GSMAOnline",
+      "instagram": "https://www.instagram.com/mwcseries/"
+    },
+    "description": "Mobile World Congress Barcelona is one of the world’s largest connectivity events, bringing together global leaders in mobile technology, AI, 5G, IoT, and digital transformation."
   },
   {
     "name": "Money20/20 USA",
@@ -656,6 +762,43 @@
       "instagram": "https://www.instagram.com/onersac_community/"
     },
     "description": "RSA Conference is a major cybersecurity event featuring keynotes, sessions, and an expo focusing on security, appsec, privacy, and compliance trends and solutions."
+  },
+  {
+    "name": "VivaTech",
+    "year_started": 2016,
+    "number_of_events_hosted": 9,
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "France",
+    "continent": "Europe",
+    "website": "https://vivatech.com/",
+    "sector": [
+      "Startup / Entrepreneurship",
+      "Innovation",
+      "AI",
+      "Digital Transformation"
+    ],
+    "tags": ["startup", "innovation", "technology"],
+    "acceptable_tags": ["founders", "vc", "corporate"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "Europe/Paris",
+    "attendee_size": { "min": 4000, "max": 10000 },
+    "ticket_cost_usual": { "currency": "EUR", "min": 350, "max": 750 },
+    "organizer": {
+      "name": "Viva Technology",
+      "email": "",
+      "twitter": "",
+      "website": "https://vivatech.com/"
+    },
+    "socials": {
+      "twitter": "",
+      "linkedin": "",
+      "youtube": "",
+      "instagram": "https://www.instagram.com/vivatech/?hl=en"
+    },
+    "description": "VivaTech is a major European technology event focused on startups, innovation, and corporate transformation, attracting global tech leaders and investors."
   },
   {
     "name": "WeAreDevelopers World Congress",

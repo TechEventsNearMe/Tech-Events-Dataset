@@ -1,0 +1,68 @@
+{
+  "name": "Hannover Messe",
+  "year_started": 1947,
+  "number_of_events_hosted": 70,
+
+  "city": "Hannover",
+  "region": "Lower Saxony",
+  "country": "Germany",
+  "continent": "Europe",
+
+  "website": "https://www.hannovermesse.de/en/a",
+
+  "sector": [
+    "Infrastructure",
+    "Digital Transformation",
+    "Innovation",
+    "Cloud Computing"
+  ],
+
+  "tags": [
+    "industrial",
+    "manufacturing",
+    "industry-4-0"
+  ],
+
+  "acceptable_tags": [
+    "automation",
+    "energy",
+    "engineering"
+  ],
+
+  "type": "in-person",
+
+  "languages": [
+    "English"
+  ],
+
+  "frequency": "annual",
+
+  "timezone": "Europe/Berlin",
+
+  "attendee_size": {
+    "min": 100000,
+    "max": 200000
+  },
+
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 23,
+    "max": 165
+    },
+
+  "organizer": {
+    "name": "Deutsche Messe AG",
+    "email": "",
+    "twitter": "https://x.com/deutschemesse",
+    "website": "https://www.messe.de/en/"
+  },
+
+  "socials": {
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/showcase/hannovermesse/",
+    "youtube": "https://www.youtube.com/user/hannovermesse",
+    "instagram": "https://www.instagram.com/hannover_messe/"
+  },
+
+  "description": "Hannover Messe is a leading global industrial technology exhibition focused on manufacturing innovation, Industry 4.0, and energy transition."
+}

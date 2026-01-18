@@ -1,0 +1,69 @@
+{
+  "name": "Mobile World Congress Barcelona",
+  "year_started": 2006,
+  "number_of_events_hosted": 15,
+
+  "city": "Barcelona",
+  "region": "Catalonia",
+  "country": "Spain",
+  "continent": "Europe",
+
+  "website": "https://www.mwcbarcelona.com/",
+  
+  "sector": [
+    "AI",
+    "Mobile Development",
+    "IoT",
+    "Digital Transformation",
+    "Cloud Computing"
+  ],
+
+  "tags": [
+    "conference",
+    "connectivity",
+    "5g"
+  ],
+
+  "acceptable_tags": [
+    "innovation",
+    "mobile",
+    "telecom"
+  ],
+
+  "type": "in-person",
+
+  "languages": [
+    "English"
+  ],
+
+  "frequency": "annual",
+
+  "timezone": "Europe/Madrid",
+
+  "attendee_size": {
+    "min": 50000,
+    "max": 100000
+  },
+
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 989,
+    "max": 5499
+  },
+
+  "organizer": {
+    "name": "GSMA",
+    "email": "",
+    "twitter": "https://x.com/gsma",
+    "website": "https://www.gsma.com/"
+  },
+
+  "socials": {
+    "twitter": "https://x.com/MWCHub",
+    "linkedin": "https://www.linkedin.com/showcase/mwcbarcelona/",
+    "youtube": "https://www.youtube.com/user/GSMAOnline",
+    "instagram": "https://www.instagram.com/mwcseries/"
+  },
+
+  "description": "Mobile World Congress Barcelona is one of the world’s largest connectivity events, bringing together global leaders in mobile technology, AI, 5G, IoT, and digital transformation."
+}

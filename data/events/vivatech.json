@@ -1,0 +1,68 @@
+{
+ "name": "VivaTech",
+ "year_started": 2016,
+ "number_of_events_hosted": 9,
+
+ "city": "Paris",
+ "region": "Île-de-France",
+ "country": "France",
+ "continent": "Europe",
+
+ "website": "https://vivatech.com/",
+
+ "sector": [
+    "Startup / Entrepreneurship",
+    "Innovation",
+    "AI",
+    "Digital Transformation"
+  ],
+
+ "tags": [
+    "startup",
+    "innovation",
+    "technology"
+  ],
+
+ "acceptable_tags": [
+    "founders",
+    "vc",
+    "corporate"
+  ],
+
+ "type": "in-person",
+
+ "languages": [
+    "English"
+  ],
+
+ "frequency": "annual",
+
+ "timezone": "Europe/Paris",
+
+ "attendee_size": {
+    "min": 4000,
+    "max": 10000
+  },
+ 
+ "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 350,
+    "max": 750
+  },
+
+ "organizer": {
+    "name": "Viva Technology",
+    "email": "",
+    "twitter": "",
+    "website": "https://vivatech.com/"
+  },
+
+ "socials": {
+    "twitter": "",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": "https://www.instagram.com/vivatech/?hl=en"
+  },
+
+  "description": "VivaTech is a major European technology event focused on startups, innovation, and corporate transformation, attracting global tech leaders and investors."
+}

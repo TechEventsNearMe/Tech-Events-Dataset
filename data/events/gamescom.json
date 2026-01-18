@@ -1,0 +1,67 @@
+{
+  "name": "Gamescom",
+  "year_started": 2009,
+  "number_of_events_hosted": 15,
+
+  "city": "Cologne",
+  "region": "North Rhine-Westphalia",
+  "country": "Germany",
+  "continent": "Europe",
+
+  "website": "https://www.gamescom.global/en",
+
+  "sector": [
+    "Game Development",
+    "AR / VR / XR",
+    "Innovation"
+  ],
+
+  "tags": [
+    "gaming",
+    "esports",
+    "entertainment"
+  ],
+
+  "acceptable_tags": [
+    "indie",
+    "publishers",
+    "streaming"
+  ],
+
+  "type": "in-person",
+
+  "languages": [
+    "English",
+    "German"
+  ],
+
+  "frequency": "annual",
+
+  "timezone": "Europe/Berlin",
+
+  "attendee_size": {
+    "min": 25000,
+    "max": 35000
+  },
+
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 98,
+    "max": 278.95
+  },
+
+  "organizer": {
+    "name": "Koelnmesse",
+    "email": "",
+    "website": "https://www.koelnmesse.com/"
+  },
+
+  "socials": {
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/showcase/gamescom/",
+    "youtube": "",
+    "instagram": "https://www.instagram.com/gamescom/"
+  },
+
+  "description": "Gamescom is Europe’s largest gaming event, bringing together developers, publishers, esports professionals, and millions of fans from around the world."
+}
