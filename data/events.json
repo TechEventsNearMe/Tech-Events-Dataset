@@ -1389,6 +1389,52 @@
     "description": "SXSW Austin is one of the world’s most influential annual tech and creative festivals, blending interactive, film, music, and emerging technology showcases. Since its first edition in 1987, SXSW has grown into a massive global gathering of innovators, developers, creators, and entrepreneurs. The conference features hundreds of sessions, workshops, expos, and networking events exploring the latest in AI, software, XR, mobile, cloud, gaming, and digital culture, drawing over 240,000 attendees to Austin each year. The event also offers a vibrant environment for startups, industry leaders, and creatives to connect and collaborate across disciplines."
   },
   {
+    "name": "TechCrunch Disrupt San Francisco",
+    "year_started": 2010,
+    "number_of_events_hosted": 15,
+    "city": "San Francisco",
+    "region": "California",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://techcrunch.com/events/disrupt-sf-2025/",
+    "sector": [
+      "Startup / Entrepreneurship",
+      "Innovation",
+      "Product Management",
+      "Tech Leadership",
+      "Cloud Computing",
+      "AI"
+    ],
+    "tags": ["startup", "entrepreneurship", "technology", "conference"],
+    "acceptable_tags": [
+      "techcrunch",
+      "disrupt",
+      "startup",
+      "innovation",
+      "product",
+      "ai"
+    ],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/Los_Angeles",
+    "attendee_size": { "min": 8000, "max": 12000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 0, "max": 1799 },
+    "organizer": {
+      "name": "TechCrunch",
+      "email": "events@techcrunch.com",
+      "twitter": "https://x.com/techcrunch",
+      "website": "https://techcrunch.com/"
+    },
+    "socials": {
+      "twitter": "https://x.com/techcrunch",
+      "linkedin": "https://www.linkedin.com/company/techcrunch/",
+      "youtube": "https://www.youtube.com/@techcrunch",
+      "instagram": "https://www.instagram.com/techcrunch/"
+    },
+    "description": "TechCrunch Disrupt San Francisco is an annual technology conference focused on startups, entrepreneurship, and innovation. The event features startup pitch competitions, founder panels, keynote presentations, workshops, and networking opportunities with investors, media, and technology leaders. It covers topics including product management, tech leadership, cloud computing, and artificial intelligence, offering emerging companies a global stage to showcase their ideas and gain exposure."
+  },
+  {
     "name": "WeAreDevelopers World Congress",
     "year_started": 2015,
     "city": "Berlin",
