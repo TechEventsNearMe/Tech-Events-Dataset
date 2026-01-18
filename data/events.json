@@ -360,6 +360,53 @@
     "description": "Google I/O is Google’s flagship developer conference, held annually in Mountain View. It gathers developers, engineers, and tech‑enthusiasts worldwide to explore the latest in Android, web, cloud, AI, and more. Expect keynote announcements, technical sessions, hands‑on codelabs, and deep dives into Google’s evolving ecosystem — all delivered by top Google engineers and global experts."
   },
   {
+    "name": "Google I/O Mountain View",
+    "year_started": 2008,
+    "number_of_events_hosted": 17,
+    "city": "Mountain View",
+    "region": "California",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://io.google/",
+    "sector": [
+      "Frontend / Web Development",
+      "Mobile Development",
+      "AI",
+      "Machine Learning",
+      "Cloud Computing",
+      "Firebase",
+      "Innovation"
+    ],
+    "tags": ["developer", "technology", "conference", "google"],
+    "acceptable_tags": [
+      "googleio",
+      "android",
+      "web",
+      "ai",
+      "firebase",
+      "cloud"
+    ],
+    "type": "hybrid",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/Los_Angeles",
+    "attendee_size": { "min": 7000, "max": 10000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 0, "max": 1150 },
+    "organizer": {
+      "name": "Google",
+      "email": "IO@google.com",
+      "twitter": "https://x.com/googleio",
+      "website": "https://io.google/"
+    },
+    "socials": {
+      "twitter": "https://x.com/googleio",
+      "linkedin": "https://www.linkedin.com/company/googledevelopers/",
+      "youtube": "https://www.youtube.com/@GoogleDevelopers",
+      "instagram": "https://www.instagram.com/googlefordevs/"
+    },
+    "description": "Google I/O Mountain View is Google’s annual flagship developer conference, held at the Shoreline Amphitheatre in California. The event focuses on web technologies, Android, artificial intelligence, machine learning, cloud computing, and Firebase. Google I/O features major product announcements, technical keynotes, hands-on developer sessions, and workshops led by Google engineers, offering insights into the future of Google platforms and tools."
+  },
+  {
     "name": "JSConf Asia",
     "year_started": 2012,
     "city": "Singapore",
