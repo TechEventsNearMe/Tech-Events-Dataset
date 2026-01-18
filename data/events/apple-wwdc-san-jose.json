@@ -1,0 +1,62 @@
+{
+  "name": "Apple WWDC San Jose",
+  "year_started": 1983,
+  "number_of_events_hosted": 36,
+  "city": "San Jose",
+  "region": "California",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://developer.apple.com/wwdc/",
+  "sector": [
+    "Software Engineering",
+    "Frontend / Web Development",
+    "Mobile Development",
+    "AI",
+    "Machine Learning",
+    "UX / UI",
+    "Product Management",
+    "Innovation"
+  ],
+  "tags": [
+    "apple",
+    "developer",
+    "conference",
+    "technology"
+  ],
+  "acceptable_tags": [
+    "wwdc",
+    "ios",
+    "macos",
+    "swift",
+    "apple",
+    "developers"
+  ],
+  "type": "hybrid",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Los_Angeles",
+  "attendee_size": {
+    "min": 2000,
+    "max": 9000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 0,
+    "max": 1599
+  },
+  "organizer": {
+    "name": "Apple Inc.",
+    "email": "developer@apple.com",
+    "twitter": "https://x.com/apple",
+    "website": "https://developer.apple.com/wwdc/"
+  },
+  "socials": {
+    "twitter": "https://x.com/apple",
+    "linkedin": "https://www.linkedin.com/company/apple/",
+    "youtube": "https://www.youtube.com/@Apple",
+    "instagram": "https://www.instagram.com/apple/"
+  },
+  "description": "Apple WWDC (Worldwide Developers Conference) San Jose is Apple’s annual flagship event for developers worldwide. The conference focuses on software engineering, mobile development, iOS/macOS platforms, AI and machine learning, UX/UI design, and product innovation. WWDC features keynote presentations by Apple executives, technical sessions, coding labs, hands-on workshops, and networking opportunities for developers. The event is hybrid, allowing both in-person attendance in San Jose and virtual participation globally."
+}
