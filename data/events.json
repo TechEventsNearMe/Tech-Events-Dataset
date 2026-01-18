@@ -381,6 +381,38 @@
     "description": "Dreamforce San Francisco is Salesforce’s flagship annual technology conference, bringing together enterprise leaders, developers, administrators, and partners from around the world. The event focuses on cloud computing, artificial intelligence, analytics, product innovation, security, and leadership. Dreamforce features high-profile keynote sessions, hands-on workshops, product announcements, and extensive networking opportunities across the Salesforce ecosystem."
   },
   {
+    "name": "Game Developers Conference",
+    "year_started": 1988,
+    "number_of_events_hosted": 37,
+    "city": "San Francisco",
+    "region": "California",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://gdconf.com",
+    "sector": ["Game Development", "AR / VR / XR", "3D / Graphics"],
+    "tags": ["conference", "gaming", "developers"],
+    "acceptable_tags": ["games", "dev", "graphics"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/Los_Angeles",
+    "attendee_size": { "min": 20000, "max": 30000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 200, "max": 1699 },
+    "organizer": {
+      "name": "Informa Tech",
+      "email": "",
+      "twitter": "https://twitter.com/Official_GDC",
+      "website": "https://gdconf.com"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/Official_GDC",
+      "linkedin": "https://www.linkedin.com/uas/login?session_redirect=%2Fcompany%2F6962045%2F",
+      "youtube": "https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ",
+      "instagram": "https://www.instagram.com/official_gdc/"
+    },
+    "description": "The Game Developers Conference (GDC) is the largest annual gathering of professional video game developers, featuring talks, workshops, and an expo."
+  },
+  {
     "name": "GDG Abuja",
     "year_started": 2015,
     "city": "Abuja",
