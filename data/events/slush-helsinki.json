@@ -1,0 +1,63 @@
+{
+  "name": "Slush Helsinki",
+  "year_started": 2008,
+  "number_of_events_hosted": 18,
+  "city": "Helsinki",
+  "region": "Uusimaa",
+  "country": "Finland",
+  "continent": "Europe",
+  "website": "https://www.slush.org",
+  "sector": [
+    "Startup / Entrepreneurship",
+    "AI",
+    "Machine Learning",
+    "Product Management",
+    "Innovation",
+    "FinTech",
+    "Cloud Computing",
+    "Tech Leadership"
+  ],
+  "tags": [
+    "startup",
+    "entrepreneurship",
+    "technology",
+    "innovation",
+    "conference"
+  ],
+  "acceptable_tags": [
+    "slush",
+    "startup",
+    "innovation",
+    "fintech",
+    "ai",
+    "leaders"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Helsinki",
+  "attendee_size": {
+    "min": 13000,
+    "max": 13000
+  },
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 0,
+    "max": 1295
+  },
+  "organizer": {
+    "name": "Slush Oy",
+    "email": "",
+    "twitter": "https://twitter.com/slushhq",
+    "website": "https://www.slush.org"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/slushhq",
+    "linkedin": "https://www.linkedin.com/company/slushhq/",
+    "youtube": "https://www.youtube.com/@slush",
+    "instagram": "https://www.instagram.com/slushhq/"
+  },
+  "description": "Slush Helsinki is a leading global startup and technology event in Finland. It connects founders, investors, and innovators to share insights, showcase startups, and discuss trends in AI, machine learning, fintech, cloud computing, product management, and tech leadership. The event features keynote talks, startup pitches, workshops, and networking sessions to foster entrepreneurship and innovation."
+}
