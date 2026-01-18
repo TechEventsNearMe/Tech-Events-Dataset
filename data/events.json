@@ -914,6 +914,52 @@
     "description": "Japan’s largest Python conference featuring bilingual (Japanese and English) sessions, technical talks, workshops, and active community engagement."
   },
   {
+    "name": "PyCon US Pittsburgh",
+    "year_started": 2003,
+    "number_of_events_hosted": 21,
+    "city": "Pittsburgh",
+    "region": "Pennsylvania",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://us.pycon.org/",
+    "sector": [
+      "Software Engineering",
+      "Backend / APIs",
+      "Frontend / Web Development",
+      "Data Science",
+      "Machine Learning",
+      "DevOps",
+      "Security"
+    ],
+    "tags": ["python", "developer", "conference", "opensource"],
+    "acceptable_tags": [
+      "pycon",
+      "python",
+      "developers",
+      "opensource",
+      "community"
+    ],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/New_York",
+    "attendee_size": { "min": 200, "max": 3500 },
+    "ticket_cost_usual": { "currency": "USD", "min": 75, "max": 1200 },
+    "organizer": {
+      "name": "Python Software Foundation",
+      "email": "pycon-reg@python.org",
+      "twitter": "https://x.com/pycon",
+      "website": "https://www.python.org/psf/"
+    },
+    "socials": {
+      "twitter": "https://x.com/pycon",
+      "linkedin": "https://www.linkedin.com/company/python-software-foundation/",
+      "youtube": "https://www.youtube.com/@PyConUS",
+      "instagram": "https://www.instagram.com/pycon/"
+    },
+    "description": "PyCon US Pittsburgh is the largest annual gathering of the global Python community, organized by the Python Software Foundation. The conference focuses on software engineering, backend and web development, data science, machine learning, DevOps, and security using Python. PyCon US features keynote talks, technical sessions, tutorials, sprints, and community events that support open-source collaboration, learning, and professional growth."
+  },
+  {
     "name": "QCon New York",
     "year_started": 2007,
     "city": "New York",

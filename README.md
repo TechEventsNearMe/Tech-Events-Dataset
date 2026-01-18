@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 36**
+**Total Tech Events: 37**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -38,6 +38,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | NVIDIA GTC | San Jose | United States | North America | [Link](https://www.nvidia.com/gtc/) |
 | PyCon Canada | Toronto | Canada | North America | [Link](https://pycon.ca) |
 | PyCon JP | Tokyo | Japan | Asia | [Link](https://www.pycon.jp) |
+| PyCon US Pittsburgh | Pittsburgh | United States | North America | [Link](https://us.pycon.org/) |
 | QCon New York | New York | United States | North America | [Link](https://www.qconferences.com/) |
 | React Advanced London | London | United Kingdom | Europe | [Link](https://reactadvanced.com) |
 | React India | Goa | India | Asia | [Link](https://www.reactindia.io) |
@@ -50,6 +51,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Web Summit | Lisbon | Portugal | Europe | [Link](https://websummit.com) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
