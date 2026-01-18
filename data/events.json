@@ -247,6 +247,53 @@
     "description": "DeepFest Riyadh is one of the world’s fastest‑growing AI and technology conferences, co‑located with the LEAP Tech Event in Saudi Arabia. Powered by the Saudi Authority for Data and Artificial Intelligence (SDAIA) and organised by Tahaluf & Co., DeepFest brings together AI researchers, developers, innovators, engineers, and decision‑makers from across the globe. The event features keynote sessions, workshops, exhibits, and deep dives into cutting‑edge topics like generative AI, robotics, ethics, and real‑world AI adoption. With over 68,000 attendees in 2025, it has become a key meeting point for the global AI community."
   },
   {
+    "name": "Dreamforce San Francisco",
+    "year_started": 2003,
+    "number_of_events_hosted": 21,
+    "city": "San Francisco",
+    "region": "California",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://www.salesforce.com/dreamforce/",
+    "sector": [
+      "Cloud Computing",
+      "AI",
+      "Analytics",
+      "Product Management",
+      "Innovation",
+      "Tech Leadership",
+      "Security"
+    ],
+    "tags": ["technology", "enterprise", "conference", "crm"],
+    "acceptable_tags": [
+      "dreamforce",
+      "salesforce",
+      "cloud",
+      "ai",
+      "analytics",
+      "enterprise"
+    ],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/Los_Angeles",
+    "attendee_size": { "min": 1300, "max": 50000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 900, "max": 2500 },
+    "organizer": {
+      "name": "Salesforce",
+      "email": "dreamforceregistration@salesforce.com",
+      "twitter": "https://x.com/salesforce",
+      "website": "https://www.salesforce.com/"
+    },
+    "socials": {
+      "twitter": "https://x.com/salesforce",
+      "linkedin": "https://www.linkedin.com/company/salesforce/",
+      "youtube": "https://www.youtube.com/@salesforce",
+      "instagram": "https://www.instagram.com/salesforce/"
+    },
+    "description": "Dreamforce San Francisco is Salesforce’s flagship annual technology conference, bringing together enterprise leaders, developers, administrators, and partners from around the world. The event focuses on cloud computing, artificial intelligence, analytics, product innovation, security, and leadership. Dreamforce features high-profile keynote sessions, hands-on workshops, product announcements, and extensive networking opportunities across the Salesforce ecosystem."
+  },
+  {
     "name": "GDG Abuja",
     "year_started": 2015,
     "city": "Abuja",
