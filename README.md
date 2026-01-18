@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 28**
+**Total Tech Events: 29**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -40,8 +40,10 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | React Native Nigeria Conference | Lagos | Nigeria | Africa | [Link](https://reactnativenigeria.com) |
 | RSA Conference | San Francisco | United States | North America | [Link](https://www.rsaconference.com) |
 | WeAreDevelopers World Congress | Berlin | Germany | Europe | [Link](https://www.wearedevelopers.com/world-congress) |
+| Web Directions Summit | Melbourne | Australia | Oceania | [Link](https://webdirections.org/summit) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
