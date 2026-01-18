@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 29**
+**Total Tech Events: 33**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -17,6 +17,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Build With React Native Manchester | Manchester | United Kingdom | Europe | [Link](https://buildwithreactnative.com/manchester) |
 | Cloud Native Computing Foundation | Chicago | United States | North America | [Link](https://kubecon.io) |
 | Consumer Electronics Show | Las Vegas | United States | North America | [Link](https://www.ces.tech/) |
+| CVPR | Seattle | United States | North America | [Link](https://cvpr.thecvf.com) |
 | GDG Abuja | Abuja | Nigeria | Africa | [Link](https://gdg.community.dev/gdg-abuja) |
 | GDG DevFest Lagos | Lagos | Nigeria | Africa | [Link](https://gdglagos.com) |
 | Google I/O | Mountain View | United States | North America | [Link](https://io.google) |
@@ -29,6 +30,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Mobile World Congress Barcelona | Barcelona | Spain | Europe | [Link](https://www.mwcbarcelona.com/) |
 | Money20/20 USA | Las Vegas | United States | North America | [Link](https://us.money2020.com) |
 | NDC Sydney | Sydney | Australia | Oceania | [Link](https://ndcsydney.com) |
+| NeurIPS | New Orleans | United States | North America | [Link](https://neurips.cc) |
 | NodeConf Argentina | Buenos Aires | Argentina | South America | [Link](https://nodeconf.com.ar) |
 | Norwegian Developers Conference (NDC Oslo) | Oslo | Norway | Europe | [Link](https://ndcoslo.com) |
 | NVIDIA GTC | San Jose | United States | North America | [Link](https://www.nvidia.com/gtc/) |
@@ -39,10 +41,13 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | React India | Goa | India | Asia | [Link](https://www.reactindia.io) |
 | React Native Nigeria Conference | Lagos | Nigeria | Africa | [Link](https://reactnativenigeria.com) |
 | RSA Conference | San Francisco | United States | North America | [Link](https://www.rsaconference.com) |
+| Slush Helsinki | Helsinki | Finland | Europe | [Link](https://www.slush.org) |
 | WeAreDevelopers World Congress | Berlin | Germany | Europe | [Link](https://www.wearedevelopers.com/world-congress) |
 | Web Directions Summit | Melbourne | Australia | Oceania | [Link](https://webdirections.org/summit) |
+| Web Summit | Lisbon | Portugal | Europe | [Link](https://websummit.com) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
