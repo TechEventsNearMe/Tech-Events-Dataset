@@ -582,6 +582,38 @@
     "description": "KubeCon + CloudNativeCon is the Cloud Native Computing Foundation’s (CNCF) flagship conference, bringing together adopters and developers of open source and cloud native technologies. The event focuses on Kubernetes, Prometheus, Envoy, and the entire cloud native ecosystem, with key themes covering platform engineering, AI integration, security, and GitOps. Ticket pricing reflects the range from the student/academic pass (min) to the corporate all-access pass (max), which includes co-located events."
   },
   {
+    "name": "LeadDev New York",
+    "year_started": 2015,
+    "number_of_events_hosted": 9,
+    "city": "New York",
+    "region": "New York",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://leaddev.com",
+    "sector": ["Tech Leadership", "Software Engineering", "Product Management"],
+    "tags": ["conference", "leadership", "engineering"],
+    "acceptable_tags": ["leadership", "engineering", "management"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/New_York",
+    "attendee_size": { "min": 1575, "max": 3450 },
+    "ticket_cost_usual": { "currency": "USD", "min": 800, "max": 1800 },
+    "organizer": {
+      "name": "LeadDev",
+      "email": "",
+      "twitter": "https://twitter.com/leaddev",
+      "website": "https://leaddev.com"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/leaddev",
+      "linkedin": "",
+      "youtube": "",
+      "instagram": ""
+    },
+    "description": "LeadDev New York is a conference for engineering managers and technical leaders, focusing on leadership, culture, and scaling teams."
+  },
+  {
     "name": "LiverpoolJS",
     "year_started": 2025,
     "city": "Liverpool",
