@@ -8,7 +8,7 @@
   "country": "Nigeria",
   "continent": "Africa",
 
-  "website": "https://portharcourt.wordcamp.org/2026/",
+  "website": "https://portharcourt.wordcamp.org/2026",
 
   "sector": ["Technology", "Website"],
 
@@ -44,10 +44,10 @@
 
   "socials": {
     "twitter": "https://x.com/wordpressphc",
-    "linkedin": "https://linkedin.com/company/event",
-    "youtube": "https://youtube.com/@event",
+    "linkedin": null,
+    "youtube": null,
     "instagram": "https://instagram.com/wordpressphc"
   },
 
-  "description": "A community-powered tech conference for WordPress lovers, creators, innovators, bloggers, developers, designers, business owners, and WordPress users of all levels . 100% volunteer-led and non-profit. WordCamp is a locally organized conference focused on everything WordPress. It’s open to everyone."
+  "description": "A community powered tech conference for WordPress lovers, creators, innovators, bloggers, developers, designers, business owners, and WordPress users of all levels . 100% volunteer-led and non-profit. WordCamp is a locally organized conference focused on everything WordPress. It’s open to everyone."
 }

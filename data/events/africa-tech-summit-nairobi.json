@@ -2,11 +2,11 @@
   "name": "Africa Tech Summit Nairobi",
   "year_started": 2018,
   "city": "Nairobi",
-  "region": "Nairobi",
+  "region": "Nairobi City",
   "country": "Kenya",
   "continent": "Africa",
   "website": "https://www.africatechsummit.com/nairobi/",
-  "sector": ["Software Engineering"],
+  "sector": ["Software Engineering","Technology", "Investment","Entrepreneurship"],
   "acceptable_tags": ["cloud", "mobile", "ai"],
   "type": "in-person",
   "languages": ["English"],
@@ -23,15 +23,15 @@
   },
   "organizer": {
     "name": "Africa Tech Summit",
-    "email": "",
+    "email": null,
     "twitter": "https://twitter.com/afritechsummit",
     "website": "https://www.africatechsummit.com"
   },
   "socials": {
     "twitter": "https://twitter.com/afritechsummit",
     "linkedin": "https://www.linkedin.com/company/africa-tech-summit/",
-    "youtube": "",
-    "instagram": "https://www.instagram.com/ats_hq/#"
+    "youtube": null,
+    "instagram": "https://www.instagram.com/ats_hq/"
   },
   "description": "A pan-African technology and investment summit connecting founders, developers, and investors."
 }

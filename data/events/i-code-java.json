@@ -22,7 +22,7 @@
 
   "frequency": "annual",
 
-  "timezone": "GMT+2",
+  "timezone": "UTC+2",
 
   "attendee_size": {
     "min": 100,
@@ -30,13 +30,13 @@
   },
 
   "ticket_cost_usual": {
-    "currency": "RAND",
+    "currency": "ZAR",
     "min": 0,
     "max": 50
   },
 
   "organizer": {
-    "name": " Java Cloud Conference",
+    "name": "Java Cloud Conference",
     "email": "info@j-sa.co",
     "twitter": "https://twitter.com/JavaAfrica",
     "website": "https://j-sa.co/"
@@ -44,9 +44,9 @@
 
   "socials": {
     "twitter": "https://twitter.com/JavaAfrica",
-    "linkedin": "https://linkedin.com/company/event",
-    "youtube": "https://youtube.com/@event",
-    "instagram": "https://instagram.com/event"
+    "linkedin": null,
+    "youtube": null,
+    "instagram": null
   },
 
   "description": "Each year, we explore the tools and trends shaping the future of software — from cloud architecture and security to performance optimisation and AI-driven development."
