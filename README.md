@@ -74,6 +74,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 
 
 
+
 ## Structure
 
 - `data/events/` – one JSON file per event (**source of truth**)
