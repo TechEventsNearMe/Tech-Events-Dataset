@@ -30,6 +30,47 @@
     "description": "A pan-African technology and investment summit connecting founders, developers, and investors."
   },
   {
+    "name": "Apple WWDC San Jose",
+    "year_started": 1983,
+    "number_of_events_hosted": 36,
+    "city": "San Jose",
+    "region": "California",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://developer.apple.com/wwdc/",
+    "sector": [
+      "Software Engineering",
+      "Frontend / Web Development",
+      "Mobile Development",
+      "AI",
+      "Machine Learning",
+      "UX / UI",
+      "Product Management",
+      "Innovation"
+    ],
+    "tags": ["apple", "developer", "conference", "technology"],
+    "acceptable_tags": ["wwdc", "ios", "macos", "swift", "apple", "developers"],
+    "type": "hybrid",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/Los_Angeles",
+    "attendee_size": { "min": 2000, "max": 9000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 0, "max": 1599 },
+    "organizer": {
+      "name": "Apple Inc.",
+      "email": "developer@apple.com",
+      "twitter": "https://x.com/apple",
+      "website": "https://developer.apple.com/wwdc/"
+    },
+    "socials": {
+      "twitter": "https://x.com/apple",
+      "linkedin": "https://www.linkedin.com/company/apple/",
+      "youtube": "https://www.youtube.com/@Apple",
+      "instagram": "https://www.instagram.com/apple/"
+    },
+    "description": "Apple WWDC (Worldwide Developers Conference) San Jose is Apple’s annual flagship event for developers worldwide. The conference focuses on software engineering, mobile development, iOS/macOS platforms, AI and machine learning, UX/UI design, and product innovation. WWDC features keynote presentations by Apple executives, technical sessions, coding labs, hands-on workshops, and networking opportunities for developers. The event is hybrid, allowing both in-person attendance in San Jose and virtual participation globally."
+  },
+  {
     "name": "AWS re:Invent",
     "year_started": 2012,
     "city": "Las Vegas",
@@ -245,6 +286,52 @@
       "instagram": "https://www.instagram.com/deepfestai/"
     },
     "description": "DeepFest Riyadh is one of the world’s fastest‑growing AI and technology conferences, co‑located with the LEAP Tech Event in Saudi Arabia. Powered by the Saudi Authority for Data and Artificial Intelligence (SDAIA) and organised by Tahaluf & Co., DeepFest brings together AI researchers, developers, innovators, engineers, and decision‑makers from across the globe. The event features keynote sessions, workshops, exhibits, and deep dives into cutting‑edge topics like generative AI, robotics, ethics, and real‑world AI adoption. With over 68,000 attendees in 2025, it has become a key meeting point for the global AI community."
+  },
+  {
+    "name": "DeveloperWeek San Jose",
+    "year_started": 2011,
+    "number_of_events_hosted": 14,
+    "city": "San Jose",
+    "region": "California",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://www.developerweek.com/",
+    "sector": [
+      "Software Engineering",
+      "AI",
+      "DevOps",
+      "Backend / APIs",
+      "Cloud Computing",
+      "Frontend / Web Development"
+    ],
+    "tags": ["developer", "engineering", "conference", "expo"],
+    "acceptable_tags": [
+      "developerweek",
+      "devconf",
+      "software",
+      "engineering",
+      "cloud",
+      "ai"
+    ],
+    "type": "hybrid",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/Los_Angeles",
+    "attendee_size": { "min": 5000, "max": 8000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 0, "max": 2195 },
+    "organizer": {
+      "name": "DevNetwork",
+      "email": "info@developerweek.com",
+      "twitter": "https://x.com/developerweek",
+      "website": "https://www.developerweek.com/"
+    },
+    "socials": {
+      "twitter": "https://x.com/developerweek",
+      "linkedin": "https://www.linkedin.com/showcase/developerweek/",
+      "youtube": "https://www.youtube.com/@devweekevents5952",
+      "instagram": "https://www.instagram.com/developerweek/"
+    },
+    "description": "DeveloperWeek San Jose is one of the largest developer and engineering technology conferences and expos in the world, featuring workshops, keynotes, hackathons, and multi‑track technical sessions focused on cloud computing, AI, DevOps, backend APIs, web development, and emerging developer technologies. The event brings together thousands of developers, engineers, software architects, and tech leaders for hands‑on learning, networking, and innovation. DeveloperWeek combines both in‑person sessions in San Jose and live online participation, offering broad access to its global developer community. :contentReference[oaicite:0]{index=0}"
   },
   {
     "name": "Dreamforce San Francisco",
