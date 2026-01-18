@@ -1,0 +1,44 @@
+{
+  "name": "HashiConf",
+  "year_started": 2014,
+  "number_of_events_hosted": 10,
+  "city": "San Francisco",
+  "region": "California",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://www.hashicorp.com/events/hashiconf",
+  "sector": [
+    "DevOps",
+    "Cloud Computing",
+    "Infrastructure"
+  ],
+  "tags": [
+    "conference",
+    "devops",
+    "infrastructure-as-code"
+  ],
+  "acceptable_tags": [
+    "devops",
+    "cloud",
+    "infrastructure"
+  ],
+  "type": "in-person",
+  "languages": ["English"],
+  "frequency": "annual",
+  "timezone": "America/Los_Angeles",
+  "attendee_size": { "min": 1, "max": 2000 },
+  "ticket_cost_usual": { "currency": "USD", "min": 300, "max": 1500 },
+  "organizer": {
+    "name": "HashiCorp",
+    "email": "",
+    "twitter": "https://twitter.com/hashicorp",
+    "website": "https://www.hashicorp.com"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/hashicorp",
+    "linkedin": "https://www.linkedin.com/company/hashicorp",
+    "youtube": "https://www.youtube.com/hashicorp",
+    "instagram": ""
+  },
+  "description": "HashiConf is HashiCorp’s flagship conference focused on infrastructure automation, DevOps practices, and cloud-native tooling such as Terraform, Vault, Consul, and Nomad."
+}
