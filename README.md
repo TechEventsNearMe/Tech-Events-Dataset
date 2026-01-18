@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 34**
+**Total Tech Events: 35**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -18,6 +18,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Cloud Native Computing Foundation | Chicago | United States | North America | [Link](https://kubecon.io) |
 | Consumer Electronics Show | Las Vegas | United States | North America | [Link](https://www.ces.tech/) |
 | CVPR | Seattle | United States | North America | [Link](https://cvpr.thecvf.com) |
+| DeepFest Riyadh | Riyadh | Saudi Arabia | Asia | [Link](https://deepfest.com/) |
 | GDG Abuja | Abuja | Nigeria | Africa | [Link](https://gdg.community.dev/gdg-abuja) |
 | GDG DevFest Lagos | Lagos | Nigeria | Africa | [Link](https://gdglagos.com) |
 | Google I/O | Mountain View | United States | North America | [Link](https://io.google) |
@@ -48,6 +49,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Web Summit | Lisbon | Portugal | Europe | [Link](https://websummit.com) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
