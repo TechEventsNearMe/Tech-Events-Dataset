@@ -1,0 +1,69 @@
+{
+  "name": "Web Summit",
+  "year_started": 2009,
+  "number_of_events_hosted": 14,
+
+  "city": "Lisbon",
+  "region": "Lisbon",
+  "country": "Portugal",
+  "continent": "Europe",
+
+  "website": "https://websummit.com",
+
+  "sector": [
+    "Startup / Entrepreneurship",
+    "Innovation",
+    "AI",
+    "Cloud Computing",
+    "Security"
+  ],
+
+  "tags": [
+    "conference",
+    "expo",
+    "startup"
+  ],
+
+  "acceptable_tags": [
+    "founders",
+    "vc",
+    "scaleups"
+  ],
+
+  "type": "in-person",
+
+  "languages": [
+    "English"
+  ],
+
+  "frequency": "annual",
+
+  "timezone": "Europe/Lisbon",
+
+  "attendee_size": {
+    "min": 50000,
+    "max": 70000
+  },
+
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 0,
+    "max": 1495
+  },
+
+  "organizer": {
+    "name": "Web Summit",
+    "email": "",
+    "twitter": "https://twitter.com/WebSummit",
+    "website": "https://websummit.com"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/WebSummit",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@websummit",
+    "instagram": "https://www.instagram.com/websummit/"
+  },
+
+  "description": "Web Summit is a large global technology conference bringing together startups, investors, and enterprises across AI, cloud, security, and digital transformation."
+}
