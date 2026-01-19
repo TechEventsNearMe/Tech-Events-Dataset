@@ -1,0 +1,59 @@
+{
+  "name": "NZ Tech Expo",
+  "year_started": 2026,
+  "number_of_events_hosted": 1,
+  "city": "Auckland",
+  "region": "Auckland Region",
+  "country": "New Zealand",
+  "continent": "Oceania",
+  "website": "https://nztechexpo.co.nz/",
+  "sector": [
+    "Tech Innovation",
+    "Startups",
+    "Fintech",
+    "SaaS",
+    "Medtech",
+    "Edtech"
+  ],
+  "tags": [
+    "tech",
+    "expo",
+    "innovation",
+    "startups"
+  ],
+  "acceptable_tags": [
+    "nztechexpo",
+    "innovation",
+    "startups",
+    "fintech",
+    "saas"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Pacific/Auckland",
+  "attendee_size": {
+    "min": 2000,
+    "max": 10000
+  },
+  "ticket_cost_usual": {
+    "currency": "NZD",
+    "min": 50,
+    "max": 500
+  },
+  "organizer": {
+    "name": "NZ Tech Expo Organizers",
+    "email": "info@nztechexpo.co.nz",
+    "twitter": "",
+    "website": "https://nztechexpo.co.nz/"
+  },
+  "socials": {
+    "twitter": "",
+    "linkedin": "https://nz.linkedin.com/company/nz-tech-expo",
+    "youtube": "",
+    "instagram": "https://www.instagram.com/nztechexpo/"
+  },
+  "description": "The NZ Tech Expo 2026 is a new flagship expo designed to bring together startups, scaleups, investors, and innovators across Aotearoa’s tech ecosystem. The inaugural event will be held in Auckland on September 17–18 with a conference day, networking hub, demo zones, and investor sessions focused on NZ tech leadership. :contentReference[oaicite:2]{index=2}"
+}
