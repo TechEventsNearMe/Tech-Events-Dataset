@@ -6,13 +6,14 @@
     "validate": "node scripts/validate.js",
     "build": "node scripts/build-events-json.js",
     "check": "npm run validate && npm run build",
-     "update-readme": "node scripts/generate-readme-events.js"
+    "update-readme": "node scripts/generate-readme-events.js"
   },
   "devDependencies": {
     "ajv": "^8.12.0",
     "prettier": "^3.6.2"
   },
   "dependencies": {
-    "ajv-formats": "^3.0.1"
+    "ajv-formats": "^3.0.1",
+    "axios": "^1.13.2"
   }
 }

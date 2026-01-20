@@ -1,0 +1,54 @@
+name: Validate Tech Events PR
+
+on:
+  pull_request:
+    paths:
+      - '**.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get changed files
+        id: changed-files
+        run: |
+          git diff --name-only origin/main HEAD --diff-filter=AM > changed_files.txt
+          cat changed_files.txt
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install axios
+
+      - name: Validate events
+        id: validate
+        run: node .github/scripts/validate-events.js
+        continue-on-error: true
+
+      - name: Comment on PR
+        if: steps.validate.outcome == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const errors = fs.readFileSync('validation-errors.txt', 'utf8');
+            
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `⚠️ **Validation Failed**\n\n${errors}`
+            });
+
+      - name: Fail workflow if validation failed
+        if: steps.validate.outcome == 'failure'
+        run: exit 1

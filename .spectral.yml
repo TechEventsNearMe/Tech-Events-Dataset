@@ -1,0 +1,102 @@
+extends: ["spectral:oas", "spectral:asyncapi", "spectral:arazzo"]
+
+documentationUrl: "https://github.com/TechEventsNearMe/Tech-Events-Dataset"
+
+rules:
+
+  # --------------------------------------------------------
+  # Validate File Format
+  # --------------------------------------------------------
+  valid-json:
+    description: "All event files must be valid JSON"
+    message: "Invalid JSON format"
+    severity: error
+    given: "$"
+    then:
+      function: truthy
+
+  # --------------------------------------------------------
+  # Ensure top-level is an array
+  # --------------------------------------------------------
+  events-array:
+    description: "The dataset must be a JSON array of events"
+    message: "The root of this JSON file must be an array"
+    severity: error
+    given: "$"
+    then:
+      function: schema
+      functionOptions:
+        schema:
+          type: array
+          items:
+            type: object
+
+  # --------------------------------------------------------
+  # Required event fields
+  # --------------------------------------------------------
+  required-event-fields:
+    description: "Each event must include essential fields"
+    message: "Event object is missing required fields"
+    severity: error
+    given: "$[*]"
+    then:
+      function: schema
+      functionOptions:
+        schema:
+          type: object
+          required:
+            - event_name
+            - city
+            - country
+            - continent
+            - sector
+            - website
+            - organization
+          properties:
+            event_name:
+              type: string
+            city:
+              type: string
+            country:
+              type: string
+            continent:
+              type: string
+            sector:
+              type: array
+              items:
+                type: string
+            website:
+              type: string
+              format: uri
+            organization:
+              type: string
+
+  # --------------------------------------------------------
+  # Link / URL Format Validation
+  # (Checks structure but not reachability)
+  # --------------------------------------------------------
+  valid-url-format:
+    description: "Website links must be valid URLs"
+    message: "Invalid URL format"
+    severity: error
+    given: "$[*].website"
+    then:
+      function: pattern
+      functionOptions:
+        match: "^https?://"
+
+  # --------------------------------------------------------
+  # Check Reachability via HTTP HEAD
+  # (Custom function, optional)
+  # --------------------------------------------------------
+  reachable-url:
+    description: "Website must be reachable"
+    message: "URL appears unreachable"
+    severity: warn
+    given: "$[*].website"
+    then:
+      function: http
+      functionOptions:
+        method: HEAD
+        timeout: 2000
+        validStatusCodes: [200, 301, 302]
