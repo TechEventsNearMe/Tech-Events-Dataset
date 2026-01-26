@@ -1,0 +1,59 @@
+{
+  "name": "DevOpsDays Tokyo",
+  "year_started": 2012,
+  "number_of_events_hosted": 11,
+  "city": "Tokyo",
+  "region": "Tokyo",
+  "country": "Japan",
+  "continent": "Asia",
+  "website": "https://www.devopsdaystokyo.org",
+  "sector": [
+    "DevOps",
+    "Software Engineering",
+    "Infrastructure",
+    "Cloud Computing",
+    "SRE / Reliability",
+    "Security"
+  ],
+  "tags": [
+    "conference",
+    "devops",
+    "automation",
+    "infrastructure"
+  ],
+  "acceptable_tags": [
+    "devops",
+    "tokyo",
+    "devopsdays"
+  ],
+  "type": "hybrid",
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Asia/Tokyo",
+  "attendee_size": {
+    "min": 400,
+    "max": 800
+  },
+  "ticket_cost_usual": {
+    "currency": "JPY",
+    "min": 5000,
+    "max": 15000
+  },
+  "organizer": {
+    "name": "DevOpsDays Tokyo Organizing Committee",
+    "email": "",
+    "twitter": "",
+    "website": "https://www.devopsdaystokyo.org"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/DevOpsDaysTYO",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": "",
+    "facebook": "https://web.facebook.com/DevOpsDaysTokyo"
+  },
+  "description": "DevOpsDays Tokyo is a local conference sharing technology trends, case studies, and knowledge from IT professionals working to improve their products and processes through DevOps practices. The conference features content in both Japanese and English, bridging the gap between Dev and Ops, and between Japanese and western IT cultures."
+}
