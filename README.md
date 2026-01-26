@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 51**
+**Total Tech Events: 52**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -27,6 +27,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Game Developers Conference | San Francisco | United States | North America | [Link](https://gdconf.com) |
 | GDG Abuja | Abuja | Nigeria | Africa | [Link](https://gdg.community.dev/gdg-abuja) |
 | GDG DevFest Lagos | Lagos | Nigeria | Africa | [Link](https://gdglagos.com) |
+| GITEX GLOBAL Dubai | Dubai | United Arab Emirates | Asia | [Link](https://www.gitex.com/) |
 | GitHub Universe San Francisco | San Francisco | United States | North America | [Link](https://githubuniverse.com/) |
 | Google Cloud Next | San Francisco | United States | North America | [Link](https://cloud.withgoogle.com/next) |
 | Google I/O | Mountain View | United States | North America | [Link](https://io.google) |
@@ -65,6 +66,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Web Summit | Lisbon | Portugal | Europe | [Link](https://websummit.com) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 

@@ -560,6 +560,56 @@
     "description": "DevFest Lagos is a flagship GDG developer conference bringing together developers, designers and product professionals to learn about Google technologies, network and collaborate."
   },
   {
+    "name": "GITEX GLOBAL Dubai",
+    "year_started": 1981,
+    "number_of_events_hosted": 45,
+    "city": "Dubai",
+    "region": "Dubai",
+    "country": "United Arab Emirates",
+    "continent": "Asia",
+    "website": "https://www.gitex.com/",
+    "sector": [
+      "AI",
+      "Cloud Computing",
+      "Big Data",
+      "Security",
+      "Blockchain",
+      "FinTech",
+      "Innovation",
+      "IoT",
+      "Robotics",
+      "Network Security"
+    ],
+    "tags": ["technology", "expo", "startup", "innovation", "ai"],
+    "acceptable_tags": [
+      "gitex",
+      "global",
+      "techexpo",
+      "ai",
+      "cloud",
+      "blockchain"
+    ],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "Asia/Dubai",
+    "attendee_size": { "min": 200000, "max": 220000 },
+    "ticket_cost_usual": { "currency": "AED", "min": 580, "max": 10000 },
+    "organizer": {
+      "name": "Dubai World Trade Centre",
+      "email": "info@gitex.com",
+      "twitter": "https://x.com/gitex_global",
+      "website": "https://www.gitex.com/"
+    },
+    "socials": {
+      "twitter": "https://x.com/gitex_global",
+      "linkedin": "https://www.linkedin.com/showcase/gitexglobal/",
+      "youtube": "https://www.youtube.com/@gitexglobal",
+      "instagram": "https://www.instagram.com/gitex_global/"
+    },
+    "description": "GITEX GLOBAL Dubai is one of the world’s largest and most influential technology exhibitions and conferences, held annually at the Dubai World Trade Centre. It brings together industry leaders, innovators, startups, investors, and government representatives from around the globe to showcase advancements in AI, cloud computing, cybersecurity, fintech, blockchain, robotics, IoT, and more. GITEX GLOBAL sets the stage for major product launches, transformative partnerships, and discussions that help shape the future of the global technology landscape, with over 200,000 attendees and thousands of exhibitors each year. :contentReference[oaicite:0]{index=0}"
+  },
+  {
     "name": "GitHub Universe San Francisco",
     "year_started": 2015,
     "number_of_events_hosted": 11,
