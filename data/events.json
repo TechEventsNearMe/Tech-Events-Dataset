@@ -138,6 +138,38 @@
     "description": "Build With React Native Manchester is a community-focused meetup for developers interested in React Native, Expo, cross-platform mobile development, and practical hands-on building. The event features live sessions, workshops, and collaboration opportunities for developers across the UK tech ecosystem."
   },
   {
+    "name": "CES",
+    "year_started": 1967,
+    "number_of_events_hosted": 58,
+    "city": "Las Vegas",
+    "region": "Nevada",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://ces.tech",
+    "sector": ["IoT", "Robotics", "Hardware Engineering", "Innovation"],
+    "tags": ["expo", "conference", "consumer-tech"],
+    "acceptable_tags": ["iot", "hardware", "innovation"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/Los_Angeles",
+    "attendee_size": { "min": 150000, "max": 180000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 0, "max": 1500 },
+    "organizer": {
+      "name": "Consumer Technology Association",
+      "email": "",
+      "twitter": "https://twitter.com/ces",
+      "website": "https://ces.tech"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/ces",
+      "linkedin": "https://www.linkedin.com/company/consumer-technology-association",
+      "youtube": "https://www.youtube.com/user/cesonthetube",
+      "instagram": "https://www.instagram.com/ces/"
+    },
+    "description": "CES is the world's largest consumer electronics show, showcasing cutting-edge innovations in IoT, robotics, hardware, and emerging technologies from global brands and startups."
+  },
+  {
     "name": "Cloud Native Computing Foundation",
     "year_started": 2015,
     "number_of_events_hosted": 10,
