@@ -10,7 +10,7 @@
 
   "website": "https://j-sa.co/",
 
-  "sector": ["Technology", "Java"],
+  "sector": ["Software Engineering", "Backend / APIs"],
 
   "tags": ["conference", "programming"],
 
@@ -22,7 +22,7 @@
 
   "frequency": "annual",
 
-  "timezone": "UTC+2",
+  "timezone": "Africa/Johannesburg",
 
   "attendee_size": {
     "min": 100,
@@ -43,10 +43,7 @@
   },
 
   "socials": {
-    "twitter": "https://twitter.com/JavaAfrica",
-    "linkedin": null,
-    "youtube": null,
-    "instagram": null
+    "twitter": "https://twitter.com/JavaAfrica"
   },
 
   "description": "Each year, we explore the tools and trends shaping the future of software — from cloud architecture and security to performance optimisation and AI-driven development."

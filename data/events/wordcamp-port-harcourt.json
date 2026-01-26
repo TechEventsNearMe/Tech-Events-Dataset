@@ -10,7 +10,7 @@
 
   "website": "https://portharcourt.wordcamp.org/2026",
 
-  "sector": ["Technology", "Website"],
+  "sector": ["Frontend / Web Development"],
 
   "tags": ["conference", "wordpress"],
 
@@ -22,7 +22,7 @@
 
   "frequency": "annual",
 
-  "timezone": "GMT+1",
+  "timezone": "Africa/Lagos",
 
   "attendee_size": {
     "min": 100,
@@ -37,15 +37,12 @@
 
   "organizer": {
     "name": "WordCamp Port Harcourt",
-    "email": "contact@example.com",
     "twitter": "https://x.com/wordpressphc",
     "website": "https://portharcourt.wordcamp.org/2026"
   },
 
   "socials": {
     "twitter": "https://x.com/wordpressphc",
-    "linkedin": null,
-    "youtube": null,
     "instagram": "https://instagram.com/wordpressphc"
   },
 
