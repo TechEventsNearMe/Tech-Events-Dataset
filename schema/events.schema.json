@@ -94,7 +94,8 @@
         "twitter": { "type": "string" },
         "linkedin": { "type": "string" },
         "youtube": { "type": "string" },
-        "instagram": { "type": "string" }
+        "instagram": { "type": "string" },
+        "facebook": { "type": "string" }
       }
     },
 
