@@ -1,0 +1,62 @@
+{
+  "name": "CASE – Conferência Anual de Startups e Empreendedorismo",
+  "year_started": 2014,
+  "number_of_events_hosted": 11,
+  "city": "São Paulo",
+  "region": "São Paulo State",
+  "country": "Brazil",
+  "continent": "South America",
+  "website": "https://case.abstartups.com.br/",
+  "sector": [
+    "Startups",
+    "Entrepreneurship",
+    "Innovation",
+    "Venture Capital",
+    "Technology",
+    "Ecosystem Development"
+  ],
+  "tags": [
+    "startup",
+    "entrepreneurship",
+    "innovation",
+    "conference",
+    "venture-capital"
+  ],
+  "acceptable_tags": [
+    "case",
+    "abstartups",
+    "startups",
+    "vc",
+    "entrepreneurship",
+    "innovation"
+  ],
+  "type": "in-person",
+  "languages": [
+    "Portuguese",
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Sao_Paulo",
+  "attendee_size": {
+    "min": 10000,
+    "max": 20000
+  },
+  "ticket_cost_usual": {
+    "currency": "BRL",
+    "min": 100,
+    "max": 1200
+  },
+  "organizer": {
+    "name": "Associação Brasileira de Startups (ABStartups)",
+    "email": "",
+    "twitter": "",
+    "website": "https://abstartups.com.br/"
+  },
+  "socials": {
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/company/abstartups/",
+    "youtube": "",
+    "instagram": "https://www.instagram.com/case.abstartups/"
+  },
+  "description": "CASE is Brazil’s largest and most influential startup and entrepreneurship conference. Organized annually by ABStartups, it brings together founders, investors, accelerators, corporate innovators, and policymakers from across Latin America to discuss trends in technology, venture capital, innovation, and ecosystem growth through keynotes, panels, startup showcases, and networking experiences."
+}

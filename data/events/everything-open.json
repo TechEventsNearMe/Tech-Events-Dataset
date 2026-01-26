@@ -1,0 +1,61 @@
+{
+  "name": "Everything Open (formerly linux.conf.au)",
+  "year_started": 1999,
+  "number_of_events_hosted": 25,
+  "city": "Rotating Cities",
+  "region": "Various States",
+  "country": "Australia",
+  "continent": "Oceania",
+  "website": "https://everythingopen.au/",
+  "sector": [
+    "Open Source",
+    "Software Engineering",
+    "DevOps",
+    "Cloud Computing",
+    "Infrastructure",
+    "Security"
+  ],
+  "tags": [
+    "open-source",
+    "linux",
+    "software",
+    "conference",
+    "infrastructure"
+  ],
+  "acceptable_tags": [
+    "everythingopen",
+    "linuxconfau",
+    "open-source",
+    "devops",
+    "cloud",
+    "infrastructure"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Australia/Sydney",
+  "attendee_size": {
+    "min": 800,
+    "max": 2000
+  },
+  "ticket_cost_usual": {
+    "currency": "AUD",
+    "min": 150,
+    "max": 900
+  },
+  "organizer": {
+    "name": "Linux Australia",
+    "email": "",
+    "twitter": "https://twitter.com/linuxaustralia",
+    "website": "https://linux.org.au/"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/everythingopen",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": ""
+  },
+  "description": "Everything Open is one of the longest-running open-source and Linux conferences in the Southern Hemisphere. Formerly known as linux.conf.au, the event is organized by Linux Australia and rotates between Australian cities each year. It brings together developers, system administrators, DevOps engineers, researchers, and open-source contributors for deep technical talks, workshops, community sessions, and collaboration around open technologies."
+}

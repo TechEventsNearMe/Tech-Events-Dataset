@@ -1,0 +1,60 @@
+{
+  "name": "Web Summit Rio",
+  "year_started": 2022,
+  "number_of_events_hosted": 5,
+  "city": "Rio de Janeiro",
+  "region": "Rio de Janeiro State",
+  "country": "Brazil",
+  "continent": "South America",
+  "website": "https://rio.websummit.com/",
+  "sector": [
+    "Startup / Entrepreneurship",
+    "AI",
+    "Innovation",
+    "Cloud Computing",
+    "FinTech",
+    "Technology Leadership"
+  ],
+  "tags": [
+    "startup",
+    "technology",
+    "innovation",
+    "conference"
+  ],
+  "acceptable_tags": [
+    "websummit",
+    "startup",
+    "ai",
+    "innovation",
+    "investors"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English",
+    "Portuguese"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Sao_Paulo",
+  "attendee_size": {
+    "min": 30000,
+    "max": 35000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 300,
+    "max": 2000
+  },
+  "organizer": {
+    "name": "Web Summit",
+    "email": "",
+    "twitter": "https://twitter.com/websummit",
+    "website": "https://websummit.com/"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/websummit",
+    "linkedin": "https://www.linkedin.com/company/web-summit/",
+    "youtube": "https://www.youtube.com/@WebSummit",
+    "instagram": "https://www.instagram.com/websummit/"
+  },
+  "description": "Web Summit Rio is the Latin American edition of the global Web Summit series. It connects startups, investors, global tech companies, and policymakers to discuss AI, innovation, digital transformation, and the future of technology."
+}
