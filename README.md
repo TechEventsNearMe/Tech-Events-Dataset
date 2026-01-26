@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 53**
+**Total Tech Events: 54**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -62,11 +62,13 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Slush Helsinki | Helsinki | Finland | Europe | [Link](https://www.slush.org) |
 | SXSW Austin | Austin | United States | North America | [Link](https://www.sxsw.com) |
 | TechCrunch Disrupt San Francisco | San Francisco | United States | North America | [Link](https://techcrunch.com/events/disrupt-sf-2025/) |
+| VMware Explore las Vegas | Las Vegas | United States | North America | [Link](https://www.vmware.com/explore.html) |
 | WeAreDevelopers World Congress | Berlin | Germany | Europe | [Link](https://www.wearedevelopers.com/world-congress) |
 | Web Directions Summit | Melbourne | Australia | Oceania | [Link](https://webdirections.org/summit) |
 | Web Summit | Lisbon | Portugal | Europe | [Link](https://websummit.com) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
