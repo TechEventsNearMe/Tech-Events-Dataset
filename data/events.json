@@ -1195,6 +1195,53 @@
     "description": "NVIDIA GTC is the world's premier AI and accelerated computing conference, uniting developers, researchers, and business leaders. It features the annual keynote by CEO Jensen Huang and focuses on breakthroughs in Generative AI, robotics, physical AI, data science, and accelerated computing (GPUs). The event is primarily virtual, with a large in-person component, reflected in the wide attendee size and ticket cost range (free for the virtual pass, up to $3,500 for full workshops)."
   },
   {
+    "name": "Open Source Summit North America Vancouver",
+    "year_started": 2017,
+    "number_of_events_hosted": 8,
+    "city": "Vancouver",
+    "region": "British Columbia",
+    "country": "Canada",
+    "continent": "North America",
+    "website": "https://events.linuxfoundation.org/open-source-summit-north-america/",
+    "sector": [
+      "Software Engineering",
+      "Backend / APIs",
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure",
+      "Security",
+      "SRE / Reliability"
+    ],
+    "tags": ["open source", "linux", "cloud native", "conference"],
+    "acceptable_tags": [
+      "opensource",
+      "linuxfoundation",
+      "cloud",
+      "devops",
+      "infrastructure",
+      "security"
+    ],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/Vancouver",
+    "attendee_size": { "min": 500, "max": 4000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 275, "max": 1299 },
+    "organizer": {
+      "name": "The Linux Foundation",
+      "email": "events@linuxfoundation.org",
+      "twitter": "https://x.com/linuxfoundation",
+      "website": "https://www.linuxfoundation.org/"
+    },
+    "socials": {
+      "twitter": "https://x.com/linuxfoundation",
+      "linkedin": "https://www.linkedin.com/company/the-linux-foundation/",
+      "youtube": "https://www.youtube.com/@LinuxFoundationorg",
+      "instagram": "https://www.instagram.com/linux_foundation/"
+    },
+    "description": "Open Source Summit North America Vancouver is a major annual conference organized by the Linux Foundation, bringing together developers, maintainers, architects, and technology leaders from the global open-source ecosystem. The event focuses on software engineering, cloud computing, DevOps, infrastructure, security, and site reliability engineering. It features keynotes, technical sessions, project showcases, and community discussions that shape the future of open-source technologies."
+  },
+  {
     "name": "OWASP Global AppSec",
     "year_started": 2004,
     "number_of_events_hosted": 20,
