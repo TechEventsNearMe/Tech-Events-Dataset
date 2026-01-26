@@ -560,6 +560,53 @@
     "description": "DevFest Lagos is a flagship GDG developer conference bringing together developers, designers and product professionals to learn about Google technologies, network and collaborate."
   },
   {
+    "name": "GitHub Universe San Francisco",
+    "year_started": 2015,
+    "number_of_events_hosted": 11,
+    "city": "San Francisco",
+    "region": "California",
+    "country": "United States",
+    "continent": "North America",
+    "website": "https://githubuniverse.com/",
+    "sector": [
+      "Software Engineering",
+      "DevOps",
+      "Security",
+      "Cloud Computing",
+      "AI",
+      "Backend / APIs",
+      "Tech Leadership"
+    ],
+    "tags": ["developers", "opensource", "technology", "conference"],
+    "acceptable_tags": [
+      "github",
+      "universe",
+      "developers",
+      "opensource",
+      "devops",
+      "security"
+    ],
+    "type": "hybrid",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/Los_Angeles",
+    "attendee_size": { "min": 1500, "max": 12000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 399, "max": 1899 },
+    "organizer": {
+      "name": "GitHub",
+      "email": "events@github.com",
+      "twitter": "https://x.com/github",
+      "website": "https://github.com/"
+    },
+    "socials": {
+      "twitter": "https://x.com/github",
+      "linkedin": "https://www.linkedin.com/company/github/",
+      "youtube": "https://www.youtube.com/@GitHub",
+      "instagram": "https://www.instagram.com/github/"
+    },
+    "description": "GitHub Universe San Francisco is GitHub’s flagship annual developer conference, bringing together software engineers, DevOps professionals, security experts, and technology leaders from around the world. The event focuses on modern software engineering practices, DevOps, cloud-native development, security, artificial intelligence, and open-source innovation. GitHub Universe features keynote announcements, technical sessions, hands-on workshops, and community networking, highlighting the future of software development on the GitHub platform."
+  },
+  {
     "name": "Google Cloud Next",
     "year_started": 2016,
     "number_of_events_hosted": 9,
