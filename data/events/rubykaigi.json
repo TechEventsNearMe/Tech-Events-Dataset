@@ -1,0 +1,58 @@
+{
+  "name": "RubyKaigi",
+  "year_started": 2006,
+  "number_of_events_hosted": 18,
+  "city": "Matsuyama",
+  "region": "Ehime",
+  "country": "Japan",
+  "continent": "Asia",
+  "website": "https://rubykaigi.org/2025",
+  "sector": [
+    "Software Engineering",
+    "Backend / APIs",
+    "Frontend / Web Development"
+  ],
+  "tags": [
+    "conference",
+    "ruby",
+    "programming",
+    "open-source"
+  ],
+  "acceptable_tags": [
+    "ruby",
+    "rubykaigi",
+    "japan"
+  ],
+  "type": "in-person",
+  "languages": [
+    "Japanese",
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Asia/Tokyo",
+  "attendee_size": {
+    "min": 800,
+    "max": 1500
+  },
+  "ticket_cost_usual": {
+    "currency": "JPY",
+    "min": 25000,
+    "max": 50000
+  },
+  "organizer": {
+    "name": "Nihon Ruby-no-kai",
+    "email": "",
+    "twitter": "",
+    "website": "https://rubykaigi.org"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/rubykaigi",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": "",
+    "discord": "https://discord.com/invite/AjSCZzc6YG",
+    "mastodon": "https://ruby.social/@rubykaigi"
+
+  },
+  "description": "RubyKaigi is the de-facto authoritative Ruby conference in Japan, featuring talks from Ruby core developers including Yukihiro 'Matz' Matsumoto. The conference serves as a place to discuss the latest Ruby technologies and acts as a community hub for Rubyists worldwide."
+}
