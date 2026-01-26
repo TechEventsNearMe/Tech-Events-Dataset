@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 52**
+**Total Tech Events: 53**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -39,6 +39,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | LeadDev New York | New York | United States | North America | [Link](https://leaddev.com) |
 | LiverpoolJS | Liverpool | United Kingdom | Europe | [Link](https://www.meetup.com/liverpooljs) |
 | Microsoft Build | Seattle | United States | North America | [Link](https://build.microsoft.com) |
+| Microsoft Ignite Orlando | Orlando | United States | North America | [Link](https://ignite.microsoft.com/) |
 | Mobile World Congress Barcelona | Barcelona | Spain | Europe | [Link](https://www.mwcbarcelona.com/) |
 | Money20/20 USA | Las Vegas | United States | North America | [Link](https://us.money2020.com) |
 | NDC Sydney | Sydney | Australia | Oceania | [Link](https://ndcsydney.com) |
@@ -66,6 +67,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Web Summit | Lisbon | Portugal | Europe | [Link](https://websummit.com) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
