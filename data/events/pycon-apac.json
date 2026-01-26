@@ -37,8 +37,8 @@
   },
   "ticket_cost_usual": {
     "currency": "PHP",
-    "min": 1500,
-    "max": 5000
+    "min": 0,
+    "max": 6300
   },
   "organizer": {
     "name": "Python Philippines",
