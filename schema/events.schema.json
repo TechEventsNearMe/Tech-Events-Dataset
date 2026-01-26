@@ -27,6 +27,7 @@
 
     "year_started": { "type": "integer", "minimum": 1800 },
 
+
     "city": { "type": "string" },
     "region": { "type": "string" },
     "country": { "type": "string" },
