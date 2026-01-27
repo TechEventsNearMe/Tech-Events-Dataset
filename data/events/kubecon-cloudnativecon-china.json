@@ -44,14 +44,14 @@
   },
   "organizer": {
     "name": "Cloud Native Computing Foundation & The Linux Foundation",
-    "email": "[email protected]",
+    "email": "",
     "twitter": "",
     "website": "https://www.cncf.io"
   },
   "socials": {
-    "twitter": "https://twitter.com/CloudNativeFdn",
-    "linkedin": "https://www.linkedin.com/company/cloud-native-computing-foundation",
-    "youtube": "https://www.youtube.com/c/cloudnativefdn",
+    "twitter": "",
+    "linkedin": "",
+    "youtube": "",
     "instagram": ""
   },
   "description": "KubeCon + CloudNativeCon China brings together adopters and technologists from leading open source and cloud native communities. The event features deep technical content on Kubernetes, cloud native architectures, AI, and the open source ecosystem, with sessions from companies like Alibaba Cloud, ByteDance, DaoCloud, and Huawei."
