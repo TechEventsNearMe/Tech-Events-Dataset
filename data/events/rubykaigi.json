@@ -49,7 +49,10 @@
     "twitter": "https://twitter.com/rubykaigi",
     "linkedin": "",
     "youtube": "",
-    "instagram": ""
+    "instagram": "",
+    "discord": "https://discord.com/invite/AjSCZzc6YG",
+    "mastodon": "https://ruby.social/@rubykaigi"
+
   },
   "description": "RubyKaigi is the de-facto authoritative Ruby conference in Japan, featuring talks from Ruby core developers including Yukihiro 'Matz' Matsumoto. The conference serves as a place to discuss the latest Ruby technologies and acts as a community hub for Rubyists worldwide."
 }
