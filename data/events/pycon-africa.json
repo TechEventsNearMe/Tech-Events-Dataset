@@ -1,0 +1,57 @@
+{
+  "name": "PyCon Africa",
+  "year_started": 2019,
+  "number_of_events_hosted": 4,
+  "city": "Accra",
+  "region": "Greater Accra",
+  "country": "Ghana",
+  "continent": "Africa",
+  "website": "https://africa.pycon.org",
+  "sector": [
+    "Software Engineering",
+    "Data Science",
+    "Machine Learning",
+    "AI",
+    "Backend / APIs"
+  ],
+  "tags": [
+    "python",
+    "conference",
+    "developers",
+    "open-source"
+  ],
+  "acceptable_tags": [
+    "pycon",
+    "python",
+    "africa",
+    "developers"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Africa/Accra",
+  "attendee_size": {
+    "min": 300,
+    "max": 600
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 0,
+    "max": 140
+  },
+  "organizer": {
+    "name": "Python Africa",
+    "email": "contact@pycon.africa",
+    "twitter": "https://twitter.com/pyconafrica",
+    "website": "https://africa.pycon.org"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/pyconafrica",
+    "linkedin": "https://www.linkedin.com/company/pycon-africa/",
+    "youtube": "https://www.youtube.com/@PyConAfrica",
+    "instagram": "https://www.instagram.com/pyconafrica/"
+  },
+  "description": "PyCon Africa is the official pan-African Python conference bringing together software engineers, data scientists, and open-source contributors from across the continent. The event focuses on Python applications in software engineering, backend development, AI, machine learning, and data science while fostering collaboration, education, and community growth within Africa’s tech ecosystem."
+}
