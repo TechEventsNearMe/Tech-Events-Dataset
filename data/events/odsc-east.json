@@ -1,0 +1,52 @@
+{
+  "name": "ODSC East",
+  "year_started": 2015,
+  "city": "Boston",
+  "region": "Massachusetts",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://odsc.com/boston/",
+  "sector": [
+    "AI",
+    "Machine Learning",
+    "Deep Learning",
+    "Data Science",
+    "MLOps"
+  ],
+  "acceptable_tags": [
+    "generative-ai",
+    "llms",
+    "nlp",
+    "responsible-ai",
+    "training",
+    "workshops"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/New_York",
+  "attendee_size": {
+    "min": 2000,
+    "max": 4000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 500,
+    "max": 4000
+  },
+  "organizer": {
+    "name": "Open Data Science Conference (ODSC)",
+    "email": "info@odsc.com",
+    "twitter": "https://twitter.com/_odsc",
+    "website": "https://odsc.com"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/_odsc",
+    "linkedin": "https://www.linkedin.com/company/open-data-science/",
+    "youtube": "https://www.youtube.com/c/OpenDataScienceCon",
+    "instagram": "https://www.instagram.com/odsc.ai/"
+  },
+  "description": "ODSC East is the leading applied data science and AI conference on the East Coast, returning April 28–30, 2026 to the Hynes Convention Center in Boston, Massachusetts. It features expert-led hands-on training sessions, workshops, talks, and keynotes focused on generative AI, large language models (LLMs), MLOps, responsible AI, NLP, deep learning, machine learning operations, and practical applications for data scientists, engineers, researchers, and business leaders to accelerate skills and drive real-world impact."
+}
