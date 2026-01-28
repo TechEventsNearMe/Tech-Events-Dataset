@@ -1066,6 +1066,43 @@
     "description": "KubeCon + CloudNativeCon is the Cloud Native Computing Foundation’s (CNCF) flagship conference, bringing together adopters and developers of open source and cloud native technologies. The event focuses on Kubernetes, Prometheus, Envoy, and the entire cloud native ecosystem, with key themes covering platform engineering, AI integration, security, and GitOps. Ticket pricing reflects the range from the student/academic pass (min) to the corporate all-access pass (max), which includes co-located events."
   },
   {
+    "name": "Laracon EU Amsterdam",
+    "year_started": 2016,
+    "number_of_events_hosted": 6,
+    "city": "Amsterdam",
+    "region": "North Holland",
+    "country": "Netherlands",
+    "continent": "Europe",
+    "website": "https://laracon.eu",
+    "sector": [
+      "Backend / APIs",
+      "Software Engineering",
+      "Cloud Computing",
+      "Product Management"
+    ],
+    "tags": ["laravel", "php", "backend", "conference"],
+    "acceptable_tags": ["laracon", "laravel", "backend", "php"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "Europe/Amsterdam",
+    "attendee_size": { "min": 650, "max": 1000 },
+    "ticket_cost_usual": { "currency": "EUR", "min": 25, "max": 899 },
+    "organizer": {
+      "name": "Laracon EU",
+      "email": "hello@laracon.eu",
+      "twitter": "https://x.com/laraconeu",
+      "website": "https://laracon.eu"
+    },
+    "socials": {
+      "twitter": "https://x.com/laraconeu",
+      "linkedin": "https://www.linkedin.com/company/laracon-eu/",
+      "youtube": "https://www.youtube.com/@LaraconEU",
+      "instagram": ""
+    },
+    "description": "Laracon EU Amsterdam is the official European Laravel conference, bringing together backend engineers, software developers, and product-focused teams. The event focuses on Laravel, backend APIs, scalable cloud infrastructure, and modern software engineering practices through talks, workshops, and community networking."
+  },
+  {
     "name": "LeadDev New York",
     "year_started": 2015,
     "number_of_events_hosted": 9,
