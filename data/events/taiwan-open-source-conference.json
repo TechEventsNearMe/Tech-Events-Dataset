@@ -1,0 +1,32 @@
+{
+  "name": "Taiwan Open Source Conference",
+  "year_started": 2014,
+  "number_of_events_hosted": 9,
+  "city": "Taipei",
+  "region": "Taipei",
+  "country": "Taiwan",
+  "continent": "Asia",
+  "website": "https://coscup.org",
+  "sector": ["Software Engineering", "Backend / APIs", "AI"],
+  "tags": ["conference", "opensource", "taiwan"],
+  "acceptable_tags": ["coscup", "opensource", "taiwan"],
+  "type": "in-person",
+  "languages": ["Mandarin", "English"],
+  "frequency": "annual",
+  "timezone": "Asia/Taipei",
+  "attendee_size": { "min": 1000, "max": 3000 },
+  "ticket_cost_usual": { "currency": "TWD", "min": 0, "max": 1500 },
+  "organizer": {
+    "name": "COSCUP Taiwan",
+    "email": "",
+    "twitter": "https://x.com/coscup",
+    "website": "https://coscup.org"
+  },
+  "socials": {
+    "twitter": "https://x.com/coscup",
+    "linkedin": "https://www.linkedin.com/company/coscup-tw/",
+    "youtube": "https://www.youtube.com/@coscup",
+    "instagram": ""
+  },
+  "description": "Taiwan Open Source Conference (COSCUP) is a community event for open source developers and contributors."
+}
