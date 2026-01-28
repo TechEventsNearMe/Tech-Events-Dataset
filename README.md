@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 59**
+**Total Tech Events: 60**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -61,6 +61,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | React Advanced London | London | United Kingdom | Europe | [Link](https://reactadvanced.com) |
 | React India | Goa | India | Asia | [Link](https://www.reactindia.io) |
 | React Native Nigeria Conference | Lagos | Nigeria | Africa | [Link](https://reactnativenigeria.com) |
+| React Summit Amsterdam | Amsterdam | Netherlands | Europe | [Link](https://reactsummit.com) |
 | RSA Conference | San Francisco | United States | North America | [Link](https://www.rsaconference.com) |
 | ShmooCon | Washington | United States | North America | [Link](https://shmoocon.org) |
 | SIGGRAPH | Los Angeles | United States | North America | [Link](https://s2025.siggraph.org) |
@@ -73,6 +74,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Web Summit | Lisbon | Portugal | Europe | [Link](https://websummit.com) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
