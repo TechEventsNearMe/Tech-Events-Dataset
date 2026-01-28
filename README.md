@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 57**
+**Total Tech Events: 58**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -51,6 +51,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | NVIDIA GTC | San Jose | United States | North America | [Link](https://www.nvidia.com/gtc/) |
 | Open Source Summit North America Vancouver | Vancouver | Canada | North America | [Link](https://events.linuxfoundation.org/open-source-summit-north-america/) |
 | OWASP Global AppSec | Washington | United States | North America | [Link](https://owasp.org/events/globalappsec) |
+| Privacy Symposium | Venice | Italy | Europe | [Link](https://privacysymposium.org) |
 | PyCon Canada | Toronto | Canada | North America | [Link](https://pycon.ca) |
 | PyCon JP | Tokyo | Japan | Asia | [Link](https://www.pycon.jp) |
 | PyCon US Pittsburgh | Pittsburgh | United States | North America | [Link](https://us.pycon.org/) |
@@ -71,6 +72,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Web Summit | Lisbon | Portugal | Europe | [Link](https://websummit.com) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
