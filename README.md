@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 60**
+**Total Tech Events: 61**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -26,6 +26,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | DeepFest Riyadh | Riyadh | Saudi Arabia | Asia | [Link](https://deepfest.com/) |
 | DeveloperWeek San Jose | San Jose | United States | North America | [Link](https://www.developerweek.com/) |
 | Dreamforce San Francisco | San Francisco | United States | North America | [Link](https://www.salesforce.com/dreamforce/) |
+| droidcon Berlin | Berlin | Germany | Europe | [Link](https://berlin.droidcon.com) |
 | Embedded World Conference | Nuremberg | Germany | Europe | [Link](https://www.embedded-world.de/en) |
 | Game Developers Conference | San Francisco | United States | North America | [Link](https://gdconf.com) |
 | GDG Abuja | Abuja | Nigeria | Africa | [Link](https://gdg.community.dev/gdg-abuja) |
@@ -74,6 +75,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Web Summit | Lisbon | Portugal | Europe | [Link](https://websummit.com) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
