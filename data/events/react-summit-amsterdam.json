@@ -1,0 +1,59 @@
+{
+  "name": "React Summit Amsterdam",
+  "year_started": 2015,
+  "number_of_events_hosted": 10,
+  "city": "Amsterdam",
+  "region": "North Holland",
+  "country": "Netherlands",
+  "continent": "Europe",
+  "website": "https://reactsummit.com",
+  "sector": [
+    "Frontend / Web Development",
+    "Tech Leadership",
+    "Software Engineering",
+    "Cloud Computing",
+    "Product Management"
+  ],
+  "tags": [
+    "react",
+    "javascript",
+    "frontend",
+    "web",
+    "conference"
+  ],
+  "acceptable_tags": [
+    "react",
+    "frontend",
+    "javascript",
+    "webdev",
+    "software"
+  ],
+  "type": "hybrid",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Amsterdam",
+  "attendee_size": {
+    "min": 1500,
+    "max": 25000
+  },
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 180,
+    "max": 950
+  },
+  "organizer": {
+    "name": "GitNation",
+    "email": "events@gitnation.org",
+    "twitter": "https://x.com/gitnationorg",
+    "website": "https://gitnation.org"
+  },
+  "socials": {
+    "twitter": "https://x.com/reactsummit",
+    "linkedin": "https://www.linkedin.com/company/gitnation/",
+    "youtube": "https://www.youtube.com/@ReactConferences",
+    "instagram": "https://www.instagram.com/gitnation/"
+  },
+  "description": "React Summit Amsterdam is a major European conference focused on React and modern frontend development. Organized by GitNation, the event brings together software engineers, frontend developers, and product-focused teams to explore React, JavaScript, cloud-based web architectures, and best practices in scalable web development through talks, workshops, and community networking."
+}
