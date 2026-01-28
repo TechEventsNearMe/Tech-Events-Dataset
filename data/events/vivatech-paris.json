@@ -1,0 +1,58 @@
+{
+  "name": "VivaTech Paris",
+  "year_started": 2016,
+  "number_of_events_hosted": 9,
+  "city": "Paris",
+  "region": "Île-de-France",
+  "country": "France",
+  "continent": "Europe",
+  "website": "https://vivatechnology.com",
+  "sector": [
+    "Digital Transformation",
+    "AI",
+    "Startup / Entrepreneurship",
+    "Cloud Computing",
+    "Security"
+  ],
+  "tags": [
+    "expo",
+    "conference",
+    "innovation"
+  ],
+  "acceptable_tags": [
+    "vivatech",
+    "paris",
+    "innovation"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English",
+    "French"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Paris",
+  "attendee_size": {
+    "min": 80000,
+    "max": 120000
+  },
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 120,
+    "max": 1490
+  },
+  "organizer": {
+    "name": "Viva Technology",
+    "email": "",
+    "twitter": "https://twitter.com/VivaTech",
+    "website": "https://vivatechnology.com"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/VivaTech",
+    "linkedin": "https://www.linkedin.com/company/vivatechnology",
+    "youtube": "https://www.youtube.com/@VivaTechnology",
+    "instagram": "https://www.instagram.com/vivatech",
+    "facebook": "https://web.facebook.com/vivatechparis",
+    "tiktok": "https://www.tiktok.com/@vivatechnology"
+  },
+  "description": "VivaTech Paris is a major European tech expo showcasing AI, digital transformation, cloud, cybersecurity, and startup innovation."
+}
