@@ -1,0 +1,63 @@
+{
+  "name": "International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026)",
+  "year_started": 1969,
+  "number_of_events_hosted": 35,
+
+  "city": "Bremen",
+  "region": "Bremen",
+  "country": "Germany",
+  "continent": "Europe",
+
+  "website": "https://2026.ijcai.org/",
+
+  "sector": [
+    "AI",
+    "Machine Learning",
+    "Data Science",
+    "Robotics"
+  ],
+
+  "tags": [
+    "conference",
+    "artificial-intelligence",
+    "research",
+    "ecaiconference",
+    "ai4tech"
+  ],
+
+  "acceptable_tags": [
+    "ai",
+    "ml",
+    "data",
+    "robotics",
+    "health"
+  ],
+
+  "type": "in-person",
+
+  "languages": ["English"],
+
+  "frequency": "annual",
+
+  "timezone": "Europe/Berlin",
+
+  "attendee_size": { "min": 2500, "max": 4500 },
+
+  "ticket_cost_usual": { "currency": "EUR", "min": 300, "max": 1000 },
+
+  "organizer": {
+    "name": "IJCAI Organization",
+    "email": "",
+    "twitter": "https://twitter.com/ijcai",
+    "website": "https://ijcai.org"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/ijcai",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": ""
+  },
+
+  "description": "IJCAI-ECAI 2026 is the 35th International Joint Conference on Artificial Intelligence, taking place in Bremen, Germany, from August 15–21, 2026. It is the premier global gathering of AI researchers, featuring special tracks on Human-Centered AI, AI for Social Good, AI4Tech, AI and Health, and AI and Robotics."
+}
