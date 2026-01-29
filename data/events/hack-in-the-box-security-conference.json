@@ -1,0 +1,58 @@
+{
+  "name": "Hack In The Box Security Conference",
+  "year_started": 2002,
+  "number_of_events_hosted": 20,
+
+  "city": "Jakarta",
+  "region": "Jakarta Special Capital Region",
+  "country": "Indonesia",
+  "continent": "Asia",
+
+  "website": "https://conference.hitb.org",
+
+  "sector": [
+    "Security",
+    "Ethical Hacking",
+    "Network Security"
+  ],
+
+  "tags": [
+    "conference",
+    "security",
+    "hacking"
+  ],
+
+  "acceptable_tags": [
+    "security",
+    "hacking",
+    "network"
+  ],
+
+  "type": "in-person",
+
+  "languages": ["English"],
+
+  "frequency": "annual",
+
+  "timezone": "Asia/Jakarta",
+
+  "attendee_size": { "min": 1000, "max": 3000 },
+
+  "ticket_cost_usual": { "currency": "USD", "min": 400, "max": 1200 },
+
+  "organizer": {
+    "name": "Hack In The Box",
+    "email": "",
+    "twitter": "https://twitter.com/hitbsecconf",
+    "website": "https://conference.hitb.org"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/hitbsecconf",
+    "linkedin": "https://www.linkedin.com/company/hack-in-the-box",
+    "youtube": "https://www.youtube.com/hitbsecconf",
+    "instagram": ""
+  },
+
+  "description": "Hack In The Box (HITB) Security Conference is a deep-dive technical event featuring advanced security research, exploit development, and network defense strategies. The 2026 edition will be held in Jakarta, Indonesia."
+}
