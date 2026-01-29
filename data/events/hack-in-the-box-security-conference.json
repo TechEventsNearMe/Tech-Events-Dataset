@@ -3,10 +3,10 @@
   "year_started": 2002,
   "number_of_events_hosted": 20,
 
-  "city": "Amsterdam",
-  "region": "North Holland",
-  "country": "Netherlands",
-  "continent": "Europe",
+  "city": "Jakarta",
+  "region": "Jakarta Special Capital Region",
+  "country": "Indonesia",
+  "continent": "Asia",
 
   "website": "https://conference.hitb.org",
 
@@ -34,11 +34,11 @@
 
   "frequency": "annual",
 
-  "timezone": "Europe/Amsterdam",
+  "timezone": "Asia/Jakarta",
 
   "attendee_size": { "min": 1000, "max": 3000 },
 
-  "ticket_cost_usual": { "currency": "EUR", "min": 400, "max": 1200 },
+  "ticket_cost_usual": { "currency": "USD", "min": 400, "max": 1200 },
 
   "organizer": {
     "name": "Hack In The Box",
@@ -54,5 +54,5 @@
     "instagram": ""
   },
 
-  "description": "Hack In The Box (HITB) Security Conference is a deep-dive technical event featuring advanced security research, exploit development, and network defense strategies."
+  "description": "Hack In The Box (HITB) Security Conference is a deep-dive technical event featuring advanced security research, exploit development, and network defense strategies. The 2026 edition will be held in Jakarta, Indonesia."
 }
