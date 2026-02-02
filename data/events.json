@@ -1091,6 +1091,43 @@
     "description": "India's premier JavaScript conference, featuring talks from global and local JS experts."
   },
   {
+    "name": "JSConf JP",
+    "year_started": 2011,
+    "number_of_events_hosted": 9,
+    "city": "Tokyo",
+    "region": "Tokyo",
+    "country": "Japan",
+    "continent": "Asia",
+    "website": "https://jsconf.jp",
+    "sector": [
+      "Frontend / Web Development",
+      "Software Engineering",
+      "Architecture",
+      "Accessibility"
+    ],
+    "tags": ["conference", "javascript", "web"],
+    "acceptable_tags": ["javascript", "frontend", "web"],
+    "type": "in-person",
+    "languages": ["Japanese", "English"],
+    "frequency": "annual",
+    "timezone": "Asia/Tokyo",
+    "attendee_size": { "min": 500, "max": 1500 },
+    "ticket_cost_usual": { "currency": "JPY", "min": 5000, "max": 20000 },
+    "organizer": {
+      "name": "JSConf JP Organizing Committee",
+      "email": "",
+      "twitter": "https://twitter.com/jsconfjp",
+      "website": "https://jsconf.jp"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/jsconfjp",
+      "linkedin": "",
+      "youtube": "https://www.youtube.com/@jsconfjp",
+      "instagram": ""
+    },
+    "description": "JSConf JP is Japan’s JavaScript conference focusing on modern web engineering, frameworks, performance, and accessibility."
+  },
+  {
     "name": "JSNation",
     "year_started": 2019,
     "city": "Amsterdam",

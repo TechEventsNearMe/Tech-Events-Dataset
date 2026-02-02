@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 67**
+**Total Tech Events: 68**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -41,6 +41,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Google I/O Mountain View | Mountain View | United States | North America | [Link](https://io.google/) |
 | JSConf Asia | Singapore | Singapore | Asia | [Link](https://jsconf.asia) |
 | JSConf India | Bengaluru | India | Asia | [Link](https://jsconf.in) |
+| JSConf JP | Tokyo | Japan | Asia | [Link](https://jsconf.jp) |
 | JSNation | Amsterdam | Netherlands | Europe | [Link](https://jsnation.com) |
 | KubeCon + CloudNativeCon | Atlanta | United States | North America | [Link](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) |
 | Laracon EU Amsterdam | Amsterdam | Netherlands | Europe | [Link](https://laracon.eu) |
@@ -81,6 +82,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Web Summit | Lisbon | Portugal | Europe | [Link](https://websummit.com) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
