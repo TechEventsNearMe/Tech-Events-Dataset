@@ -1499,6 +1499,38 @@
     "description": "NeurIPS is a leading AI and machine learning research conference featuring peer-reviewed papers, workshops, and tutorials, with strong academic and industry participation."
   },
   {
+    "name": "NFT.NYC New York",
+    "year_started": 2018,
+    "number_of_events_hosted": 7,
+    "city": "New York",
+    "region": "New York",
+    "country": "USA",
+    "continent": "North America",
+    "website": "https://www.nft.nyc",
+    "sector": ["Crypto", "Web3", "Blockchain", "DeFi", "Innovation"],
+    "tags": ["nft", "crypto", "web3", "blockchain", "conference"],
+    "acceptable_tags": ["nft", "crypto", "web3", "blockchain"],
+    "type": "hybrid",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "America/New_York",
+    "attendee_size": { "min": 1000, "max": 15000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 600, "max": 2000 },
+    "organizer": {
+      "name": "NFT.NYC Organizers",
+      "email": "info@nft.nyc",
+      "twitter": "https://x.com/NFT_NYC",
+      "website": "https://www.nft.nyc"
+    },
+    "socials": {
+      "twitter": "https://x.com/NFT_NYC",
+      "linkedin": "https://www.linkedin.com/company/nft-nyc/",
+      "youtube": "https://www.youtube.com/@NFTNYC",
+      "instagram": "https://www.instagram.com/nft_nyc/"
+    },
+    "description": "NFT.NYC is an annual hybrid conference held in New York City, focusing on NFTs, crypto, Web3, blockchain, and decentralized finance. It brings together creators, developers, investors, and innovators to discuss trends, showcase projects, and collaborate through panels, workshops, and networking sessions."
+  },
+  {
     "name": "NodeConf Argentina",
     "year_started": 2016,
     "city": "Buenos Aires",

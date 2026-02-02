@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 65**
+**Total Tech Events: 66**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -52,6 +52,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Money20/20 USA | Las Vegas | United States | North America | [Link](https://us.money2020.com) |
 | NDC Sydney | Sydney | Australia | Oceania | [Link](https://ndcsydney.com) |
 | NeurIPS | New Orleans | United States | North America | [Link](https://neurips.cc) |
+| NFT.NYC New York | New York | USA | North America | [Link](https://www.nft.nyc) |
 | NodeConf Argentina | Buenos Aires | Argentina | South America | [Link](https://nodeconf.com.ar) |
 | Norwegian Developers Conference (NDC Oslo) | Oslo | Norway | Europe | [Link](https://ndcoslo.com) |
 | NVIDIA GTC | San Jose | United States | North America | [Link](https://www.nvidia.com/gtc/) |
@@ -79,6 +80,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Web Summit | Lisbon | Portugal | Europe | [Link](https://websummit.com) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
