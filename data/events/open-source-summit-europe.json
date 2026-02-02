@@ -1,0 +1,57 @@
+{
+  "name": "Open Source Summit Europe",
+  "year_started": 2017,
+  "number_of_events_hosted": 9,
+  "city": "Amsterdam",
+  "region": "Basque Country",
+  "country": "Spain",
+  "continent": "Europe",
+  "website": "https://events.linuxfoundation.org/open-source-summit-europe/",
+  "sector": [
+    "Software Engineering",
+    "Cloud Computing",
+    "DevOps",
+    "Infrastructure",
+    "SRE / Reliability"
+  ],
+  "tags": [
+    "open-source",
+    "linux",
+    "cloud",
+    "conference"
+  ],
+  "acceptable_tags": [
+    "oss",
+    "linux",
+    "open-source",
+    "cloud"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Madrid",
+  "attendee_size": {
+    "min": 2400,
+    "max": 4000
+  },
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 200,
+    "max": 1100
+  },
+  "organizer": {
+    "name": "The Linux Foundation",
+    "email": "events@linuxfoundation.org",
+    "twitter": "https://x.com/linuxfoundation",
+    "website": "https://www.linuxfoundation.org"
+  },
+  "socials": {
+    "twitter": "https://x.com/linuxfoundation",
+    "linkedin": "https://www.linkedin.com/company/the-linux-foundation/",
+    "youtube": "https://www.youtube.com/@LinuxFoundationOrg",
+    "instagram": "https://www.instagram.com/linux_foundation/"
+  },
+  "description": "Open Source Summit Europe is a flagship Linux Foundation conference bringing together open-source maintainers, software engineers, and infrastructure leaders. The event focuses on software engineering, cloud-native systems, DevOps practices, reliability engineering, and large-scale open-source collaboration through keynotes, technical sessions, and community-driven discussions."
+}
