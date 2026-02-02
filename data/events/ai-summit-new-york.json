@@ -1,0 +1,57 @@
+{
+  "name": "AI Summit New York",
+  "year_started": 2016,
+  "number_of_events_hosted": 10,
+  "city": "New York",
+  "region": "New York",
+  "country": "USA",
+  "continent": "North America",
+  "website": "https://theaisummit.com/new-york",
+  "sector": [
+    "AI",
+    "Machine Learning",
+    "Deep Learning",
+    "Cloud Computing",
+    "Tech Leadership"
+  ],
+  "tags": [
+    "ai",
+    "machine learning",
+    "business",
+    "conference"
+  ],
+  "acceptable_tags": [
+    "ai",
+    "ml",
+    "machinelearning",
+    "technology"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/New_York",
+  "attendee_size": {
+    "min": 3000,
+    "max": 6500
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 100,
+    "max": 2499
+  },
+  "organizer": {
+    "name": "AI Summit Organizers",
+    "email": "info@theaisummit.com",
+    "twitter": "https://x.com/Bussiness_AI",
+    "website": "https://theaisummit.com"
+  },
+  "socials": {
+    "twitter": "https://x.com/Bussiness_AI",
+    "linkedin": "https://www.linkedin.com/showcase/the-ai-summit/",
+    "youtube": "https://www.youtube.com/ @AIBusinessTV",
+    "instagram": "https://www.instagram.com/theaisummitseries/"
+  },
+  "description": "AI Summit New York is an in-person conference focused on artificial intelligence, machine learning, and deep learning for business leaders and tech professionals. The event brings together AI experts, cloud engineers, and tech executives to discuss real-world AI applications, leadership strategies, and cloud integration through keynotes, workshops, and networking sessions."
+}
