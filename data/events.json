@@ -672,6 +672,44 @@
     "description": "Embedded World is the leading international exhibition and conference for embedded systems, bringing together engineers, developers, and industry leaders to showcase innovations in hardware, IoT, robotics, and embedded technologies."
   },
   {
+    "name": "Flutter Global Summit",
+    "year_started": 2021,
+    "number_of_events_hosted": 6,
+    "city": "Online",
+    "region": "Global",
+    "country": "Global",
+    "continent": "Global",
+    "website": "https://event.geekle.us/flutterp",
+    "sector": [
+      "Mobile Development",
+      "Frontend / Web Development",
+      "Cloud Computing",
+      "Firebase",
+      "Software Engineering"
+    ],
+    "tags": ["flutter", "mobile", "developers", "conference"],
+    "acceptable_tags": ["flutter", "dart", "mobile", "developers"],
+    "type": "online",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "Europe/London",
+    "attendee_size": { "min": 3000, "max": 6000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 0, "max": 349 },
+    "organizer": {
+      "name": "Geekle",
+      "email": "info@geekle.us",
+      "twitter": "https://x.com/GeekleOfficial",
+      "website": "https://geekle.us"
+    },
+    "socials": {
+      "twitter": "https://x.com/GeekleOfficial",
+      "linkedin": "https://www.linkedin.com/company/geekle-us/",
+      "youtube": "https://www.youtube.com/@GeekleOfficial",
+      "instagram": "https://www.instagram.com/geekle.us/"
+    },
+    "description": "Flutter Global Summit is an international online conference focused on Flutter and cross-platform application development. Organized by Geekle, the event brings together mobile and frontend developers to explore Flutter, Firebase integrations, cloud-backed architectures, and modern software engineering practices through expert talks and live sessions."
+  },
+  {
     "name": "Game Developers Conference",
     "year_started": 1988,
     "number_of_events_hosted": 37,
