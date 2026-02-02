@@ -1,0 +1,57 @@
+{
+  "name": "UXDX Dublin",
+  "year_started": 2016,
+  "number_of_events_hosted": 17,
+  "city": "Dublin",
+  "region": "Leinster",
+  "country": "Ireland",
+  "continent": "Europe",
+  "website": "https://uxdxconf.com",
+  "sector": [
+    "UX / UI",
+    "Product Management",
+    "Tech Leadership",
+    "Innovation",
+    "Digital Transformation"
+  ],
+  "tags": [
+    "ux",
+    "product",
+    "design",
+    "conference"
+  ],
+  "acceptable_tags": [
+    "uxdx",
+    "ux",
+    "product",
+    "design"
+  ],
+  "type": "hybrid",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Dublin",
+  "attendee_size": {
+    "min": 400,
+    "max": 1500
+  },
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 399,
+    "max": 1199
+  },
+  "organizer": {
+    "name": "UXDX",
+    "email": "hello@uxdxconf.com",
+    "twitter": "https://x.com/uxdxconf",
+    "website": "https://uxdxconf.com"
+  },
+  "socials": {
+    "twitter": "https://x.com/uxdxconf",
+    "linkedin": "https://www.linkedin.com/company/uxdx/",
+    "youtube": "https://www.youtube.com/@UXDX",
+    "instagram": "https://www.instagram.com/uxdxconf/"
+  },
+  "description": "UXDX Dublin is a product and UX conference focused on bridging the gap between user experience, product management, and engineering leadership. The event brings together product leaders, designers, and technology decision-makers to discuss innovation, digital transformation, and scalable product development through practical talks, case studies, and workshops."
+}
