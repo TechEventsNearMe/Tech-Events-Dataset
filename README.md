@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 66**
+**Total Tech Events: 67**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -71,6 +71,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | RSA Conference | San Francisco | United States | North America | [Link](https://www.rsaconference.com) |
 | ShmooCon | Washington | United States | North America | [Link](https://shmoocon.org) |
 | SIGGRAPH | Los Angeles | United States | North America | [Link](https://s2025.siggraph.org) |
+| Singapore FinTech Festival | Singapore | Singapore | Asia | [Link](https://www.fintechfestival.sg) |
 | Slush Helsinki | Helsinki | Finland | Europe | [Link](https://www.slush.org) |
 | SXSW Austin | Austin | United States | North America | [Link](https://www.sxsw.com) |
 | TechCrunch Disrupt San Francisco | San Francisco | United States | North America | [Link](https://techcrunch.com/events/disrupt-sf-2025/) |
@@ -80,6 +81,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Web Summit | Lisbon | Portugal | Europe | [Link](https://websummit.com) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
