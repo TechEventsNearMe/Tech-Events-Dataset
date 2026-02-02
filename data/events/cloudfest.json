@@ -1,0 +1,44 @@
+{
+  "name": "CloudFest",
+  "year_started": 2000,
+  "number_of_events_hosted": 25,
+  "city": "Rust",
+  "region": "Baden-Württemberg",
+  "country": "Germany",
+  "continent": "Europe",
+  "website": "https://www.cloudfest.com",
+  "sector": [
+    "Cloud Computing",
+    "Infrastructure",
+    "Digital Transformation"
+  ],
+  "tags": [
+    "conference",
+    "hosting",
+    "cloud"
+  ],
+  "acceptable_tags": [
+    "cloud",
+    "hosting",
+    "infrastructure"
+  ],
+  "type": "in-person",
+  "languages": ["English"],
+  "frequency": "annual",
+  "timezone": "Europe/Berlin",
+  "attendee_size": { "min": 5000, "max": 10000 },
+  "ticket_cost_usual": { "currency": "EUR", "min": 200, "max": 1500 },
+  "organizer": {
+    "name": "CloudFest GmbH",
+    "email": "",
+    "twitter": "https://twitter.com/cloudfest",
+    "website": "https://www.cloudfest.com"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/cloudfest",
+    "linkedin": "https://www.linkedin.com/company/cloudfest",
+    "youtube": "https://www.youtube.com/cloudfest",
+    "instagram": "https://www.instagram.com/whdcloudfest/#"
+  },
+  "description": "CloudFest is a major European conference for cloud providers, hosting companies, and SaaS vendors, focusing on cloud infrastructure, hosting, and digital transformation strategies."
+}
