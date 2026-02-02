@@ -133,6 +133,44 @@
     "description": "AWS re:Invent is Amazon Web Services’ flagship cloud computing conference held annually in Las Vegas. It gathers tens of thousands of developers, engineers, architects, and business leaders for keynotes, technical sessions, hands-on labs, and networking around the latest in cloud, DevOps, AI, and more."
   },
   {
+    "name": "Black Hat Asia",
+    "year_started": 2015,
+    "number_of_events_hosted": 9,
+    "city": "Singapore",
+    "region": "Central Region",
+    "country": "Singapore",
+    "continent": "Asia",
+    "website": "https://blackhat.com/asia-26/",
+    "sector": [
+      "Security",
+      "Ethical Hacking",
+      "AppSec",
+      "Network Security",
+      "Privacy & Compliance"
+    ],
+    "tags": ["conference", "security", "hacking"],
+    "acceptable_tags": ["security", "appsec", "network"],
+    "type": "in-person",
+    "languages": ["English"],
+    "frequency": "annual",
+    "timezone": "Asia/Singapore",
+    "attendee_size": { "min": 2000, "max": 9000 },
+    "ticket_cost_usual": { "currency": "USD", "min": 799, "max": 2299 },
+    "organizer": {
+      "name": "Black Hat",
+      "email": "",
+      "twitter": "https://twitter.com/blackhatevents",
+      "website": "https://www.blackhat.com"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/blackhatevents",
+      "linkedin": "https://www.linkedin.com/company/black-hat",
+      "youtube": "https://www.youtube.com/user/BlackHatOfficialYT",
+      "instagram": "https://www.instagram.com/blackhat_events/"
+    },
+    "description": "Black Hat Asia is a premier cybersecurity event featuring briefings, trainings, and a business hall focused on offensive and defensive security across APAC."
+  },
+  {
     "name": "BSides Las Vegas",
     "year_started": 2009,
     "number_of_events_hosted": 15,

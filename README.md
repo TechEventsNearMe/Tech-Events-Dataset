@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 68**
+**Total Tech Events: 69**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -16,6 +16,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Africa Tech Summit Kigali | Kigali | Rwanda | Africa | [Link](https://www.africatechsummit.com/kigali/) |
 | Apple WWDC San Jose | San Jose | United States | North America | [Link](https://developer.apple.com/wwdc/) |
 | AWS re:Invent | Las Vegas | United States | North America | [Link](https://reinvent.awsevents.com) |
+| Black Hat Asia | Singapore | Singapore | Asia | [Link](https://blackhat.com/asia-26/) |
 | BSides Las Vegas | Las Vegas | United States | North America | [Link](https://bsideslv.org) |
 | Build With React Native Manchester | Manchester | United Kingdom | Europe | [Link](https://buildwithreactnative.com/manchester) |
 | CES | Las Vegas | United States | North America | [Link](https://ces.tech) |
@@ -82,6 +83,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Web Summit | Lisbon | Portugal | Europe | [Link](https://websummit.com) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
