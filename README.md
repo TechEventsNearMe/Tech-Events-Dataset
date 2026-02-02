@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 69**
+**Total Tech Events: 70**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -26,6 +26,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Config San Francisco | San Francisco | United States | North America | [Link](https://config.figma.com) |
 | Consumer Electronics Show | Las Vegas | United States | North America | [Link](https://www.ces.tech/) |
 | CVPR | Seattle | United States | North America | [Link](https://cvpr.thecvf.com) |
+| Data Council SF | San Francisco | United States | North America | [Link](https://www.datacouncil.ai) |
 | DeepFest Riyadh | Riyadh | Saudi Arabia | Asia | [Link](https://deepfest.com/) |
 | DeveloperWeek San Jose | San Jose | United States | North America | [Link](https://www.developerweek.com/) |
 | Dreamforce San Francisco | San Francisco | United States | North America | [Link](https://www.salesforce.com/dreamforce/) |
@@ -83,6 +84,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Web Summit | Lisbon | Portugal | Europe | [Link](https://websummit.com) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
