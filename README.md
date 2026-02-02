@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 70**
+**Total Tech Events: 71**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -20,6 +20,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | BSides Las Vegas | Las Vegas | United States | North America | [Link](https://bsideslv.org) |
 | Build With React Native Manchester | Manchester | United Kingdom | Europe | [Link](https://buildwithreactnative.com/manchester) |
 | CES | Las Vegas | United States | North America | [Link](https://ces.tech) |
+| Chain React | Portland | United States | North America | [Link](https://chainreactconf.com/) |
 | Cisco Live Las Vegas | Las Vegas | United States | North America | [Link](https://www.ciscolive.com/) |
 | Cloud Native Computing Foundation | Chicago | United States | North America | [Link](https://kubecon.io) |
 | CloudFest | Rust | Germany | Europe | [Link](https://www.cloudfest.com) |
@@ -84,6 +85,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Web Summit | Lisbon | Portugal | Europe | [Link](https://websummit.com) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
