@@ -1208,6 +1208,45 @@
     "description": "Hack In The Box (HITB) Security Conference is a deep-dive technical event featuring advanced security research, exploit development, and network defense strategies. The 2026 edition will be held in Jakarta, Indonesia."
   },
   {
+    "name": "India Mobile Congress",
+    "year_started": 2017,
+    "number_of_events_hosted": 7,
+    "city": "New Delhi",
+    "region": "Delhi",
+    "country": "India",
+    "continent": "Asia",
+    "website": "https://www.indiamobilecongress.com",
+    "sector": [
+      "Mobile Development",
+      "IoT",
+      "Cloud Computing",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags": ["conference", "mobile", "telecom"],
+    "acceptable_tags": ["mobile", "5g", "iot"],
+    "type": "in-person",
+    "languages": ["English", "Hindi"],
+    "frequency": "annual",
+    "timezone": "Asia/Calcutta",
+    "attendee_size": { "min": 10000, "max": 150000 },
+    "ticket_cost_usual": { "currency": "INR", "min": 500, "max": 5000 },
+    "organizer": {
+      "name": "COAI & Department of Telecommunications, Government of India",
+      "email": "",
+      "twitter": "https://x.com/exploreIMC",
+      "website": "https://www.indiamobilecongress.com"
+    },
+    "socials": {
+      "twitter": "https://x.com/exploreIMC",
+      "linkedin": "https://www.linkedin.com/company/indiamobilecongressofficial/",
+      "youtube": "https://www.youtube.com/@IndiaMobileCongress",
+      "instagram": "https://www.instagram.com/exploreimc",
+      "facebook": "https://web.facebook.com/IndiaMobileCongress/"
+    },
+    "description": "India Mobile Congress is South Asia’s largest telecom and digital technology event, covering 5G, IoT, cloud, AI, and mobile ecosystems."
+  },
+  {
     "name": "International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026)",
     "year_started": 1969,
     "number_of_events_hosted": 35,
