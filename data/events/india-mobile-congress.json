@@ -33,7 +33,7 @@
   "timezone": "Asia/Calcutta",
   "attendee_size": {
     "min": 10000,
-    "max": 50000
+    "max": 150000
   },
   "ticket_cost_usual": {
     "currency": "INR",
@@ -50,7 +50,8 @@
     "twitter": "https://x.com/exploreIMC",
     "linkedin": "https://www.linkedin.com/company/indiamobilecongressofficial/",
     "youtube": "https://www.youtube.com/@IndiaMobileCongress",
-    "instagram": "https://www.instagram.com/exploreimc/?igsh=MWJpeWQ0MGF0ZG4wdg%3D%3D&utm_source=qr#"
+    "instagram": "https://www.instagram.com/exploreimc",
+    "facebook": "https://web.facebook.com/IndiaMobileCongress/"
   },
   "description": "India Mobile Congress is South Asia’s largest telecom and digital technology event, covering 5G, IoT, cloud, AI, and mobile ecosystems."
 }
