@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 71**
+**Total Tech Events: 72**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -42,6 +42,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Google Cloud Next | San Francisco | United States | North America | [Link](https://cloud.withgoogle.com/next) |
 | Google I/O | Mountain View | United States | North America | [Link](https://io.google) |
 | Google I/O Mountain View | Mountain View | United States | North America | [Link](https://io.google/) |
+| Hack In The Box Security Conference | Jakarta | Indonesia | Asia | [Link](https://conference.hitb.org) |
 | JSConf Asia | Singapore | Singapore | Asia | [Link](https://jsconf.asia) |
 | JSConf India | Bengaluru | India | Asia | [Link](https://jsconf.in) |
 | JSConf JP | Tokyo | Japan | Asia | [Link](https://jsconf.jp) |
@@ -85,6 +86,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Web Summit | Lisbon | Portugal | Europe | [Link](https://websummit.com) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
