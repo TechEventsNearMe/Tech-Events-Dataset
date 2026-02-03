@@ -1,0 +1,54 @@
+{
+  "name": "Eventhive Tech",
+  "year_started": 2017,
+  "number_of_events_hosted": 7,
+  "city": "Lagos",
+  "region": "Lagos State",
+  "country": "Nigeria",
+  "continent": "Africa",
+  "website": "https://tech.eventhive.ng",
+  "sector": [
+    "Startup / Entrepreneurship",
+    "FinTech",
+    "Digital Transformation",
+    "Innovation"
+  ],
+  "tags": [
+    "conference",
+    "startup",
+    "africa"
+  ],
+  "acceptable_tags": [
+    "startup",
+    "fintech",
+    "innovation"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Africa/Lagos",
+  "attendee_size": {
+    "min": 1000,
+    "max": 3000
+  },
+  "ticket_cost_usual": {
+    "currency": "NGN",
+    "min": 0,
+    "max": 20000
+  },
+  "organizer": {
+    "name": "Eventhive.ng",
+    "email": "",
+    "twitter": "https://x.com/afritechseries?s=11&t=U0Zbl5bO-TfL3iYzbuAOLQ",
+    "website": "https://eventhive.ng"
+  },
+  "socials": {
+    "twitter": "https://x.com/afritechseries?s=11&t=U0Zbl5bO-TfL3iYzbuAOLQ",
+    "linkedin": "https://www.linkedin.com/company/africa-tech-series/",
+    "youtube": "https://www.youtube.com/@eventhivedotng",
+    "instagram": "https://www.instagram.com/afritechseries/?igsh=MWVwajkyYjNyYW8zZw%3D%3D#"
+  },
+  "description": "Eventhive Tech is a leading Nigerian technology conference and exhibition, connecting startups, investors, corporates, and policymakers to discuss innovation, fintech, and Africa’s digital future."
+}
