@@ -1,0 +1,45 @@
+{
+  "name": "DockerCon",
+  "year_started": 2013,
+  "number_of_events_hosted": 12,
+  "city": "San Francisco",
+  "region": "California",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://www.docker.com/events/",
+  "sector": [
+    "DevOps",
+    "Cloud Computing",
+    "Infrastructure"
+  ],
+  "tags": [
+    "conference",
+    "containers",
+    "cloud-native"
+  ],
+  "acceptable_tags": [
+    "devops",
+    "containers",
+    "cloud"
+  ],
+  "type": "in-person",
+  "languages": ["English"],
+  "frequency": "annual",
+  "timezone": "America/Los_Angeles",
+  "attendee_size": { "min": 1500, "max": 5000 },
+  "ticket_cost_usual": { "currency": "USD", "min": 250, "max": 1200 },
+  "organizer": {
+    "name": "Docker, Inc.",
+    "email": "",
+    "twitter": "https://x.com/docker",
+    "website": "https://www.docker.com/events/"
+  },
+  "socials": {
+    "twitter": "https://x.com/docker",
+    "linkedin": "https://www.linkedin.com/company/docker",
+    "youtube": "https://www.youtube.com/user/dockerrun",
+    "instagram": "https://www.instagram.com/dockerinc/",
+    "facebook": "https://www.facebook.com/dockerinc"
+  },
+  "description": "DockerCon is the community and industry conference for containerization and cloud-native development, covering Docker, Kubernetes integrations, and modern DevOps workflows."
+}
