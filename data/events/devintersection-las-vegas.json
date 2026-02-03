@@ -1,9 +1,9 @@
 {
-  "name": "DevIntersection Las Vegas",
+  "name": "DevIntersection Orlando",
   "year_started": 2013,
   "number_of_events_hosted": 11,
-  "city": "Las Vegas",
-  "region": "Nevada",
+  "city": "Orlando",
+  "region": "Florida",
   "country": "United States",
   "continent": "North America",
   "website": "https://www.devintersection.com",
@@ -30,7 +30,7 @@
     "English"
   ],
   "frequency": "annual",
-  "timezone": "America/Los_Angeles",
+  "timezone": "America/New_York",
   "attendee_size": {
     "min": 1500,
     "max": 4000
@@ -50,7 +50,8 @@
     "twitter": "https://x.com/devintersection",
     "linkedin": "https://www.linkedin.com/company/devintersection",
     "youtube": "https://www.youtube.com/@DevIntersection",
-    "instagram": ""
+    "instagram": "",
+    "facebook": "https://www.facebook.com/devintersection/"
   },
-  "description": "DevIntersection Las Vegas is a developer-focused conference featuring Microsoft technologies, enterprise cloud, APIs, and leadership sessions for software teams."
+  "description": "DevIntersection Orlando is a developer-focused conference featuring Microsoft technologies, enterprise cloud, APIs, and leadership sessions for software teams."
 }
