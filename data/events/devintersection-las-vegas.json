@@ -1,0 +1,57 @@
+{
+  "name": "DevIntersection Orlando",
+  "year_started": 2013,
+  "number_of_events_hosted": 11,
+  "city": "Orlando",
+  "region": "Florida",
+  "country": "United States",
+  "continent": "North America",
+  "website": "https://www.devintersection.com",
+  "sector": [
+    "Software Engineering",
+    "Cloud Computing",
+    "Backend / APIs",
+    "Security",
+    "Tech Leadership"
+  ],
+  "tags": [
+    "conference",
+    "microsoft",
+    "enterprise"
+  ],
+  "acceptable_tags": [
+    "dotnet",
+    "azure",
+    "cloud",
+    "devintersection"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/New_York",
+  "attendee_size": {
+    "min": 1500,
+    "max": 4000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 695,
+    "max": 2395
+  },
+  "organizer": {
+    "name": "DevIntersection Events",
+    "email": "",
+    "twitter": "https://x.com/devintersection",
+    "website": "https://www.devintersection.com"
+  },
+  "socials": {
+    "twitter": "https://x.com/devintersection",
+    "linkedin": "https://www.linkedin.com/company/devintersection",
+    "youtube": "https://www.youtube.com/@DevIntersection",
+    "instagram": "",
+    "facebook": "https://www.facebook.com/devintersection/"
+  },
+  "description": "DevIntersection Orlando is a developer-focused conference featuring Microsoft technologies, enterprise cloud, APIs, and leadership sessions for software teams."
+}
