@@ -8,7 +8,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 ## 📅 Events List
 
 <!-- EVENTS-LIST:START -->
-**Total Tech Events: 76**
+**Total Tech Events: 77**
 
 | Event | City | Country | Continent | Website |
 |-------|------|---------|-----------|---------|
@@ -34,6 +34,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Dreamforce San Francisco | San Francisco | United States | North America | [Link](https://www.salesforce.com/dreamforce/) |
 | droidcon Berlin | Berlin | Germany | Europe | [Link](https://berlin.droidcon.com) |
 | Embedded World Conference | Nuremberg | Germany | Europe | [Link](https://www.embedded-world.de/en) |
+| European Conference on Computer Vision | Munich | Germany | Europe | [Link](https://eccv2024.ecva.net) |
 | Eventhive Tech | Lagos | Nigeria | Africa | [Link](https://tech.eventhive.ng) |
 | Flutter Global Summit | Online | Global | Global | [Link](https://event.geekle.us/flutterp) |
 | Game Developers Conference | San Francisco | United States | North America | [Link](https://gdconf.com) |
@@ -90,6 +91,7 @@ All data lives in JSON. No backend. Anyone can contribute via Pull Requests.
 | Web Summit | Lisbon | Portugal | Europe | [Link](https://websummit.com) |
 
 <!-- EVENTS-LIST:END -->
+
 
 
 
