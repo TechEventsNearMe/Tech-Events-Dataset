@@ -31,7 +31,7 @@
   "timezone": "Africa/Lagos",
   "attendee_size": {
     "min": 1000,
-    "max": 5000
+    "max": 3000
   },
   "ticket_cost_usual": {
     "currency": "NGN",
