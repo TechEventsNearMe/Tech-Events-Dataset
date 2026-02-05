@@ -1,0 +1,50 @@
+{
+  "name": "I Code Java",
+  "year_started": 2016,
+  "number_of_events_hosted": 7,
+
+  "city": "Johannesburg",
+  "region": "Johannesburg",
+  "country": "South Africa",
+  "continent": "Africa",
+
+  "website": "https://j-sa.co/",
+
+  "sector": ["Software Engineering", "Backend / APIs"],
+
+  "tags": ["conference", "programming"],
+
+  "acceptable_tags": ["dev", "innovation", "programming"],
+
+  "type": "in-person",
+
+  "languages": ["English"],
+
+  "frequency": "annual",
+
+  "timezone": "Africa/Johannesburg",
+
+  "attendee_size": {
+    "min": 100,
+    "max": 5000
+  },
+
+  "ticket_cost_usual": {
+    "currency": "ZAR",
+    "min": 0,
+    "max": 50
+  },
+
+  "organizer": {
+    "name": "Java Cloud Conference",
+    "email": "info@j-sa.co",
+    "twitter": "https://twitter.com/JavaAfrica",
+    "website": "https://j-sa.co/"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/JavaAfrica"
+  },
+
+  "description": "Each year, we explore the tools and trends shaping the future of software — from cloud architecture and security to performance optimisation and AI-driven development."
+}

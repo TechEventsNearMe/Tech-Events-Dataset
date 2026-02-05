@@ -1,0 +1,50 @@
+{
+  "name": "WordCamp Port Harcourt",
+  "year_started": 2019,
+  "number_of_events_hosted": 2,
+
+  "city": "Port Harcourt",
+  "region": "Rivers State",
+  "country": "Nigeria",
+  "continent": "Africa",
+
+  "website": "https://portharcourt.wordcamp.org/2026",
+
+  "sector": ["Frontend / Web Development"],
+
+  "tags": ["conference", "wordpress"],
+
+  "acceptable_tags": ["dev", "innovation", "wordpress"],
+
+  "type": "in-person",
+
+  "languages": ["English"],
+
+  "frequency": "annual",
+
+  "timezone": "Africa/Lagos",
+
+  "attendee_size": {
+    "min": 100,
+    "max": 5000
+  },
+
+  "ticket_cost_usual": {
+    "currency": "NGN",
+    "min": 0,
+    "max": 4500
+  },
+
+  "organizer": {
+    "name": "WordCamp Port Harcourt",
+    "twitter": "https://x.com/wordpressphc",
+    "website": "https://portharcourt.wordcamp.org/2026"
+  },
+
+  "socials": {
+    "twitter": "https://x.com/wordpressphc",
+    "instagram": "https://instagram.com/wordpressphc"
+  },
+
+  "description": "A community powered tech conference for WordPress lovers, creators, innovators, bloggers, developers, designers, business owners, and WordPress users of all levels . 100% volunteer-led and non-profit. WordCamp is a locally organized conference focused on everything WordPress. It’s open to everyone."
+}
