@@ -1,0 +1,51 @@
+{
+  "name": "Colombia Tech Week",
+  "year_started": 2023,
+  "number_of_events_hosted": 4,
+  "city": "Bogotá",
+  "region": "Bogotá D.C.",
+  "country": "Colombia",
+  "continent": "South America",
+  "website": "https://colombiatechweek.co/",
+  "sector": [
+    "Startup / Entrepreneurship",
+    "Software Engineering",
+    "AI",
+    "FinTech",
+    "Innovation"
+  ],
+  "tags": ["startup", "technology", "ecosystem", "conference"],
+  "acceptable_tags": [
+    "colombiatechweek",
+    "startup",
+    "developers",
+    "ai",
+    "fintech"
+  ],
+  "type": "in-person",
+  "languages": ["Spanish", "English"],
+  "frequency": "annual",
+  "timezone": "America/Bogota",
+  "attendee_size": {
+    "min": 4000,
+    "max": 10000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 0,
+    "max": 150
+  },
+  "organizer": {
+    "name": "Colombia Tech Week Organization",
+    "email": "",
+    "twitter": "",
+    "website": "https://colombiatechweek.co/"
+  },
+  "socials": {
+    "twitter": "https://x.com/coltechweek",
+    "linkedin": "https://www.linkedin.com/company/colombia-tech-week/",
+    "youtube": "",
+    "instagram": "https://www.instagram.com/colombiatechweek/?hl=en"
+  },
+  "description": "Colombia Tech Week is a fast-growing ecosystem event that brings together startups, developers, investors, and global tech companies through conferences, meetups, and networking sessions across Bogotá."
+}

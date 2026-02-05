@@ -1,0 +1,60 @@
+{
+  "name": "DevOps Talks Conference",
+  "year_started": 2018,
+  "number_of_events_hosted": 8,
+  "city": "Melbourne",
+  "region": "Victoria",
+  "country": "Australia",
+  "continent": "Oceania",
+  "website": "https://devopstalks.com/",
+  "sector": [
+    "DevOps",
+    "Cloud Computing",
+    "Software Engineering",
+    "Infrastructure",
+    "Platform Engineering"
+  ],
+  "tags": [
+    "devops",
+    "cloud",
+    "infrastructure",
+    "conference",
+    "engineering"
+  ],
+  "acceptable_tags": [
+    "devopstalks",
+    "devops",
+    "cloud",
+    "infrastructure",
+    "ci-cd",
+    "kubernetes"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Australia/Melbourne",
+  "attendee_size": {
+    "min": 400,
+    "max": 1200
+  },
+  "ticket_cost_usual": {
+    "currency": "AUD",
+    "min": 250,
+    "max": 950
+  },
+  "organizer": {
+    "name": "DevOps Talks",
+    "email": "",
+    "twitter": "",
+    "website": "https://devopstalks.com/"
+  },
+  "socials": {
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/company/devops-talks/",
+    "youtube": "https://www.youtube.com/channel/UCrlLChZc3lcBKb_lqOIlwAQ",
+    "instagram": ""
+  },
+  "description": "DevOps Talks Conference is an Australian technology event focused on modern DevOps and cloud-native practices. Held annually in Melbourne, the conference covers CI/CD, Kubernetes, cloud infrastructure, automation, reliability engineering, and DevOps culture through practitioner-led talks and hands-on sessions."
+}

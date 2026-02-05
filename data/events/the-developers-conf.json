@@ -1,0 +1,61 @@
+{
+  "name": "The Developers Conference (TDC)",
+  "year_started": 2007,
+  "number_of_events_hosted": 18,
+  "city": "São Paulo",
+  "region": "São Paulo State",
+  "country": "Brazil",
+  "continent": "South America",
+  "website": "https://thedevconf.com/",
+  "sector": [
+    "Software Engineering",
+    "Web Development",
+    "Mobile Development",
+    "Cloud Computing",
+    "Architecture",
+    "DevOps"
+  ],
+  "tags": [
+    "developers",
+    "software",
+    "conference",
+    "technology"
+  ],
+  "acceptable_tags": [
+    "tdc",
+    "developers",
+    "web",
+    "mobile",
+    "cloud",
+    "devops"
+  ],
+  "type": "hybrid",
+  "languages": [
+    "Portuguese",
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Sao_Paulo",
+  "attendee_size": {
+    "min": 8000,
+    "max": 15000
+  },
+  "ticket_cost_usual": {
+    "currency": "BRL",
+    "min": 250,
+    "max": 2500
+  },
+  "organizer": {
+    "name": "Globalcode",
+    "email": "",
+    "twitter": "",
+    "website": "https://globalcode.com.br/"
+  },
+  "socials": {
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/company/the-developer-s-conference/",
+    "youtube": "https://www.youtube.com/thedevconf",
+    "instagram": "https://www.instagram.com/thedevconf/"
+  },
+  "description": "The Developers Conference (TDC) is one of the largest and most established developer conferences in Latin America. Hosted annually in Brazil, it brings together software engineers, architects, and technology leaders to explore web and mobile development, cloud computing, DevOps, software architecture, and emerging technologies through talks, workshops, and hands-on sessions."
+}
