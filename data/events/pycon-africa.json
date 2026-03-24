@@ -2,9 +2,9 @@
   "name": "PyCon Africa",
   "year_started": 2019,
   "number_of_events_hosted": 4,
-  "city": "Accra",
-  "region": "Greater Accra",
-  "country": "Ghana",
+  "city": "Kampala",
+  "region": "Kampala",
+  "country": "Uganda",
   "continent": "Africa",
   "website": "https://africa.pycon.org",
   "sector": [
@@ -38,8 +38,8 @@
   },
   "ticket_cost_usual": {
     "currency": "USD",
-    "min": 0,
-    "max": 140
+    "min": 30,
+    "max": 155
   },
   "organizer": {
     "name": "Python Africa",
