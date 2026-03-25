@@ -1,0 +1,60 @@
+{
+  "name": "Brazil Tech Summit",
+  "year_started": 2026,
+  "number_of_events_hosted": 1,
+  "city": "São Paulo",
+  "region": "São Paulo",
+  "country": "Brazil",
+  "continent": "South America",
+  "website": "https://allevents.in/s%C3%A3o-paulo/brazil-tech-summit/1000065499469677",
+  "sector": [
+    "Startup / Entrepreneurship",
+    "Innovation",
+    "Digital Transformation",
+    "Tech Leadership",
+    "Cloud Computing"
+  ],
+  "tags": [
+    "tech",
+    "conference",
+    "entrepreneurship",
+    "innovation",
+    "startup"
+  ],
+  "acceptable_tags": [
+    "brazil-tech-summit",
+    "brazil",
+    "startup",
+    "entrepreneurship",
+    "innovation"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Sao_Paulo",
+  "attendee_size": {
+    "min": 60,
+    "max": 300
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 0,
+    "max": 108
+  },
+  "organizer": {
+    "name": "Global Startup Ecosystem",
+    "email": "info@globalstartupecosystem.com",
+    "twitter": "https://x.com/allevents_in",
+    "website": "https://globalstartupecosystem.com"
+  },
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/global-startup-ecosystem/",
+    "twitter": "https://x.com/allevents_in",
+    "youtube": "https://www.youtube.com/@allevents-in",
+    "facebook": "https://web.facebook.com/allevents.in?_rdc=1&_rdr",
+    "instagram": "https://www.instagram.com/allevents_official/"
+  },
+  "description": "Brazil Tech Summit is an international program featuring 100 global speakers and partners passionate about the future of Brazil. It focuses on entrepreneurship, innovation, and digital transformation."
+}
