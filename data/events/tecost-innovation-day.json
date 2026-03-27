@@ -1,0 +1,57 @@
+{
+  "name": "Tecost Innovation Day",
+  "year_started": 2019,
+  "number_of_events_hosted": 7,
+  "city": "Prilly",
+  "region": "Vaud",
+  "country": "Switzerland",
+  "continent": "Europe",
+  "website": "https://tecost.ch",
+  "sector": [
+    "Innovation",
+    "Digital Transformation",
+    "Cloud Computing",
+    "Startup / Entrepreneurship"
+  ],
+  "tags": [
+    "innovation",
+    "switzerland",
+    "digital-transformation",
+    "startups"
+  ],
+  "acceptable_tags": [
+    "tecost",
+    "innovation-day",
+    "switzerland",
+    "prilly"
+  ],
+  "type": "in-person",
+  "languages": [
+    "French",
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Zurich",
+  "attendee_size": {
+    "min": 200,
+    "max": 800
+  },
+  "ticket_cost_usual": {
+    "currency": "CHF",
+    "min": 50,
+    "max": 250
+  },
+  "organizer": {
+    "name": "Tecost Innovation Committee",
+    "email": "info@tecost.ch",
+    "twitter": "",
+    "website": "https://tecost.ch"
+  },
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/tecost-sa",
+    "twitter": "",
+    "youtube": "",
+    "instagram": ""
+  },
+  "description": "Tecost Innovation Day is a Swiss event showcasing digital transformation, startups, and cloud innovation."
+}
