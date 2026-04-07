@@ -67,7 +67,7 @@
   "ticket_cost_usual": {
     "currency": "NGN",
     "min": 11250,
-    "max": 150000
+    "max": 112500
   },
 
   "organizer": {
