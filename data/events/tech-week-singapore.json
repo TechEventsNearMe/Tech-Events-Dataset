@@ -1,0 +1,60 @@
+{
+  "name": "Tech Week Singapore",
+  "year_started": 2019,
+  "number_of_events_hosted": 6,
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "Singapore",
+  "continent": "Asia",
+  "website": "https://www.singaporetechnologyweek.com",
+  "sector": [
+    "Cloud Computing",
+    "AI",
+    "DevOps",
+    "Security",
+    "Big Data",
+    "Data Science",
+    "Infrastructure"
+  ],
+  "tags": [
+    "conference",
+    "cloud",
+    "devops",
+    "cybersecurity",
+    "data"
+  ],
+  "acceptable_tags": [
+    "singapore",
+    "tech-week",
+    "cloud"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Asia/Singapore",
+  "attendee_size": {
+    "min": 8000,
+    "max": 29241
+  },
+  "ticket_cost_usual": {
+    "currency": "SGD",
+    "min": 0,
+    "max": 899
+  },
+  "organizer": {
+    "name": "CloserStill Media",
+    "email": "",
+    "twitter": "",
+    "website": "https://www.singaporetechnologyweek.com"
+  },
+  "socials": {
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/company/tech-week-singapore/",
+    "youtube": "https://www.youtube.com/channel/UCmsF9E7rxx0UWsDd8P0Wg4A/videos",
+    "instagram": "https://www.instagram.com/techweeksingapore/",
+    "facebook": "https://web.facebook.com/TechweekSingapore/"
+  },
+  "description": "Tech Week Singapore brings together five co-located events: Cloud & AI Infrastructure Asia, DevOps Live, Cyber Security World Asia, Data Centre World Asia, and Big Data & AI World Asia. It's a comprehensive technology conference covering enterprise tech infrastructure and emerging technologies."
+}
