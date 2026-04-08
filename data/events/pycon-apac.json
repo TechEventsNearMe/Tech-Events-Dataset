@@ -37,6 +37,7 @@
   },
   "ticket_cost_usual": {
     "currency": "PHP",
+    "amount": "what you can pay",
     "min": 0,
     "max": 6300
   },
