@@ -1,0 +1,46 @@
+{
+  "name": "PyCon AU",
+  "year_started": 2010,
+  "number_of_events_hosted": 16,
+  "city": "Brisbane",
+  "region": "Queensland",
+  "country": "Australia",
+  "continent": "Australia",
+  "website": "https://pycon.org.au/",
+  "sector": [
+    "Software Engineering",
+    "Python",
+    "Data Science",
+    "AI",
+    "Machine Learning",
+    "Web Development"
+  ],
+  "tags": ["python", "developers", "conference", "software"],
+  "acceptable_tags": ["python", "pycon", "developers", "ai", "data"],
+  "type": "in-person",
+  "languages": ["English"],
+  "frequency": "annual",
+  "timezone": "Australia/Brisbane",
+  "attendee_size": {
+    "min": 500,
+    "max": 1500
+  },
+  "ticket_cost_usual": {
+    "currency": "AUD",
+    "min": 100,
+    "max": 1200
+  },
+  "organizer": {
+    "name": "PyCon AU Committee",
+    "email": "",
+    "twitter": "https://twitter.com/pyconau",
+    "website": "https://pycon.org.au/"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/pyconau",
+    "linkedin": "https://au.linkedin.com/company/pyconau",
+    "youtube": "https://www.youtube.com/pyconau",
+    "instagram": ""
+  },
+  "description": "PyCon AU is Australia’s flagship Python conference, bringing together developers, data scientists, researchers, and industry professionals. The event features talks, workshops, sprints, and community sessions covering Python, AI, data science, automation, and web development."
+}

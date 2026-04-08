@@ -1,0 +1,62 @@
+{
+  "name": "Argentina Tech Week",
+  "year_started": 2018,
+  "number_of_events_hosted": 8,
+  "city": "Buenos Aires",
+  "region": "Buenos Aires",
+  "country": "Argentina",
+  "continent": "South America",
+  "website": "https://argtechweek.com/",
+  "sector": [
+    "Startups",
+    "Software Engineering",
+    "Fintech",
+    "Artificial Intelligence",
+    "Innovation",
+    "Entrepreneurship"
+  ],
+  "tags": [
+    "startup",
+    "technology",
+    "conference",
+    "ecosystem",
+    "innovation"
+  ],
+  "acceptable_tags": [
+    "argtechweek",
+    "startups",
+    "fintech",
+    "ai",
+    "developers",
+    "entrepreneurship"
+  ],
+  "type": "in-person",
+  "languages": [
+    "Spanish",
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "attendee_size": {
+    "min": 5000,
+    "max": 12000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 0,
+    "max": 200
+  },
+  "organizer": {
+    "name": "Argentina Tech Week Organization",
+    "email": "",
+    "twitter": "",
+    "website": "https://argtechweek.com/"
+  },
+  "socials": {
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/company/argentina-tech-week/",
+    "youtube": "",
+    "instagram": ""
+  },
+  "description": "Argentina Tech Week is a large, multi-day technology and startup ecosystem event held annually in Buenos Aires. It features conferences, community meetups, pitch sessions, and networking events that bring together founders, developers, investors, fintech leaders, and AI innovators from across Argentina and Latin America."
+}

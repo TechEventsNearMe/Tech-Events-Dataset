@@ -1,0 +1,60 @@
+{
+  "name": "Campus Party Brasil",
+  "year_started": 2008,
+  "number_of_events_hosted": 16,
+  "city": "São Paulo",
+  "region": "São Paulo State",
+  "country": "Brazil",
+  "continent": "South America",
+  "website": "https://brasil.campus-party.org/",
+  "sector": [
+    "Software Engineering",
+    "AI",
+    "Robotics",
+    "Gaming",
+    "Startups",
+    "Innovation"
+  ],
+  "tags": [
+    "hackathon",
+    "developers",
+    "technology",
+    "festival"
+  ],
+  "acceptable_tags": [
+    "campusparty",
+    "hackathon",
+    "developers",
+    "innovation",
+    "ai"
+  ],
+  "type": "in-person",
+  "languages": [
+    "Portuguese",
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Sao_Paulo",
+  "attendee_size": {
+    "min": 80000,
+    "max": 120000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 0,
+    "max": 300
+  },
+  "organizer": {
+    "name": "Campus Party Global",
+    "email": "",
+    "twitter": "https://twitter.com/campusparty",
+    "website": "https://campus-party.org/"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/campusparty",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": "https://www.instagram.com/campusparty/"
+  },
+  "description": "Campus Party Brasil is one of the largest technology festivals in the world, featuring hackathons, coding challenges, startup showcases, and immersive experiences focused on innovation, AI, robotics, and digital culture."
+}
