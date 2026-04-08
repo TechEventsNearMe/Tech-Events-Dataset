@@ -1,0 +1,57 @@
+{
+  "name": "Rust Nation UK London",
+  "year_started": 2023,
+  "number_of_events_hosted": 3,
+  "city": "London",
+  "region": "England",
+  "country": "United Kingdom",
+  "continent": "Europe",
+  "website": "https://rustnationuk.com",
+  "sector": [
+    "Software Engineering",
+    "Backend / APIs",
+    "Cloud Computing",
+    "DevOps",
+    "Infrastructure"
+  ],
+  "tags": [
+    "rust",
+    "systems",
+    "backend",
+    "conference"
+  ],
+  "acceptable_tags": [
+    "rust",
+    "systems",
+    "backend",
+    "developers"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/London",
+  "attendee_size": {
+    "min": 400,
+    "max": 1000
+  },
+  "ticket_cost_usual": {
+    "currency": "EURO",
+    "min": 250,
+    "max": 500
+  },
+  "organizer": {
+    "name": "GitNation",
+    "email": "events@gitnation.org",
+    "twitter": "https://x.com/gitnationorg",
+    "website": "https://gitnation.org"
+  },
+  "socials": {
+    "twitter": "https://x.com/RustNationUK",
+    "linkedin": "https://www.linkedin.com/company/rust-nation/",
+    "youtube": "https://www.youtube.com/rustnationuk",
+    "instagram": ""
+  },
+  "description": "Rust Nation UK London is a European conference dedicated to Rust and systems-level software engineering. Organized by GitNation, the event brings together backend engineers, infrastructure developers, and DevOps practitioners to explore Rust for high-performance systems, cloud infrastructure, and reliable backend APIs through expert talks, workshops, and networking."
+}
