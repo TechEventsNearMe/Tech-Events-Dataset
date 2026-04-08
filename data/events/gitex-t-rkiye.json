@@ -1,0 +1,62 @@
+{
+  "name": "GITEX Türkiye",
+  "year_started": 2024,
+  "number_of_events_hosted": 3,
+  "city": "Istanbul",
+  "region": "Marmara",
+  "country": "Turkey",
+  "continent": "Asia",
+  "website": "https://gitexturkiye.com",
+  "sector": [
+    "AI",
+    "FinTech",
+    "Security",
+    "Cloud Computing",
+    "Game Development",
+    "ClimateTech / GreenTech"
+  ],
+  "tags": [
+    "gitex",
+    "turkey",
+    "AI",
+    "fintech",
+    "cloud",
+    "security"
+  ],
+  "acceptable_tags": [
+    "gitex",
+    "turkiye",
+    "istanbul",
+    "tech",
+    "conference"
+  ],
+  "type": "in-person",
+  "languages": [
+    "Turkish",
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Istanbul",
+  "attendee_size": {
+    "min": 5000,
+    "max": 30000
+  },
+  "ticket_cost_usual": {
+    "currency": "TRY",
+    "min": 100,
+    "max": 1000
+  },
+  "organizer": {
+    "name": "GITEX Global",
+    "email": " marketing@gitexturkiye.com",
+    "twitter": "https://x.com/GitexTurkiye",
+    "website": "https://gitexturkiye.com"
+  },
+  "socials": {
+    "facebook": "https://web.facebook.com/profile.php?id=61581518233324&_rdc=1&_rdr",
+    "twitter": "https://x.com/GitexTurkiye",
+    "youtube": "https://www.youtube.com/@GITEX_T%C3%BCrkiye",
+    "instagram": "https://www.instagram.com/gitex_turkiye/"
+  },
+  "description": "GITEX Türkiye is a major international tech expo covering AI, FinTech, cybersecurity, cloud, gaming, and green technologies."
+}
