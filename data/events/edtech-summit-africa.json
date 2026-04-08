@@ -1,0 +1,57 @@
+{
+  "name": "EdTech Summit Africa",
+  "year_started": 2013,
+  "number_of_events_hosted": 40,
+  "city": "Accra",
+  "region": "Greater Accra",
+  "country": "Ghana",
+  "continent": "Africa",
+  "website": "https://edtechsummitafrica.com/",
+  "sector": [
+    "EdTech",
+    "Innovation",
+    "Digital Transformation",
+    "AI"
+  ],
+  "tags": [
+    "edtech",
+    "africa",
+    "education",
+    "innovation",
+    "conference"
+  ],
+  "acceptable_tags": [
+    "edtech",
+    "innovation",
+    "education",
+    "africa"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Africa/Accra",
+  "attendee_size": {
+    "min": 100,
+    "max": 2400
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 0,
+    "max": 0
+  },
+  "organizer": {
+    "name": "EdTech Africa",
+    "email": "edtechsummitafrica@gmail.com",
+    "twitter": "https://x.com/edTechSummitsA",
+    "website": "https://edtechsummitafrica.com"
+  },
+  "socials": {
+    "twitter": "https://x.com/edTechSummitsA",
+    "linkedin": "https://www.linkedin.com/company/edtech-africa-summit/",
+    "youtube": "https://www.youtube.com/@edtechsummitafrica2711",
+    "instagram": "https://www.instagram.com/edtechsummitafrica/"
+  },
+  "description": "EdTech Summit Africa (ETSA) is an innovative professional development program that provides free hands-on technology training to educators and school leaders across Africa. Rather than a single annual event in Accra, ETSA operates through regional tours and collaborative workshops designed to empower teachers in underserved and under-resourced environments. The summit gathers local and global education experts to share 21st-century instructional strategies, focusing on digital literacy, education equity, and creative classroom technologies to improve student engagement and achievement."
+}
