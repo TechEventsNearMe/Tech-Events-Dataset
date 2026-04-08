@@ -1,0 +1,50 @@
+{
+  "name": "JSWORLD Conference",
+  "year_started": 2017,
+  "city": "Amsterdam",
+  "region": "North Holland",
+  "country": "Netherlands",
+  "continent": "Europe",
+  "website": "https://jsworldconference.com/",
+  "sector": [
+    "Frontend / Web Development",
+    "Software Engineering"
+  ],
+  "acceptable_tags": [
+    "javascript",
+    "react",
+    "vue",
+    "angular",
+    "nextjs",
+    "performance",
+    "innovation"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Amsterdam",
+  "attendee_size": {
+    "min": 1500,
+    "max": 3000
+  },
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 199,
+    "max": 1198
+  },
+  "organizer": {
+    "name": "Frontend Love",
+    "email": "hello@jsworldconference.com",
+    "twitter": "https://x.com/jsworldconf",
+    "website": "https://frontenddeveloperlove.com"
+  },
+  "socials": {
+    "twitter": "https://x.com/jsworldconf",
+    "linkedin": "https://linkedin.com/company/jsworldconference",
+    "youtube": "https://www.youtube.com/@jsworldconference",
+    "instagram": "https://instagram.com/jsworldconf"
+  },
+  "description": "JSWORLD Conference is one of the largest and most vibrant JavaScript-focused events globally, returning February 17–20, 2026 to Theater Amsterdam. It brings together frontend developers, engineers, and framework enthusiasts for multiple days of keynotes, talks, workshops, and networking centered on modern JavaScript, React, Vue, Angular, Next.js, performance optimization, tooling, state management, and emerging web technologies with top international speakers and community-driven content."
+}
