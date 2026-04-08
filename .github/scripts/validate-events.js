@@ -1,50 +1,8 @@
 const fs = require("fs");
 const path = require("path");
-const axios = require("axios");
 
-const TIMEOUT = 5000; // 5 second timeout per URL
+const urls = [];
 const errors = [];
-
-// Helper function to validate URLs
-async function isValidUrl(url) {
-  if (!url || typeof url !== "string") {
-    return false;
-  }
-
-  try {
-    // Basic URL format check
-    const urlObj = new URL(url);
-
-    // Check if it's http or https
-    if (!["http:", "https:"].includes(urlObj.protocol)) {
-      return false;
-    }
-
-    // Verify the link is accessible (HEAD request, fallback to GET)
-    try {
-      await axios.head(url, {
-        timeout: TIMEOUT,
-        maxRedirects: 5,
-        validateStatus: (status) => status < 400 // Accept 2xx and 3xx
-      });
-      return true;
-    } catch (err) {
-      // If HEAD fails, try GET
-      try {
-        await axios.get(url, {
-          timeout: TIMEOUT,
-          maxRedirects: 5,
-          validateStatus: (status) => status < 400
-        });
-        return true;
-      } catch {
-        return false;
-      }
-    }
-  } catch {
-    return false;
-  }
-}
 
 // Get all event files from the repo
 function getAllEventFiles() {
@@ -96,32 +54,29 @@ function loadExistingEvents() {
   return events;
 }
 
-// Validate all URLs in an event object
-async function validateEventUrls(event) {
+// Extract all URLs from an event object
+function extractEventUrls(event, fileName) {
   const urlFields = [
     "website",
     "organizer.website",
-     "organizer.twitter",
+    "organizer.twitter",
     "socials.twitter",
     "socials.linkedin",
     "socials.youtube",
     "socials.instagram"
   ];
 
-  const failedUrls = [];
+  const eventUrls = [];
 
   for (const field of urlFields) {
     const value = getNestedValue(event, field);
 
     if (value) {
-      const isValid = await isValidUrl(value);
-      if (!isValid) {
-        failedUrls.push({ field, url: value });
-      }
+      eventUrls.push({ field, url: value });
     }
   }
 
-  return failedUrls;
+  return eventUrls;
 }
 
 // Helper to get nested object values
@@ -129,8 +84,8 @@ function getNestedValue(obj, path) {
   return path.split(".").reduce((current, prop) => current?.[prop], obj);
 }
 
-// Main validation function
-async function validateNewEvents() {
+// Main function to extract URLs
+async function extractNewEventUrls() {
   // Read changed files
   const changedFiles = fs
     .readFileSync("changed_files.txt", "utf8")
@@ -145,7 +100,7 @@ async function validateNewEvents() {
   // Load existing events
   const existingEvents = loadExistingEvents();
 
-  // Validate each new/modified event
+  // Extract URLs from each new/modified event
   for (const file of changedFiles) {
     if (!fs.existsSync(file)) continue;
 
@@ -168,46 +123,62 @@ async function validateNewEvents() {
     }
 
     // Check 2: Duplicate website check
-    if (event.website && existingEvents[event.website]) {
-      const existing = existingEvents[event.website];
-      const otherFiles = existing.files.filter((f) => f !== file);
-      if (otherFiles.length > 0) {
-        errors.push(
-          `❌ **${file}**: Event website \`${event.website}\` already exists in:\n   - ${otherFiles.join("\n   - ")}`
-        );
-      } else {
-        console.log(`✓ ${file} - No duplicate website`);
-      }
-    } else {
-      console.log(`✓ ${file} - No duplicate website`);
-    }
+  if (event.website && existingEvents[event.website]) {
+  const existing = existingEvents[event.website];
+  const otherFiles = existing.files.filter((f) => f !== file);
+  if (otherFiles.length > 0) {
+    errors.push(
+      `❌ **${file}**: Event website \`${event.website}\` already exists in:\n   - ${otherFiles.join("\n   - ")}`
+    );
+  }
+}
+console.log(`✓ ${file} - No duplicate website`);
 
-    // Check 3: Validate all URLs
-    console.log(`\nValidating URLs in ${file}...`);
-    const failedUrls = await validateEventUrls(event);
+    // Extract all URLs
+    console.log(`\nExtracting URLs from ${file}...`);
+    const eventUrls = extractEventUrls(event, file);
     
-    if (failedUrls.length > 0) {
-      const urlErrors = failedUrls
-        .map(fu => `   - ${fu.field}: \`${fu.url}\``)
-        .join('\n');
-      errors.push(`❌ **${file}**: Invalid or unreachable URLs\n${urlErrors}`);
+    if (eventUrls.length > 0) {
+      urls.push({
+        file,
+        eventName: event.name,
+        urls: eventUrls
+      });
     }
 
-    console.log(`✓ ${file} passed validation`);
+    console.log(`✓ ${file} - Extracted ${eventUrls.length} URLs`);
   }
 
-  // Write errors to file for PR comment
+  // Write errors and URLs to files for PR comment
+  let commentBody = "";
+
   if (errors.length > 0) {
-    const errorMessage = `### ❌ Validation Errors Found\n\n${errors.join('\n\n')}\n\n---\n\n**Please fix the above issues and push a new commit.**`;
-    fs.writeFileSync('validation-errors.txt', errorMessage);
+    commentBody += `### ❌ Validation Errors Found\n\n${errors.join('\n\n')}\n\n---\n\n`;
+  }
+
+  if (urls.length > 0) {
+    commentBody += `### 🔗 Extracted URLs\n\n`;
+    
+    urls.forEach(item => {
+      commentBody += `#### ${item.eventName} (\`${item.file}\`)\n\n`;
+      item.urls.forEach(urlItem => {
+        commentBody += `- **${urlItem.field}**: ${urlItem.url}\n`;
+      });
+      commentBody += `\n`;
+    });
+  }
+
+  if (commentBody) {
+    fs.writeFileSync('pr-comment.txt', commentBody);
+  }
+
+  if (errors.length > 0) {
     process.exit(1);
-  } else {
-    console.log('\n✅ All validations passed!');
   }
 }
 
-// Run validation
-validateNewEvents().catch(err => {
-  console.error('Validation script error:', err);
+// Run extraction
+extractNewEventUrls().catch(err => {
+  console.error('Extraction script error:', err);
   process.exit(1);
 });
