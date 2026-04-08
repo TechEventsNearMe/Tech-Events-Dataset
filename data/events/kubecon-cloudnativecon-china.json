@@ -1,0 +1,58 @@
+{
+  "name": "KubeCon + CloudNativeCon China",
+  "year_started": 2018,
+  "number_of_events_hosted": 7,
+  "city": "Hong Kong",
+  "region": "Hong Kong",
+  "country": "China",
+  "continent": "Asia",
+  "website": "https://events.linuxfoundation.org/kubecon-cloudnativecon-china",
+  "sector": [
+    "Cloud Computing",
+    "DevOps",
+    "Infrastructure",
+    "AI",
+    "SRE / Reliability"
+  ],
+  "tags": [
+    "conference",
+    "kubernetes",
+    "cloud-native",
+    "devops",
+    "open-source"
+  ],
+  "acceptable_tags": [
+    "kubecon",
+    "cncf",
+    "cloud-native"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "frequency": "annual",
+  "timezone": "Asia/Hong_Kong",
+  "attendee_size": {
+    "min": 2000,
+    "max": 4000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 50,
+    "max": 299
+  },
+  "organizer": {
+    "name": "Cloud Native Computing Foundation & The Linux Foundation",
+    "email": "",
+    "twitter": "",
+    "website": ""
+  },
+  "socials": {
+    "twitter": "",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": ""
+  },
+  "description": "KubeCon + CloudNativeCon China brings together adopters and technologists from leading open source and cloud native communities. The event features deep technical content on Kubernetes, cloud native architectures, AI, and the open source ecosystem, with sessions from companies like Alibaba Cloud, ByteDance, DaoCloud, and Huawei."
+}
