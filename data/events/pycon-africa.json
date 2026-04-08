@@ -34,7 +34,7 @@
   "timezone": "Africa/Kampala",
   "attendee_size": {
     "min": 300,
-    "max": 600
+    "max": 500
   },
   "ticket_cost_usual": {
     "currency": "USD",
@@ -43,13 +43,13 @@
   },
   "organizer": {
     "name": "Python Africa",
-    "email": "contact@pycon.africa",
+    "email": "team@pycon.africa",
     "twitter": "https://twitter.com/pyconafrica",
     "website": "https://africa.pycon.org"
   },
   "socials": {
     "twitter": "https://twitter.com/pyconafrica",
-    "linkedin": "https://www.linkedin.com/company/pycon-africa/",
+    "linkedin": "https://na.linkedin.com/company/pyconafrica?",
     "youtube": "https://www.youtube.com/@PyConAfrica",
     "instagram": "https://www.instagram.com/pyconafrica/"
   },
