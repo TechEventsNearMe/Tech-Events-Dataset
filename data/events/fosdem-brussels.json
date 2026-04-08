@@ -1,0 +1,52 @@
+{
+  "name": "FOSDEM Brussels",
+  "year_started": 2000,
+  "city": "Brussels",
+  "region": "Brussels-Capital Region",
+  "country": "Belgium",
+  "continent": "Europe",
+  "website": "https://fosdem.org/2026/",
+  "sector": [
+    "Software Engineering",
+    "DevOps",
+    "Infrastructure",
+    "Security",
+    "Embedded Systems"
+  ],
+  "acceptable_tags": [
+    "open-source",
+    "devrooms",
+    "community",
+    "free software",
+    "lightning talks",
+    "stands"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Brussels",
+  "attendee_size": {
+    "min": 2000,
+    "max": 12000
+  },
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 0,
+    "max": 0
+  },
+  "organizer": {
+    "name": "FOSDEM vzw",
+    "email": "info@fosdem.org",
+    "twitter": "https://twitter.com/fosdem",
+    "website": "https://fosdem.org"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/fosdem",
+    "linkedin": "https://www.linkedin.com/company/fosdem/",
+    "youtube": "https://www.youtube.com/@fosdem",
+    "instagram": ""
+  },
+  "description": "FOSDEM is Europe's premier free and open source software developers' meeting, returning January 31 – February 1, 2026 to the ULB Campus Solbosch in Brussels, Belgium. Completely free to attend with no registration required, it features over 800 talks, 80+ developer rooms, lightning talks, stands, certification exams, and community networking focused on a vast range of open source topics from kernel development and security to AI, embedded systems, and graphics in a volunteer-organized, non-commercial atmosphere."
+}
