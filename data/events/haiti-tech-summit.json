@@ -1,0 +1,63 @@
+{
+  "name": "Haiti Tech Summit",
+  "year_started": 2017,
+  "number_of_events_hosted": 9,
+  "city": "Port-au-Prince",
+  "region": "Ouest",
+  "country": "Haiti",
+  "continent": "North America",
+  "website": "https://haititechsummit.com",
+  "sector": [
+    "Startup / Entrepreneurship",
+    "Innovation",
+    "AI",
+    "Cloud Computing",
+    "FinTech",
+    "Digital Transformation",
+    "Tech Leadership"
+  ],
+  "tags": [
+    "haiti",
+    "tech-summit",
+    "entrepreneurship",
+    "AI",
+    "innovation",
+    "startup"
+  ],
+  "acceptable_tags": [
+    "haiti-tech-summit",
+    "haiti",
+    "caribbean",
+    "tech",
+    "summit"
+  ],
+  "type": "hybrid",
+  "languages": [
+    "English",
+    "French"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Port-au-Prince",
+  "attendee_size": {
+    "min": 1000,
+    "max": 5000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 50,
+    "max": 500
+  },
+  "organizer": {
+    "name": "Global Startup Ecosystem",
+    "email": "info@haititechsummit.com",
+    "twitter": "https://twitter.com/HaitiTechSummit",
+    "website": "https://haititechsummit.com"
+  },
+  "socials": {
+    "linkedin": "https://ng.linkedin.com/company/haititechsummit?",
+    "twitter": "https://twitter.com/HaitiTechSummit",
+    "youtube": "",
+    "instagram": "https://www.instagram.com/haititechsummit"
+  },
+  "description": "Deemed the 'Davos of the Caribbean', Haiti Tech Summit is the largest tech program in the region. It brings together entrepreneurs, investors, celebrities, and global organizations such as Google, Facebook, Airbnb, and Mastercard to accelerate Haiti’s tech ecosystem. The summit is part of a 13-year initiative to transform Haiti into an international tech hub by 2030."
+}
