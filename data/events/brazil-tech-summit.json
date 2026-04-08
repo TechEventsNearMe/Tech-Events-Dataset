@@ -6,7 +6,7 @@
   "region": "São Paulo",
   "country": "Brazil",
   "continent": "South America",
-  "website": "https://allevents.in/s%C3%A3o-paulo/brazil-tech-summit/1000065499469677",
+  "website": "https://rio.websummit.com/pt-br/",
   "sector": [
     "Startup / Entrepreneurship",
     "Innovation",
@@ -46,15 +46,15 @@
   "organizer": {
     "name": "Global Startup Ecosystem",
     "email": "info@globalstartupecosystem.com",
-    "twitter": "https://x.com/allevents_in",
+    "twitter": "https://x.com/WebSummit",
     "website": "https://globalstartupecosystem.com"
   },
   "socials": {
-    "linkedin": "",
-    "twitter": "https://x.com/allevents_in",
-    "youtube": "https://www.youtube.com/@allevents-in",
-    "facebook": "https://web.facebook.com/allevents.in?_rdc=1&_rdr",
-    "instagram": "https://www.instagram.com/allevents_official/"
+    "linkedin": "https://www.linkedin.com/company/web-summit",
+    "twitter": "https://x.com/WebSummit",
+    "youtube": "https://www.youtube.com/@WebSummit",
+    "facebook": "https://web.facebook.com/WebSummitHQ/",
+    "instagram": "https://www.instagram.com/WebSummit"
   },
   "description": "Brazil Tech Summit is an international program featuring 100 global speakers and partners passionate about the future of Brazil. It focuses on entrepreneurship, innovation, and digital transformation."
 }
