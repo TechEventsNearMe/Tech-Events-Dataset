@@ -1,0 +1,53 @@
+{
+  "name": "Devoxx Belgium",
+  "year_started": 2001,
+  "city": "Antwerp",
+  "region": "Antwerp Province",
+  "country": "Belgium",
+  "continent": "Europe",
+  "website": "https://devoxx.be/",
+  "sector": [
+    "Software Engineering",
+    "Architecture",
+    "DevOps",
+    "Cloud Computing",
+    "AI",
+    "Security"
+  ],
+  "acceptable_tags": [
+    "java",
+    "jvm",
+    "deep-dives",
+    "hands-on",
+    "innovation",
+    "dev"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Brussels",
+  "attendee_size": {
+    "min": 3000,
+    "max": 4000
+  },
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 445,
+    "max": 1140
+  },
+  "organizer": {
+    "name": "BeJUG (Belgian Java User Group)",
+    "email": "info@devoxx.com",
+    "twitter": "https://x.com/Devoxx",
+    "website": "https://devoxx.be"
+  },
+  "socials": {
+    "twitter": "https://x.com/Devoxx",
+    "linkedin": "https://www.linkedin.com/company/9185591",
+    "youtube": "https://www.youtube.com/@DevoxxForever",
+    "instagram": "https://instagram.com/devoxxbe"
+  },
+  "description": "Devoxx Belgium is the largest vendor-independent developer conference in Belgium and one of the premier JVM/Java-focused events worldwide, returning October 5–9, 2026 to Kinepolis Antwerp. It features two days of Deep Dives (in-depth workshops and hands-on labs) followed by three days of conference with keynotes, quickies, Tools-in-Action, and BOF sessions covering software architecture, cloud-native development, AI, security, DevOps, modern languages on the JVM, and emerging trends for experienced developers, architects, and tech leads."
+}
