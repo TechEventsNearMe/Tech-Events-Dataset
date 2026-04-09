@@ -1,0 +1,69 @@
+{
+  "name": "INFORMATICA 2026",
+  "year_started": 1988,
+  "number_of_events_hosted": 20,
+  "city": "Havana",
+  "region": "Havana",
+  "country": "Cuba",
+  "continent": "North America",
+  "website": "https://www.informaticahabana.cu/en_GB/",
+  "sector": [
+    "Software Engineering",
+    "Cloud Computing",
+    "AI",
+    "Machine Learning",
+    "Big Data",
+    "Analytics",
+    "Digital Transformation",
+    "Innovation",
+    "Security",
+    "Privacy & Compliance",
+    "Startup / Entrepreneurship",
+    "Tech Leadership"
+  ],
+  "tags": [
+    "informatics",
+    "cuba",
+    "digital-transformation",
+    "AI",
+    "ICT",
+    "conference",
+    "fair"
+  ],
+  "acceptable_tags": [
+    "informatica",
+    "cuba",
+    "havana",
+    "ict",
+    "digital-transformation"
+  ],
+  "type": "in-person",
+  "languages": [
+    "Spanish",
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Havana",
+  "attendee_size": {
+    "min": 2000,
+    "max": 8000
+  },
+  "ticket_cost_usual": {
+    "currency": "USD",
+    "min": 120,
+    "max": 12000
+  },
+  "organizer": {
+    "name": "Ministry of Communications of Cuba",
+    "email": "informaticahabana@mincom.gob.cu",
+    "twitter": "",
+    "website": "https://www.informaticahabana.cu"
+  },
+  "socials": {
+    "linkedin": "",
+    "twitter": "",
+    "youtube": "https://www.youtube.com/@cubatravelcu",
+    "instagram": ""
+  },
+  "description": "INFORMÁTICA 2026 is Cuba’s largest international convention and fair on ICT, held at Pabexpo in Havana from March 24–27, 2026. Under the slogan 'Digital Transformation for Sustainable Development,' it promotes innovation, networking, and strategic debates aligned with the Cuban Digital Agenda. Note: Although listed as 'annual' for schema compliance, the event is actually biennial."
+}
