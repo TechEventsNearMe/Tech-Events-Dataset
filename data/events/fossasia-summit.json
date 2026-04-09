@@ -58,7 +58,7 @@
     "gitter": "https://app.gitter.im/#/login/fossasia",
     "telegram": "https://t.me/fossasia",
     "weblate": "https://hosted.weblate.org/engage/fossasia/",
-    "google-group": "https://groups.google.com/g/fossasia",
+    "google-group": "",
     "instagram": "https://www.instagram.com/fossasia"
   },
   "description": "FOSSASIA Summit is Asia's premier open technology conference bringing together developers, tech companies, startups, and contributors. The event features workshops, talks, and exhibitions covering open source software, open hardware, AI, blockchain, and emerging technologies. The summit includes co-located events like PGDay focusing on PostgreSQL."
