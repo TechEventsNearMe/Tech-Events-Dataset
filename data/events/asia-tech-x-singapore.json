@@ -34,8 +34,8 @@
   "frequency": "annual",
   "timezone": "Asia/Singapore",
   "attendee_size": {
-    "min": 20000,
-    "max": 25000
+    "min": 3000,
+    "max": 22000
   },
   "ticket_cost_usual": {
     "currency": "SGD",
