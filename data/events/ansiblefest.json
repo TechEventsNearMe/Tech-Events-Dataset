@@ -2,8 +2,8 @@
   "name": "AnsibleFest",
   "year_started": 2014,
   "number_of_events_hosted": 8,
-  "city": "Boston",
-  "region": "Massachusetts",
+  "city": "Atlanta",
+  "region": "Georgia",
   "country": "United States",
   "continent": "North America",
   "website": "https://www.ansible.com/ansiblefest",
@@ -33,7 +33,7 @@
   "ticket_cost_usual": {
     "currency": "USD",
     "min": 250,
-    "max": 1200
+    "max": 1999
   },
   "organizer": {
     "name": "Red Hat / Ansible",
