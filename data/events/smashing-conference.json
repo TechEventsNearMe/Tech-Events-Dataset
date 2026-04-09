@@ -39,7 +39,7 @@
 
   "attendee_size": { "min": 500, "max": 1000 },
 
-  "ticket_cost_usual": { "currency": "USD", "min": 0, "max": 549 },
+  "ticket_cost_usual": { "currency": "USD", "min": 0, "max": 549 },       //as at time of writing
 
   "organizer": {
     "name": "Smashing Magazine",
