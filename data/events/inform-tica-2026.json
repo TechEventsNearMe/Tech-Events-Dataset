@@ -50,12 +50,12 @@
   },
   "ticket_cost_usual": {
     "currency": "USD",
-    "min": 50,
-    "max": 300
+    "min": 120,
+    "max": 12000
   },
   "organizer": {
     "name": "Ministry of Communications of Cuba",
-    "email": "info@informaticahabana.cu",
+    "email": "informaticahabana@mincom.gob.cu",
     "twitter": "",
     "website": "https://www.informaticahabana.cu"
   },
