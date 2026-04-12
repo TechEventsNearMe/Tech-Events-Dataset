@@ -1,0 +1,57 @@
+{
+  "name": "Rio Innovation Week",
+  "year_started": 2021,
+  "number_of_events_hosted": 5,
+  "city": "Rio de Janeiro",
+  "region": "Rio de Janeiro",
+  "country": "Brazil",
+  "continent": "South America",
+  "website": "https://rioinnovationweek.com.br",
+  "sector": [
+    "AI",
+    "Digital Transformation",
+    "Startup / Entrepreneurship",
+    "ClimateTech / GreenTech",
+    "FinTech"
+  ],
+  "tags": [
+    "innovation",
+    "AI"
+  ],
+  "acceptable_tags": [
+    "rio-innovation-week",
+    "brazil",
+    "startup",
+    "digital-transformation",
+    "green-tech"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "America/Sao_Paulo",
+  "attendee_size": {
+    "min": 50000,
+    "max": 150000
+  },
+  "ticket_cost_usual": {
+    "currency": "BRL",
+    "min": 50,
+    "max": 500
+  },
+  "organizer": {
+    "name": "Rio Innovation Week Committee",
+    "email": "info@rioinnovationweek.com.br",
+    "twitter": "",
+    "website": "https://rioinnovationweek.com.br"
+  },
+  "socials": {
+    "facebook": "https://web.facebook.com/rioinnovationweek/?locale=pt_BR&_rdc=1&_rdr",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/company/rioinnovationweek/?originalSubdomain=br",
+    "youtube": "https://www.youtube.com/c/RioInnovationWeek",
+    "instagram": "https://www.instagram.com/rioinnovationweek/"
+  },
+  "description": "Rio Innovation Week is Brazil’s largest innovation event, bringing together startups, investors, and global leaders to discuss AI, sustainability, and digital transformation."
+}
