@@ -43,6 +43,7 @@
 
   "ticket_cost_usual": {
     "currency": "USD",
+    "amount": "what you can pay",
     "min": 0,
     "max": 500
   },
