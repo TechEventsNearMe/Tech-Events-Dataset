@@ -1,0 +1,50 @@
+{
+  "name": "PromCon / Prometheus Conference",
+  "year_started": 2017,
+  "number_of_events_hosted": 6,
+  "city": "Berlin",
+  "region": "Berlin",
+  "country": "Germany",
+  "continent": "Europe",
+  "website": "https://promcon.io",
+  "sector": [
+    "Infrastructure",
+    "DevOps"
+  ],
+  "tags": [
+    "conference",
+    "prometheus"
+  ],
+  "acceptable_tags": [
+    "observability",
+    "prometheus"
+  ],
+  "type": "in-person",
+  "languages": [
+    "English"
+  ],
+  "frequency": "annual",
+  "timezone": "Europe/Berlin",
+  "attendee_size": {
+    "min": 300,
+    "max": 1200
+  },
+  "ticket_cost_usual": {
+    "currency": "EUR",
+    "min": 150,
+    "max": 800
+  },
+  "organizer": {
+    "name": "PromCon Organizers",
+    "email": "",
+    "twitter": "",
+    "website": "https://promcon.io"
+  },
+  "socials": {
+    "twitter": "",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": ""
+  },
+  "description": "PromCon focuses on Prometheus and observability, bringing together developers and operators to discuss monitoring, metrics, and best practices."
+}
