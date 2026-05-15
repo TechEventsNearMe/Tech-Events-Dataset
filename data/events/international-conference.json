@@ -1,0 +1,58 @@
+{
+  "name": "International Conference",
+  "year_started": 1976,
+  "number_of_events_hosted": 49,
+
+  "city": "Seoul",
+  "region": "Seoul",
+  "country": "South Korea",
+  "continent": "Asia",
+
+  "website": "https://2025.ieeeicassp.org",
+
+  "sector": [
+    "AI",
+    "Machine Learning",
+    "Data Science"
+  ],
+
+  "tags": [
+    "conference",
+    "signal-processing",
+    "speech"
+  ],
+
+  "acceptable_tags": [
+    "ai",
+    "ml",
+    "signal"
+  ],
+
+  "type": "in-person",
+
+  "languages": ["English"],
+
+  "frequency": "annual",
+
+  "timezone": "Asia/Seoul",
+
+  "attendee_size": { "min": 2000, "max": 5000 },
+
+  "ticket_cost_usual": { "currency": "USD", "min": 400, "max": 1200 },
+
+  "organizer": {
+    "name": "IEEE Signal Processing Society",
+    "email": "",
+    "twitter": "https://twitter.com/ieeesps",
+    "website": "https://signalprocessingsociety.org"
+  },
+
+  "socials": {
+    "twitter": "https://twitter.com/ieeesps",
+    "linkedin": "https://www.linkedin.com/company/ieee-signal-processing-society",
+    "youtube": "https://www.youtube.com/ieeeSPS",
+    "instagram": "https://www.instagram.com/ieeesps/?hl=en"
+  },
+
+  "description": "International Conference on Acoustics, Speech, and Signal Processing is the flagship conference of the IEEE Signal Processing Society, covering advances in acoustics, speech, audio, and machine learning applications."
+}
